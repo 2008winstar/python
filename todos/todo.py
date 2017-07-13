@@ -4,4 +4,4 @@ def create_todo(todos, title, description, level):
         'description': description,
         'level': level
     })
-print __name__
+print(__name__)

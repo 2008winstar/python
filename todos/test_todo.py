@@ -10,6 +10,6 @@ def test_create_todo():
     assert (todo.todos[0]['description'] == 'Stuff needs to be programmed')
     assert todo.todos[0]['level'] == 'Important'
 
-    print 'ok - create_todo'
+    print('ok - create_todo')
 
 test_create_todo()
