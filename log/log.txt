@@ -1,0 +1,999 @@
+2017-11-01 15:05:09||||{"dns":"0ms","tcp":"79ms (62ms)","request":"91ms","response":"22ms","domLoaded":"1430ms (1134ms)","loadEvent":"4ms","total":"1860ms (1856ms)","apn":""}
+2017-11-01 15:05:13|dbfc33c638ca58df6a99211513b788cb|||{"dns":"0ms","tcp":"73ms","request":"102ms","response":"16ms","domLoaded":"5572ms (5569ms)","loadEvent":"1ms","total":"6103ms (6102ms)","apn":""}
+2017-11-01 15:05:37|b46d3e41379dd0d86f364e1413b788cb||1:2304722657|{"dns":"0ms","tcp":"111ms (71ms)","request":"59ms","response":"4ms","domLoaded":"996ms (995ms)","loadEvent":"1ms","total":"1538ms (1537ms)","apn":""}
+2017-11-01 15:07:28|74658ba099d6a8f6c01e29ba117d88cb||1:211618129|{"dns":"215ms","tcp":"205ms (152ms)","request":"83ms","response":"7ms","domLoaded":"677ms (466ms)","loadEvent":"1ms","total":"1214ms (1213ms)","apn":"ctlte"}
+2017-11-01 15:08:39|5b4aa48fb68819e0e9886e9510ee88cb||1:513948410|{"dns":"144ms","tcp":"248ms (185ms)","request":"82ms","response":"6ms","domLoaded":"1706ms (1391ms)","loadEvent":"1ms","total":"2212ms (2210ms)","apn":"wonet"}
+2017-11-01 15:08:44|7d7bda5c90f05819cace71b3100e88cb|||{"dns":"0ms","tcp":"38ms","request":"61ms","response":"15ms","domLoaded":"321ms (320ms)","loadEvent":"3ms","total":"794ms (791ms)","apn":""}
+2017-11-01 15:08:45|||1:574439533|{"dns":"0ms","tcp":"0ms","request":"0ms","response":"319ms","domLoaded":"554ms (380ms)","loadEvent":"0ms","total":"1206ms (1206ms)"}
+2017-11-01 15:08:57|15dabaaff913290ea262d3db113c88cb|IQB79_GA/793650&IMTT_3/793650&IPH&407140&iPhone91&50001&10132&iOS11.0.3&V3|2:o9GiTuPI8hLIblMyYLcDMZBuha6Q|{"dns":"0ms","tcp":"0ms","request":"0ms","response":"77ms","domLoaded":"34ms (31ms)","loadEvent":"0ms","total":"113ms (113ms)","apn":"wifi"}
+2017-11-01 15:09:00|15dabaaff913290ea262d3db113c88cb|IQB79_GA/793650&IMTT_3/793650&IPH&407140&iPhone91&50001&10132&iOS11.0.3&V3|2:o9GiTuPI8hLIblMyYLcDMZBuha6Q|{"dns":"0ms","tcp":"0ms","request":"0ms","response":"85ms","domLoaded":"32ms (27ms)","loadEvent":"0ms","total":"119ms (119ms)","apn":"wifi"}
+2017-11-01 15:09:06|b3a24c675e16fc96063a447d100588cb|||{"dns":"0ms","tcp":"3ms","request":"840ms","response":"20ms","domLoaded":"1480ms (1477ms)","loadEvent":"9ms","total":"3786ms (3777ms)","apn":""}
+2017-11-01 15:09:30||||{"dns":"1ms","tcp":"116ms (89ms)","request":"53ms","response":"4ms","domLoaded":"750ms (464ms)","loadEvent":"0ms","total":"1147ms (1147ms)","apn":""}
+2017-11-01 15:09:40|1fd0b0a5fc9b1090aa691dd113b788cb|||{"dns":"0ms","tcp":"86ms","request":"100ms","response":"22ms","domLoaded":"897ms (891ms)","loadEvent":"0ms","total":"2325ms (2324ms)","apn":""}
+2017-11-01 15:09:50||||{"dns":"0ms","tcp":"0ms","request":"67ms","response":"2ms","domLoaded":"658ms (651ms)","loadEvent":"1ms","total":"830ms (829ms)","apn":""}
+2017-11-01 15:10:03|9ffde8e67ee8045e2692a651377988cb||1:844343984|{"dns":"0ms","tcp":"0ms","request":"3ms","response":"10ms","domLoaded":"517ms (500ms)","loadEvent":"0ms","total":"566ms (565ms)","apn":""}
+2017-11-01 15:10:06|6c4b84718efa8517d8c9afa212db88cb|||{"dns":"0ms","tcp":"0ms","request":"82ms","response":"5ms","domLoaded":"902ms (575ms)","loadEvent":"1ms","total":"1521ms (1520ms)","apn":"ctlte"}
+2017-11-01 15:10:14|||1:952082893|{"dns":"0ms","tcp":"0ms","request":"0ms","response":"261ms","domLoaded":"312ms (311ms)","loadEvent":"0ms","total":"586ms (586ms)"}
+2017-11-01 15:10:29|a36524dd214646c77835ea0313b788cb|||{"dns":"0ms","tcp":"163ms (79ms)","request":"119ms","response":"5ms","domLoaded":"814ms (505ms)","loadEvent":"8ms","total":"1152ms (1144ms)","apn":"wonet"}
+2017-11-01 15:10:52|ae77245b2d8879b975f9260e13b788cb|||{"dns":"43ms","tcp":"45ms","request":"69ms","response":"24ms","domLoaded":"954ms (948ms)","loadEvent":"1ms","total":"2791ms (2789ms)","apn":""}
+2017-11-01 15:12:10||||{"dns":"18ms","tcp":"160ms (132ms)","request":"41ms","response":"54ms","domLoaded":"245ms (158ms)","loadEvent":"1ms","total":"539ms (538ms)"}
+2017-11-01 15:14:21|3f64479bdd6a4e418b4bcef112e588cb|||{"dns":"0ms","tcp":"0ms","request":"65ms","response":"6ms","domLoaded":"436ms (373ms)","loadEvent":"1ms","total":"804ms (803ms)","apn":"Wlan"}
+2017-11-01 15:14:21|bb74110b56f896040f8eaa75117888cb|||{"dns":"1ms","tcp":"112ms (52ms)","request":"46ms","response":"2ms","domLoaded":"368ms (344ms)","loadEvent":"0ms","total":"557ms (557ms)","apn":"3gnet"}
+2017-11-01 15:15:21||||{"dns":"81ms","tcp":"207ms (129ms)","request":"84ms","response":"4ms","domLoaded":"1817ms (1814ms)","loadEvent":"1ms","total":"2285ms (2284ms)","apn":""}
+2017-11-01 15:15:32|845d0e7106fd71075a950e2413b788cb||1:745862817|{"dns":"13ms","tcp":"90ms (69ms)","request":"31ms","response":"9ms","domLoaded":"3257ms (3255ms)","loadEvent":"1ms","total":"3672ms (3671ms)","apn":""}
+2017-11-01 15:16:37|fcb58601110b314b4867ef32111b88cb|||{"dns":"738ms","tcp":"210ms (156ms)","request":"73ms","response":"10ms","domLoaded":"1028ms (477ms)","loadEvent":"0ms","total":"2539ms (2539ms)","apn":"Wlan"}
+2017-11-01 15:16:57|a56f06dc49cc5ca0130a466b11dd88cb|||{"dns":"0ms","tcp":"0ms","request":"95ms","response":"28ms","domLoaded":"326ms (325ms)","loadEvent":"1ms","total":"1415ms (1414ms)","apn":""}
+2017-11-01 15:17:16||||{"dns":"0ms","tcp":"0ms","request":"250ms","response":"9ms","domLoaded":"395ms (393ms)","loadEvent":"0ms","total":"707ms (707ms)","apn":""}
+2017-11-01 15:17:33|092ee114ea4e9f2fbf6156c712d488cb|||{"dns":"0ms","tcp":"0ms","request":"181ms","response":"30ms","domLoaded":"753ms (751ms)","loadEvent":"8ms","total":"3100ms (3092ms)","apn":""}
+2017-11-01 15:17:44|569cf52fbaf30b16e67e3d9811c188cb|||{"dns":"0ms","tcp":"172ms (77ms)","request":"86ms","response":"7ms","domLoaded":"938ms (666ms)","loadEvent":"0ms","total":"1806ms (1805ms)","apn":"cmnet"}
+2017-11-01 15:18:01||||{"dns":"0ms","tcp":"217ms (84ms)","request":"189ms","response":"17ms","domLoaded":"462ms (412ms)","loadEvent":"1ms","total":"975ms (974ms)","apn":""}
+2017-11-01 15:18:30|845d0e7106fd71075a950e2413b788cb||1:745862817|{"dns":"0ms","tcp":"0ms","request":"2ms","response":"16ms","domLoaded":"409ms (407ms)","loadEvent":"0ms","total":"437ms (437ms)","apn":""}
+2017-11-01 15:19:37|0b42f117e7225de8bff2ccc513b788cb|||{"dns":"0ms","tcp":"40ms","request":"105ms","response":"14ms","domLoaded":"748ms (747ms)","loadEvent":"0ms","total":"2371ms (2370ms)","apn":""}
+2017-11-01 15:19:41|4f80e0f5ac8b7ac1fd561b8113b788cb|||{"dns":"69ms","tcp":"157ms (130ms)","request":"38ms","response":"2ms","domLoaded":"786ms (551ms)","loadEvent":"0ms","total":"1302ms (1302ms)","apn":"Wlan"}
+2017-11-01 15:19:52|1ec794eb9dd4d354c97ba9be11e388cb||2:o9GiTuDw9xaGABaTqkMWPr_oJIq4|{"dns":"0ms","tcp":"0ms","request":"111ms","response":"13ms","domLoaded":"1454ms (891ms)","loadEvent":"1ms","total":"1689ms (1688ms)","apn":"cmnet"}
+2017-11-01 15:20:00||||{"dns":"0ms","tcp":"162ms (89ms)","request":"118ms","response":"5ms","domLoaded":"631ms (631ms)","loadEvent":"0ms","total":"977ms (976ms)","apn":""}
+2017-11-01 15:21:09|19d6b6a3fab375f4a9de7ad713b788cb|||{"dns":"0ms","tcp":"18ms","request":"42ms","response":"103ms","domLoaded":"1308ms (1305ms)","loadEvent":"1ms","total":"3032ms (3031ms)","apn":""}
+2017-11-01 15:21:26|eb24445107e696ba5b02d42513b788cb|||{"dns":"0ms","tcp":"18ms","request":"75ms","response":"19ms","domLoaded":"346ms (345ms)","loadEvent":"0ms","total":"1128ms (1128ms)","apn":""}
+2017-11-01 15:21:57|||1:403525313|{"dns":"0ms","tcp":"0ms","request":"0ms","response":"139ms","domLoaded":"193ms (190ms)","loadEvent":"0ms","total":"303ms (303ms)"}
+2017-11-01 15:22:06|ab8c43b648abff861ba6e66512be88cb|IQB79_GA/793650&IMTT_3/793650&IPH&407140&iPhone84&50001&10132&iOS11.0.3&V3||{"dns":"0ms","tcp":"0ms","request":"0ms","response":"359ms","domLoaded":"197ms (114ms)","loadEvent":"0ms","total":"562ms (562ms)","apn":"4g"}
+2017-11-01 15:22:17||||{"dns":"3ms","tcp":"80ms","request":"89ms","response":"16ms","domLoaded":"547ms (455ms)","loadEvent":"1ms","total":"1485ms (1484ms)","apn":""}
+2017-11-01 15:22:49|c30f4b9c206883ee74ef910d13b788cb|||{"dns":"0ms","tcp":"120ms","request":"223ms","response":"74ms","domLoaded":"9452ms (9440ms)","loadEvent":"1ms","total":"12984ms (12965ms)","apn":""}
+2017-11-01 15:23:16|3611de2bd4fafb78804c0ef812c488cb|||{"dns":"0ms","tcp":"0ms","request":"5ms","response":"8ms","domLoaded":"472ms (417ms)","loadEvent":"8ms","total":"558ms (550ms)","apn":"Wlan"}
+2017-11-01 15:24:09|509fffeab3371b05e67b209e13b788cb|||{"dns":"0ms","tcp":"9ms","request":"60ms","response":"6ms","domLoaded":"515ms (514ms)","loadEvent":"0ms","total":"1205ms (1205ms)","apn":""}
+2017-11-01 15:24:30|f2d51aef11e01426439fd93c13b788cb||1:1414689415|{"dns":"0ms","tcp":"0ms","request":"103ms","response":"18ms","domLoaded":"637ms (631ms)","loadEvent":"1ms","total":"782ms (781ms)","apn":""}
+2017-11-01 15:24:32|22fba8d7a03a3016fbd6548213b788cb|||{"dns":"21ms","tcp":"12ms","request":"19ms","response":"21ms","domLoaded":"545ms (542ms)","loadEvent":"0ms","total":"1334ms (1334ms)","apn":""}
+2017-11-01 15:24:59|91806e457c2528cb2613455f13b788cb||1:349630939|{"dns":"0ms","tcp":"0ms","request":"1ms","response":"13ms","domLoaded":"319ms (315ms)","loadEvent":"1ms","total":"344ms (343ms)","apn":""}
+2017-11-01 15:25:13|5c85d6a9de67ba8e84db8dfc13b788cb|||{"dns":"0ms","tcp":"0ms","request":"98ms","response":"62ms","domLoaded":"616ms (613ms)","loadEvent":"1ms","total":"1826ms (1825ms)","apn":""}
+2017-11-01 15:25:18|73bcdcc990019d3bc78949bd13b788cb||1:513827592|{"dns":"0ms","tcp":"0ms","request":"8ms","response":"21ms","domLoaded":"341ms (336ms)","loadEvent":"0ms","total":"377ms (377ms)","apn":""}
+2017-11-01 15:26:06||||{"dns":"0ms","tcp":"174ms (71ms)","request":"163ms","response":"2ms","domLoaded":"1729ms (1695ms)","loadEvent":"1ms","total":"2341ms (2340ms)","apn":""}
+2017-11-01 15:26:46|b26b3847301c96bc6eff3a1211ab88cb||1:690335216|{"dns":"0ms","tcp":"0ms","request":"6ms","response":"10ms","domLoaded":"729ms (727ms)","loadEvent":"0ms","total":"759ms (759ms)","apn":""}
+2017-11-01 15:27:02|8cc5645060c4b80f396b924213b788cb|||{"dns":"0ms","tcp":"55ms","request":"106ms","response":"11ms","domLoaded":"829ms (828ms)","loadEvent":"0ms","total":"1322ms (1322ms)","apn":""}
+2017-11-01 15:27:06||||{"dns":"96ms","tcp":"131ms (81ms)","request":"88ms","response":"4ms","domLoaded":"2089ms (1606ms)","loadEvent":"2ms","total":"2463ms (2461ms)","apn":""}
+2017-11-01 15:27:49|||1:997113353|{"dns":"0ms","tcp":"0ms","request":"0ms","response":"274ms","domLoaded":"1175ms (1174ms)","loadEvent":"0ms","total":"1466ms (1466ms)"}
+2017-11-01 15:28:00||||{"dns":"14ms","tcp":"190ms (150ms)","request":"50ms","response":"18ms","domLoaded":"183ms (113ms)","loadEvent":"0ms","total":"465ms (465ms)"}
+2017-11-01 15:28:56||||{"dns":"1ms","tcp":"189ms (91ms)","request":"121ms","response":"3ms","domLoaded":"1699ms (863ms)","loadEvent":"0ms","total":"2343ms (2343ms)","apn":""}
+2017-11-01 15:29:05|e22d4d5801164f4654a5c72c13b788cb||1:1547522139|{"dns":"0ms","tcp":"1281ms (206ms)","request":"125ms","response":"8ms","domLoaded":"844ms (549ms)","loadEvent":"0ms","total":"2291ms (2291ms)","apn":"cmnet"}
+2017-11-01 15:29:38|||1:851159068|{"dns":"0ms","tcp":"0ms","request":"0ms","response":"599ms","domLoaded":"634ms (633ms)","loadEvent":"0ms","total":"1240ms (1240ms)"}
+2017-11-01 15:31:34|35ecbfc0b6729c60e8b9dd9513b788cb||1:2267702815|{"dns":"0ms","tcp":"0ms","request":"5ms","response":"13ms","domLoaded":"603ms (602ms)","loadEvent":"1ms","total":"634ms (633ms)","apn":""}
+2017-11-01 15:32:03||||{"dns":"0ms","tcp":"130ms (98ms)","request":"142ms","response":"6ms","domLoaded":"512ms (510ms)","loadEvent":"0ms","total":"852ms (852ms)","apn":""}
+2017-11-01 15:32:24|cbda341f262d830a77b5390510ee88cb||1:553694916|{"dns":"86ms","tcp":"248ms (179ms)","request":"99ms","response":"6ms","domLoaded":"449ms (312ms)","loadEvent":"0ms","total":"920ms (920ms)","apn":"cmnet"}
+2017-11-01 15:32:37|5399f02ab0a7b685e6d2e09d13b788cb|||{"dns":"1ms","tcp":"65ms (34ms)","request":"44ms","response":"12ms","domLoaded":"6343ms (6342ms)","loadEvent":"0ms","total":"6915ms (6914ms)","apn":"Wlan"}
+2017-11-01 15:32:53|e33a691660ee27253a84024313b788cb|||{"dns":"0ms","tcp":"19ms","request":"55ms","response":"14ms","domLoaded":"764ms (761ms)","loadEvent":"0ms","total":"2382ms (2382ms)","apn":""}
+2017-11-01 15:33:18|cbda341f262d830a77b5390510ee88cb||1:553694916|{"dns":"0ms","tcp":"0ms","request":"113ms","response":"5ms","domLoaded":"128ms (111ms)","loadEvent":"0ms","total":"274ms (274ms)","apn":"cmnet"}
+2017-11-01 15:33:52|8d7518450f555cda5715c22d13b788cb||1:759982893|{"dns":"181ms","tcp":"1636ms (280ms)","request":"312ms","response":"8ms","domLoaded":"1205ms (1120ms)","loadEvent":"1ms","total":"3373ms (3372ms)","apn":"ctnet"}
+2017-11-01 15:34:38||||{"dns":"0ms","tcp":"0ms","request":"2ms","response":"2ms","domLoaded":"339ms (293ms)","loadEvent":"0ms","total":"414ms (414ms)","apn":""}
+2017-11-01 15:35:17|1bd4b4a1f8d7248da89529d5122188cb||1:398931234|{"dns":"28ms","tcp":"111ms (88ms)","request":"36ms","response":"2ms","domLoaded":"1217ms (935ms)","loadEvent":"0ms","total":"1416ms (1416ms)","apn":"Wlan"}
+2017-11-01 15:35:29|b26b3847301c96bc6eff3a1211ab88cb||1:690335216|{"dns":"0ms","tcp":"0ms","request":"2ms","response":"17ms","domLoaded":"632ms (631ms)","loadEvent":"1ms","total":"675ms (674ms)","apn":""}
+2017-11-01 15:35:52||||{"dns":"1ms","tcp":"100ms (50ms)","request":"70ms","response":"2ms","domLoaded":"857ms (614ms)","loadEvent":"0ms","total":"1068ms (1068ms)","apn":""}
+2017-11-01 15:36:50|c09f23d72c01568270f33f0e116688cb|||{"dns":"0ms","tcp":"43ms","request":"59ms","response":"15ms","domLoaded":"412ms (411ms)","loadEvent":"0ms","total":"817ms (817ms)","apn":""}
+2017-11-01 15:37:17|65aacadf86dfcff7d45330ab113b88cb||1:47792178|{"dns":"105ms","tcp":"202ms (164ms)","request":"61ms","response":"7ms","domLoaded":"993ms (763ms)","loadEvent":"1ms","total":"1414ms (1413ms)","apn":"cmnet"}
+2017-11-01 15:37:19|07cb8f58e428bca3b3df77c913b788cb|||{"dns":"0ms","tcp":"35ms","request":"75ms","response":"12ms","domLoaded":"669ms (667ms)","loadEvent":"6ms","total":"1530ms (1524ms)","apn":""}
+2017-11-01 15:37:31|5d84d7a8dfefab33872290fd122188cb|||{"dns":"0ms","tcp":"0ms","request":"64ms","response":"105ms","domLoaded":"490ms (490ms)","loadEvent":"6ms","total":"871ms (865ms)","apn":""}
+2017-11-01 15:37:44|a56322db2762c17e7d57890513b788cb||2:o9GiTuO91Al4GdvnJpjAfQTP4nu8|{"dns":"0ms","tcp":"0ms","request":"5ms","response":"33ms","domLoaded":"634ms (629ms)","loadEvent":"1ms","total":"711ms (710ms)","apn":""}
+2017-11-01 15:37:50|||1:806117837|{"dns":"0ms","tcp":"0ms","request":"0ms","response":"381ms","domLoaded":"1409ms (575ms)","loadEvent":"0ms","total":"1805ms (1805ms)"}
+2017-11-01 15:38:34|1158f9cdfd472054a46767df11f588cb||1:1660349069|{"dns":"0ms","tcp":"0ms","request":"2ms","response":"9ms","domLoaded":"283ms (252ms)","loadEvent":"1ms","total":"342ms (341ms)","apn":"Wlan"}
+2017-11-01 15:38:41|7db1dd4391eaab80cca117b311c188cb||1:391214348|{"dns":"0ms","tcp":"0ms","request":"199ms","response":"8ms","domLoaded":"","loadEvent":"","total":"","apn":"Wlan"}
+2017-11-01 15:39:11||||{"dns":"0ms","tcp":"0ms","request":"2ms","response":"1ms","domLoaded":"269ms (236ms)","loadEvent":"1ms","total":"331ms (330ms)","apn":""}
+2017-11-01 15:39:19|7db1dd4391eaab80cca117b311c188cb||1:391214348|{"dns":"0ms","tcp":"83ms (77ms)","request":"191ms","response":"11ms","domLoaded":"","loadEvent":"","total":"","apn":"Wlan"}
+2017-11-01 15:39:34|35ecbfc0b6729c60e8b9dd9513b788cb||1:2267702815|{"dns":"0ms","tcp":"195ms (86ms)","request":"124ms","response":"5ms","domLoaded":"319ms (318ms)","loadEvent":"0ms","total":"668ms (668ms)","apn":""}
+2017-11-01 15:39:44|4b6ca356a867420affe7088513b788cb||1:1746141101|{"dns":"0ms","tcp":"0ms","request":"5ms","response":"13ms","domLoaded":"547ms (545ms)","loadEvent":"1ms","total":"596ms (595ms)","apn":""}
+2017-11-01 15:39:57|f72e7d02755e92202b8a915713b788cb||1:1146162620|{"dns":"0ms","tcp":"0ms","request":"2ms","response":"8ms","domLoaded":"353ms (352ms)","loadEvent":"0ms","total":"381ms (381ms)","apn":""}
+2017-11-01 15:40:27|5d84d7a8de38844c84b5e3fd13b788cb|||{"dns":"101ms","tcp":"107ms","request":"131ms","response":"18ms","domLoaded":"869ms (865ms)","loadEvent":"2ms","total":"2649ms (2647ms)","apn":""}
+2017-11-01 15:40:31||||{"dns":"1ms","tcp":"177ms (89ms)","request":"89ms","response":"2ms","domLoaded":"322ms (197ms)","loadEvent":"0ms","total":"628ms (628ms)","apn":""}
+2017-11-01 15:40:37|||1:952082893|{"dns":"0ms","tcp":"0ms","request":"0ms","response":"176ms","domLoaded":"251ms (246ms)","loadEvent":"4ms","total":"440ms (436ms)"}
+2017-11-01 15:41:12|ee37641b6ddfaf8437eedf4e103a88cb|||{"dns":"33ms","tcp":"143ms","request":"111ms","response":"106ms","domLoaded":"1490ms (1489ms)","loadEvent":"1ms","total":"2428ms (2427ms)","apn":""}
+2017-11-01 15:41:17|36db0344b5e53df3ecca7a96100588cb||2:o9GiTuF6SsyRrn9id9tNcIGJ2ElE|{"dns":"0ms","tcp":"0ms","request":"239ms","response":"19ms","domLoaded":"553ms (536ms)","loadEvent":"1ms","total":"868ms (867ms)","apn":"Wlan"}
+2017-11-01 15:41:32|6dabea13efb16fe8b54025cd13b788cb|||{"dns":"0ms","tcp":"23ms","request":"48ms","response":"11ms","domLoaded":"824ms (817ms)","loadEvent":"1ms","total":"1314ms (1313ms)","apn":""}
+2017-11-01 15:41:56|623d174c8e6ea070d73504ac13b788cb||1:419189089|{"dns":"0ms","tcp":"0ms","request":"206ms","response":"10ms","domLoaded":"725ms (711ms)","loadEvent":"0ms","total":"1009ms (1009ms)","apn":"cmnet"}
+2017-11-01 15:41:58|a56322db2762c17e7d57890513b788cb||2:o9GiTuO91Al4GdvnJpjAfQTP4nu8|{"dns":"0ms","tcp":"0ms","request":"2ms","response":"37ms","domLoaded":"630ms (627ms)","loadEvent":"1ms","total":"747ms (746ms)","apn":""}
+2017-11-01 15:42:08|e587929c04182d4650442f2b127d88cb|||{"dns":"0ms","tcp":"0ms","request":"190ms","response":"6ms","domLoaded":"1422ms (1420ms)","loadEvent":"1ms","total":"1668ms (1667ms)","apn":"ctlte"}
+2017-11-01 15:42:24|a4f91f4049423506105a716a13b788cb||2:o9GiTuKqKk6g509IT3IQSs3V_4Ro|{"dns":"0ms","tcp":"0ms","request":"109ms","response":"17ms","domLoaded":"835ms (828ms)","loadEvent":"1ms","total":"981ms (980ms)","apn":"wonet"}
+2017-11-01 15:42:36|eb32611e6870a10c300b934b10ee88cb|||{"dns":"0ms","tcp":"42ms","request":"91ms","response":"14ms","domLoaded":"918ms (911ms)","loadEvent":"1ms","total":"1926ms (1925ms)","apn":""}
+2017-11-01 15:42:58|5d92f2e7bead468eebd63493112488cb|||{"dns":"0ms","tcp":"12ms","request":"110ms","response":"101ms","domLoaded":"2151ms (2143ms)","loadEvent":"1ms","total":"3065ms (3063ms)","apn":""}
+2017-11-01 15:42:58||||{"dns":"0ms","tcp":"0ms (2ms)","request":"7ms","response":"47ms","domLoaded":"227ms (169ms)","loadEvent":"1ms","total":"247ms (246ms)","apn":""}
+2017-11-01 15:43:45||||{"dns":"0ms","tcp":"178ms (100ms)","request":"76ms","response":"3ms","domLoaded":"2096ms (2093ms)","loadEvent":"0ms","total":"2988ms (2988ms)","apn":""}
+2017-11-01 15:43:51|bfce4aa45867312609898c7113fb88cb|||{"dns":"0ms","tcp":"0ms","request":"41ms","response":"22ms","domLoaded":"485ms (483ms)","loadEvent":"0ms","total":"1180ms (1180ms)","apn":""}
+2017-11-01 15:43:58|eacd02f7088802245f3d082413b788cb|||{"dns":"1ms","tcp":"66ms (33ms)","request":"43ms","response":"5ms","domLoaded":"528ms (521ms)","loadEvent":"0ms","total":"884ms (884ms)","apn":"Wlan"}
+2017-11-01 15:44:04|392a47a3d8966b568e32d4f713a788cb|ADRQBX53_GA_TMS_1.1_newbee/530997&X5MTT_3/025307&ADR&458014& CHM-TL00H &78632&9438&Android4.4.2 &V3||{"dns":"0ms","tcp":"0ms","request":"0ms","response":"1216ms","domLoaded":"1614ms (1613ms)","loadEvent":"5ms","total":"2828ms (2823ms)","apn":"cmnet"}
+2017-11-01 15:44:16|fae9847a1829cb104cf9b83414f488cb|||{"dns":"0ms","tcp":"25ms","request":"56ms","response":"65ms","domLoaded":"3008ms (3006ms)","loadEvent":"2ms","total":"5998ms (5995ms)","apn":""}
+2017-11-01 15:44:24|||1:748918316|{"dns":"0ms","tcp":"0ms","request":"199ms","response":"3ms","domLoaded":"624ms (623ms)","loadEvent":"1ms","total":"852ms (851ms)","apn":""}
+2017-11-01 15:44:57|d32b461b5009bde0022d537313b788cb|||{"dns":"28ms","tcp":"53ms","request":"54ms","response":"16ms","domLoaded":"1435ms (1418ms)","loadEvent":"0ms","total":"2981ms (2980ms)","apn":""}
+2017-11-01 15:45:02|72abf887f1b998d0a5220ed213b788cb|||{"dns":"0ms","tcp":"52ms","request":"82ms","response":"6ms","domLoaded":"933ms (931ms)","loadEvent":"1ms","total":"1876ms (1875ms)","apn":""}
+2017-11-01 15:45:32||||{"dns":"0ms","tcp":"122ms (73ms)","request":"77ms","response":"2ms","domLoaded":"1075ms (792ms)","loadEvent":"0ms","total":"1524ms (1524ms)","apn":""}
+2017-11-01 15:45:59|c20e62fc2e978f5f77efd40c13b788cb||1:2766311722|{"dns":"51ms","tcp":"188ms (135ms)","request":"109ms","response":"26ms","domLoaded":"681ms (627ms)","loadEvent":"0ms","total":"1079ms (1079ms)","apn":""}
+2017-11-01 15:46:04|6ab3e09fe879fc54b3274eca11dd88cb||1:836362315|{"dns":"0ms","tcp":"0ms","request":"566ms","response":"8ms","domLoaded":"4302ms (4302ms)","loadEvent":"1ms","total":"5956ms (5955ms)","apn":"cmnet"}
+2017-11-01 15:46:14|4f80e0f5acc9cc20fae82c8113b788cb||1:748651957|{"dns":"0ms","tcp":"0ms","request":"1ms","response":"16ms","domLoaded":"394ms (393ms)","loadEvent":"0ms","total":"422ms (422ms)","apn":""}
+2017-11-01 15:46:46|||1:787828075|{"dns":"0ms","tcp":"0ms","request":"0ms","response":"197ms","domLoaded":"350ms (254ms)","loadEvent":"0ms","total":"559ms (559ms)"}
+2017-11-01 15:46:51||||{"dns":"40ms","tcp":"305ms (223ms)","request":"123ms","response":"3ms","domLoaded":"997ms (995ms)","loadEvent":"4ms","total":"1509ms (1505ms)","apn":""}
+2017-11-01 15:47:41||||{"dns":"0ms","tcp":"0ms","request":"21ms","response":"335ms","domLoaded":"630ms (627ms)","loadEvent":"1ms","total":"1175ms (1169ms)","apn":""}
+2017-11-01 15:47:47|d51a7a6f36bf2b56624fd61b13b788cb|||{"dns":"0ms","tcp":"125ms","request":"214ms","response":"43ms","domLoaded":"1261ms (1252ms)","loadEvent":"2ms","total":"3210ms (3207ms)","apn":""}
+2017-11-01 15:48:46|9fc4f6097c999ec02be6c65113b788cb|||{"dns":"0ms","tcp":"0ms","request":"66ms","response":"17ms","domLoaded":"521ms (519ms)","loadEvent":"0ms","total":"715ms (715ms)","apn":""}
+2017-11-01 15:50:01|a26e2afd411c23c413f8936c13b788cb||1:949119337|{"dns":"0ms","tcp":"0ms","request":"81ms","response":"6ms","domLoaded":"1217ms (667ms)","loadEvent":"0ms","total":"1330ms (1330ms)","apn":"ctlte"}
+2017-11-01 15:51:24|c208362e2f727fcc7c274e0c120d88cb||1:1601755885|{"dns":"0ms","tcp":"100ms (100ms)","request":"60ms","response":"34ms","domLoaded":"796ms (678ms)","loadEvent":"0ms","total":"1041ms (1041ms)","apn":"Wlan"}
+2017-11-01 15:52:10|6db4e798ef2a36adb7e866cd122188cb|||{"dns":"0ms","tcp":"41ms","request":"118ms","response":"13ms","domLoaded":"972ms (707ms)","loadEvent":"0ms","total":"1700ms (1700ms)","apn":""}
+2017-11-01 15:52:20|834f23bd6fd788b2369f824d13b788cb|||{"dns":"0ms","tcp":"31ms","request":"81ms","response":"15ms","domLoaded":"435ms (434ms)","loadEvent":"0ms","total":"1166ms (1166ms)","apn":""}
+2017-11-01 15:52:29||||{"dns":"0ms","tcp":"495ms (421ms)","request":"115ms","response":"16ms","domLoaded":"1509ms (1224ms)","loadEvent":"1ms","total":"2222ms (2221ms)","apn":""}
+2017-11-01 15:52:46|b07f1f0a5327b93106cee07e116488cb|||{"dns":"0ms","tcp":"25ms","request":"57ms","response":"149ms","domLoaded":"1764ms (1761ms)","loadEvent":"2ms","total":"4818ms (4816ms)","apn":""}
+2017-11-01 15:53:16|babc1d9b573137460c51df7413b788cb||1:2421938818|{"dns":"48ms","tcp":"385ms (304ms)","request":"104ms","response":"16ms","domLoaded":"1218ms (1196ms)","loadEvent":"1ms","total":"2356ms (2355ms)","apn":""}
+2017-11-01 15:53:20|99c2e13d7bf355672c5e0457122788cb|IQB78_GA/783619&IMTT_3/783619&IPH&468340&iPhone6&50001&10096&iOS10.2&V3|2:o9GiTuCtQQkWyVdibVn6PvX9VcZA|{"dns":"0ms","tcp":"0ms","request":"0ms","response":"236ms","domLoaded":"1004ms (569ms)","loadEvent":"0ms","total":"1246ms (1242ms)","apn":"wifi"}
+2017-11-01 15:53:20|5197d62fd3cf998189ecf6f113b788cb||1:843303364|{"dns":"0ms","tcp":"0ms","request":"45ms","response":"5ms","domLoaded":"304ms (304ms)","loadEvent":"1ms","total":"505ms (504ms)","apn":""}
+2017-11-01 15:53:45||||{"dns":"60ms","tcp":"163ms (89ms)","request":"95ms","response":"3ms","domLoaded":"506ms (503ms)","loadEvent":"0ms","total":"904ms (904ms)","apn":""}
+2017-11-01 15:54:11|ee2141540d8a0a7e591a662013b788cb||2:o9GiTuA-mTR_dIezYWXWQ7u3bdJo|{"dns":"71ms","tcp":"179ms (142ms)","request":"50ms","response":"16ms","domLoaded":"886ms (522ms)","loadEvent":"1ms","total":"1765ms (1764ms)","apn":"Wlan"}
+2017-11-01 15:54:19|77b8d8cd9b54c6ffc318ebb913b788cb|||{"dns":"0ms","tcp":"0ms","request":"1485ms","response":"37ms","domLoaded":"1115ms (1114ms)","loadEvent":"1ms","total":"3733ms (3732ms)","apn":""}
+2017-11-01 15:54:20|72b4f50cf0bf9251aaefacd211c188cb||1:3479922574|{"dns":"0ms","tcp":"0ms","request":"41ms","response":"5ms","domLoaded":"513ms (469ms)","loadEvent":"0ms","total":"751ms (751ms)","apn":"Wlan"}
+2017-11-01 15:54:29||||{"dns":"0ms","tcp":"136ms (112ms)","request":"48ms","response":"19ms","domLoaded":"547ms (428ms)","loadEvent":"1ms","total":"760ms (759ms)"}
+2017-11-01 15:55:39|7da4f788ff55f632a6b8fedd13b788cb||1:879593255|{"dns":"0ms","tcp":"0ms","request":"2ms","response":"8ms","domLoaded":"416ms (414ms)","loadEvent":"0ms","total":"450ms (450ms)","apn":""}
+2017-11-01 15:55:48|de07542b5cdd35df0758c37e122188cb|||{"dns":"0ms","tcp":"33ms","request":"69ms","response":"39ms","domLoaded":"718ms (715ms)","loadEvent":"1ms","total":"2143ms (2142ms)","apn":""}
+2017-11-01 15:55:55|6ca3c3d680519fcbd99caaa213b788cb|||{"dns":"0ms","tcp":"36ms","request":"93ms","response":"13ms","domLoaded":"497ms (494ms)","loadEvent":"0ms","total":"1989ms (1988ms)","apn":""}
+2017-11-01 15:56:01|6fa5cc168cbca792dec534a1113e88cb||1:1846528603|{"dns":"0ms","tcp":"0ms","request":"127ms","response":"7ms","domLoaded":"515ms (505ms)","loadEvent":"0ms","total":"676ms (676ms)","apn":"Wlan"}
+2017-11-01 15:56:49|346bd723d933eace82ca77fa118c88cb|IQB76_GA/763410&IMTT_3/763410&IPH&468340&iPhone6&50001&10056&iOS10.3.3&V3||{"dns":"0ms","tcp":"0ms","request":"0ms","response":"560ms","domLoaded":"501ms (188ms)","loadEvent":"0ms","total":"1562ms (1562ms)","apn":"4g"}
+2017-11-01 15:56:54||||{"dns":"0ms","tcp":"0ms","request":"138ms","response":"8ms","domLoaded":"581ms (395ms)","loadEvent":"0ms","total":"927ms (927ms)","apn":""}
+2017-11-01 15:57:13|60719fb48dccf316d6184fae13b788cb||1:1449572087|{"dns":"128ms","tcp":"237ms (167ms)","request":"88ms","response":"16ms","domLoaded":"","loadEvent":"","total":"","apn":""}
+2017-11-01 15:57:16|6d95f8a5ee415684b75bf8cd105988cb|IQB79_GA/793650&IMTT_3/793650&IPH&407140&iPhone5SGLOBAL&50001&10132&iOS10.3.3&V3|1:574527404|{"dns":"0ms","tcp":"0ms","request":"0ms","response":"370ms","domLoaded":"315ms (225ms)","loadEvent":"0ms","total":"1040ms (1040ms)","apn":"wifi"}
+2017-11-01 15:57:33|69a6c3d9845209d8dd9b57a713b788cb|||{"dns":"0ms","tcp":"67ms","request":"121ms","response":"28ms","domLoaded":"631ms (630ms)","loadEvent":"4ms","total":"1724ms (1720ms)","apn":""}
+2017-11-01 15:59:33|05c9a53be9b530b8b7769fcb13b788cb||1:1140163112|{"dns":"0ms","tcp":"0ms","request":"62ms","response":"4ms","domLoaded":"665ms (664ms)","loadEvent":"0ms","total":"760ms (760ms)","apn":""}
+2017-11-01 15:59:46|7da4f788fea6fddca84733dd13b788cb||1:3189445712|{"dns":"0ms","tcp":"0ms","request":"67ms","response":"6ms","domLoaded":"864ms (614ms)","loadEvent":"1ms","total":"955ms (954ms)","apn":"Wlan"}
+2017-11-01 15:59:47|8e422eb0622e5c223fa6844013b788cb||1:276590610|{"dns":"0ms","tcp":"0ms","request":"1ms","response":"13ms","domLoaded":"253ms (249ms)","loadEvent":"0ms","total":"279ms (279ms)","apn":""}
+2017-11-01 16:00:05||||{"dns":"141ms","tcp":"771ms (563ms)","request":"410ms","response":"3ms","domLoaded":"1867ms (1865ms)","loadEvent":"1ms","total":"3242ms (3241ms)","apn":""}
+2017-11-01 16:00:26|418eeefba282a5fef3e0fe8f13b788cb|||{"dns":"0ms","tcp":"16ms","request":"67ms","response":"17ms","domLoaded":"626ms (619ms)","loadEvent":"7ms","total":"1328ms (1321ms)","apn":""}
+2017-11-01 16:00:26|db147461385b475a6e1aa81512d488cb|||{"dns":"0ms","tcp":"28ms","request":"59ms","response":"26ms","domLoaded":"1203ms (1201ms)","loadEvent":"0ms","total":"2869ms (2869ms)","apn":""}
+2017-11-01 16:00:43|||1:912505319|{"dns":"0ms","tcp":"0ms","request":"0ms","response":"269ms","domLoaded":"113ms (56ms)","loadEvent":"0ms","total":"411ms (411ms)"}
+2017-11-01 16:01:05|e7b804f00b41976650d81e2911c188cb|||{"dns":"0ms","tcp":"28ms","request":"61ms","response":"22ms","domLoaded":"1398ms (1395ms)","loadEvent":"1ms","total":"3146ms (3145ms)","apn":""}
+2017-11-01 16:03:10|8aad62976982cec63b2abb4413b788cb|||{"dns":"1ms","tcp":"61ms (34ms)","request":"68ms","response":"10ms","domLoaded":"978ms (561ms)","loadEvent":"0ms","total":"1488ms (1488ms)","apn":"cmnet"}
+2017-11-01 16:03:46|05c9a53be9b530b8b7769fcb13b788cb||1:1140163112|{"dns":"0ms","tcp":"314ms (266ms)","request":"64ms","response":"5ms","domLoaded":"677ms (676ms)","loadEvent":"0ms","total":"1104ms (1104ms)","apn":""}
+2017-11-01 16:04:04|||1:912505319|{"dns":"0ms","tcp":"0ms","request":"0ms","response":"351ms","domLoaded":"95ms (64ms)","loadEvent":"0ms","total":"486ms (486ms)"}
+2017-11-01 16:04:27|7aa3f08ff9f34d5ab431a8da10ee88cb|||{"dns":"0ms","tcp":"23ms","request":"49ms","response":"22ms","domLoaded":"377ms (376ms)","loadEvent":"0ms","total":"765ms (765ms)","apn":""}
+2017-11-01 16:04:34|519b3e2fbc223f6fe66f339f13b788cb|||{"dns":"20ms","tcp":"48ms","request":"103ms","response":"28ms","domLoaded":"1886ms (1883ms)","loadEvent":"1ms","total":"5556ms (5554ms)","apn":""}
+2017-11-01 16:04:41|0ec889708cc29fbcd69bc6ae13b788cb|||{"dns":"0ms","tcp":"33ms","request":"55ms","response":"65ms","domLoaded":"5658ms (5622ms)","loadEvent":"1ms","total":"8424ms (8423ms)","apn":""}
+2017-11-01 16:05:29|42bad78ac09448b098e27fe213b788cb|||{"dns":"8ms","tcp":"41ms","request":"86ms","response":"26ms","domLoaded":"884ms (876ms)","loadEvent":"11ms","total":"1962ms (1951ms)","apn":""}
+2017-11-01 16:06:02|1158f9cdfd472054a46767df11f588cb||1:1660349069|{"dns":"1ms","tcp":"106ms (49ms)","request":"58ms","response":"9ms","domLoaded":"308ms (278ms)","loadEvent":"0ms","total":"510ms (510ms)","apn":"Wlan"}
+2017-11-01 16:06:50||||{"dns":"3ms","tcp":"174ms (93ms)","request":"93ms","response":"1ms","domLoaded":"509ms (507ms)","loadEvent":"0ms","total":"808ms (808ms)","apn":""}
+2017-11-01 16:06:55|ec264f950f2d011a5c80962213b788cb|||{"dns":"16ms","tcp":"46ms","request":"56ms","response":"15ms","domLoaded":"947ms (934ms)","loadEvent":"1ms","total":"2064ms (2063ms)","apn":""}
+2017-11-01 16:07:14|78a1f28dfa74c8b4a074c7d811dd88cb||1:2497090443|{"dns":"86ms","tcp":"176ms (135ms)","request":"61ms","response":"5ms","domLoaded":"1728ms (1518ms)","loadEvent":"1ms","total":"2228ms (2227ms)","apn":"ctlte"}
+2017-11-01 16:07:16|4406bd9da6ce5186f3e7018a14f488cb|||{"dns":"0ms","tcp":"59ms","request":"96ms","response":"61ms","domLoaded":"5113ms (5077ms)","loadEvent":"1ms","total":"8826ms (8825ms)","apn":""}
+2017-11-01 16:07:39||||{"dns":"0ms","tcp":"0ms","request":"0ms","response":"326ms","domLoaded":"248ms (248ms)","loadEvent":"0ms","total":"525ms (520ms)"}
+2017-11-01 16:11:00|74658ba099a0a3efc66acaba13b788cb||1:734661498|{"dns":"0ms","tcp":"76ms (37ms)","request":"45ms","response":"9ms","domLoaded":"212ms (207ms)","loadEvent":"1ms","total":"357ms (356ms)","apn":""}
+2017-11-01 16:11:10|7076d7519de127f3c7499ebe13b788cb||1:2061571927|{"dns":"0ms","tcp":"147ms (147ms)","request":"344ms","response":"33ms","domLoaded":"1111ms (1069ms)","loadEvent":"1ms","total":"1732ms (1731ms)","apn":"cmnet"}
+2017-11-01 16:11:23|27e1a059a584956ffdf3848713b788cb||1:2273456616|{"dns":"20ms","tcp":"229ms (173ms)","request":"82ms","response":"4ms","domLoaded":"452ms (447ms)","loadEvent":"1ms","total":"1310ms (1309ms)","apn":""}
+2017-11-01 16:11:52|d51a7a6f36bf2b56624fd61b13b788cb|||{"dns":"0ms","tcp":"117ms","request":"120ms","response":"31ms","domLoaded":"1258ms (1256ms)","loadEvent":"1ms","total":"2645ms (2644ms)","apn":""}
+2017-11-01 16:12:19|03da89f680b71dc4ca081da3103c88cb|||{"dns":"43ms","tcp":"157ms (126ms)","request":"219ms","response":"19ms","domLoaded":"853ms (846ms)","loadEvent":"1ms","total":"1306ms (1305ms)","apn":"Wlan"}
+2017-11-01 16:12:52|f7be8d0a1a0d46d943d45a3910ee88cb|||{"dns":"0ms","tcp":"0ms","request":"56ms","response":"9ms","domLoaded":"397ms (290ms)","loadEvent":"1ms","total":"507ms (506ms)","apn":"Wlan"}
+2017-11-01 16:13:32|814e2b316ce1d6b13112774f13b788cb||1:345550203|{"dns":"0ms","tcp":"0ms","request":"3ms","response":"5ms","domLoaded":"336ms (332ms)","loadEvent":"0ms","total":"359ms (359ms)","apn":""}
+2017-11-01 16:15:29||||{"dns":"2ms","tcp":"101ms (52ms)","request":"80ms","response":"2ms","domLoaded":"669ms (668ms)","loadEvent":"0ms","total":"1315ms (1314ms)","apn":""}
+2017-11-01 16:15:59|05c9a53be9b530b8b7769fcb13b788cb||1:1140163112|{"dns":"0ms","tcp":"203ms (170ms)","request":"47ms","response":"3ms","domLoaded":"382ms (380ms)","loadEvent":"0ms","total":"648ms (648ms)","apn":""}
+2017-11-01 16:16:37||||{"dns":"42ms","tcp":"24ms","request":"44ms","response":"4ms","domLoaded":"956ms (563ms)","loadEvent":"1ms","total":"1539ms (1537ms)","apn":""}
+2017-11-01 16:17:28||||{"dns":"0ms","tcp":"217ms (129ms)","request":"80ms","response":"20ms","domLoaded":"935ms (922ms)","loadEvent":"2ms","total":"1899ms (1897ms)","apn":""}
+2017-11-01 16:17:37|1bd1b862f8638e10af6a4dd513b788cb||1:1134079196|{"dns":"0ms","tcp":"0ms","request":"10ms","response":"26ms","domLoaded":"581ms (580ms)","loadEvent":"1ms","total":"654ms (653ms)","apn":""}
+2017-11-01 16:19:38|2fe08095ccab23049a58d7e113b788cb|||{"dns":"0ms","tcp":"0ms","request":"103ms","response":"5ms","domLoaded":"972ms (943ms)","loadEvent":"1ms","total":"1144ms (1143ms)","apn":"ctlte"}
+2017-11-01 16:19:55|9fc4f6097c999ec02be6c65113b788cb|||{"dns":"0ms","tcp":"31ms","request":"64ms","response":"144ms","domLoaded":"982ms (979ms)","loadEvent":"1ms","total":"2403ms (2402ms)","apn":""}
+2017-11-01 16:20:30||||{"dns":"0ms","tcp":"0ms","request":"0ms","response":"447ms","domLoaded":"439ms (439ms)","loadEvent":"0ms","total":"902ms (896ms)"}
+2017-11-01 16:20:56|c40b6b7e277edd6b75e5580a13b788cb||1:569708162|{"dns":"0ms","tcp":"114ms (79ms)","request":"49ms","response":"7ms","domLoaded":"625ms (614ms)","loadEvent":"1ms","total":"816ms (815ms)","apn":""}
+2017-11-01 16:21:38|35f9950bd9b1e94d854a83fb124c88cb|||{"dns":"0ms","tcp":"7ms","request":"96ms","response":"25ms","domLoaded":"555ms (553ms)","loadEvent":"1ms","total":"1438ms (1437ms)","apn":""}
+2017-11-01 16:21:50|||1:1532251071|{"dns":"123ms","tcp":"125ms (82ms)","request":"88ms","response":"3ms","domLoaded":"364ms (363ms)","loadEvent":"0ms","total":"1077ms (1077ms)","apn":""}
+2017-11-01 16:21:59|9fc4f6097c999ec02be6c65113b788cb|||{"dns":"0ms","tcp":"29ms","request":"61ms","response":"31ms","domLoaded":"1319ms (1317ms)","loadEvent":"1ms","total":"2162ms (2161ms)","apn":""}
+2017-11-01 16:22:02||||{"dns":"0ms","tcp":"66ms (64ms)","request":"126ms","response":"15ms","domLoaded":"279ms (278ms)","loadEvent":"0ms","total":"535ms (535ms)","apn":""}
+2017-11-01 16:22:18|f22b780771c3b23f2bf2f552103a88cb|||{"dns":"0ms","tcp":"0ms","request":"1ms","response":"14ms","domLoaded":"796ms (794ms)","loadEvent":"0ms","total":"865ms (865ms)","apn":""}
+2017-11-01 16:22:48|8e9f715a634a25693f5abe4013b788cb|||{"dns":"29ms","tcp":"55ms","request":"63ms","response":"13ms","domLoaded":"928ms (925ms)","loadEvent":"1ms","total":"2666ms (2665ms)","apn":""}
+2017-11-01 16:23:09|8e9f715a634a25693f5abe4013b788cb|||{"dns":"0ms","tcp":"0ms","request":"1ms","response":"7ms","domLoaded":"738ms (605ms)","loadEvent":"0ms","total":"761ms (761ms)","apn":""}
+2017-11-01 16:23:33||||{"dns":"156ms","tcp":"332ms (273ms)","request":"114ms","response":"1ms","domLoaded":"758ms (723ms)","loadEvent":"1ms","total":"1412ms (1411ms)","apn":""}
+2017-11-01 16:24:03||||{"dns":"0ms","tcp":"0ms","request":"113ms","response":"1ms","domLoaded":"426ms (425ms)","loadEvent":"7ms","total":"625ms (617ms)","apn":""}
+2017-11-01 16:24:26|f5d21de816afabcb4a88ed3b128788cb|||{"dns":"0ms","tcp":"24ms","request":"35ms","response":"17ms","domLoaded":"","loadEvent":"","total":"","apn":""}
+2017-11-01 16:24:34|814e2b316ce1d6b13112774f13b788cb||1:345550203|{"dns":"0ms","tcp":"31ms (15ms)","request":"32ms","response":"17ms","domLoaded":"247ms (246ms)","loadEvent":"0ms","total":"461ms (461ms)","apn":""}
+2017-11-01 16:24:51|b56c3f4036fc5b1669aebb1513b788cb|||{"dns":"0ms","tcp":"32ms","request":"59ms","response":"12ms","domLoaded":"1189ms (1187ms)","loadEvent":"1ms","total":"2891ms (2890ms)","apn":""}
+2017-11-01 16:25:09|9fc4f6097c999ec02be6c65113b788cb|||{"dns":"0ms","tcp":"0ms","request":"68ms","response":"67ms","domLoaded":"803ms (801ms)","loadEvent":"1ms","total":"4343ms (4342ms)","apn":""}
+2017-11-01 16:25:30|||1:952082893|{"dns":"0ms","tcp":"0ms","request":"0ms","response":"616ms","domLoaded":"461ms (461ms)","loadEvent":"0ms","total":"1097ms (1097ms)"}
+2017-11-01 16:26:13|||1:854773424|{"dns":"0ms","tcp":"0ms","request":"0ms","response":"475ms","domLoaded":"1058ms (1058ms)","loadEvent":"1ms","total":"2084ms (2083ms)"}
+2017-11-01 16:26:25||||{"dns":"0ms","tcp":"0ms","request":"240ms","response":"2ms","domLoaded":"1317ms (788ms)","loadEvent":"0ms","total":"1638ms (1638ms)","apn":""}
+2017-11-01 16:26:42|0fcba7a3e37b61aabb961cc111dd88cb|||{"dns":"0ms","tcp":"20ms","request":"113ms","response":"85ms","domLoaded":"1695ms (1693ms)","loadEvent":"1ms","total":"3072ms (3071ms)","apn":""}
+2017-11-01 16:26:51|2ce08fc2c161cc3d993a59e2103a88cb|||{"dns":"64ms","tcp":"119ms","request":"81ms","response":"12ms","domLoaded":"872ms (871ms)","loadEvent":"0ms","total":"1768ms (1768ms)","apn":""}
+2017-11-01 16:27:10|5c2da947bc935a5beb61ce92132488cb|||{"dns":"46ms","tcp":"224ms (148ms)","request":"77ms","response":"8ms","domLoaded":"1113ms (784ms)","loadEvent":"1ms","total":"1573ms (1572ms)","apn":"wonet"}
+2017-11-01 16:27:28|d58ebc4336fa689e613b841b13b788cb||1:519480595|{"dns":"0ms","tcp":"0ms","request":"1ms","response":"6ms","domLoaded":"587ms (576ms)","loadEvent":"1ms","total":"616ms (615ms)","apn":""}
+2017-11-01 16:27:33|93cc70847f14c0d425c7eb5d11d388cb|IQB78_GA/783619&IMTT_3/783619&IPH&6712040&iPhone6p&50001&10096&iOS10.3.3&V3|1:648911503|{"dns":"0ms","tcp":"0ms","request":"0ms","response":"374ms","domLoaded":"509ms (308ms)","loadEvent":"0ms","total":"873ms (873ms)","apn":"wifi"}
+2017-11-01 16:28:23|2ee1849ec3195618995993e0117888cb||1:2625436712|{"dns":"0ms","tcp":"0ms","request":"84ms","response":"3ms","domLoaded":"855ms (792ms)","loadEvent":"0ms","total":"975ms (975ms)","apn":"ctlte"}
+2017-11-01 16:28:43|5a83d0afd9f24c5d919637fa13b788cb|||{"dns":"0ms","tcp":"47ms","request":"77ms","response":"13ms","domLoaded":"684ms (682ms)","loadEvent":"1ms","total":"1500ms (1499ms)","apn":""}
+2017-11-01 16:29:13|0c2be411ee5d499ab88566c213b788cb||1:499589855|{"dns":"0ms","tcp":"168ms (77ms)","request":"116ms","response":"18ms","domLoaded":"922ms (911ms)","loadEvent":"1ms","total":"1247ms (1246ms)","apn":""}
+2017-11-01 16:29:21||||{"dns":"43ms","tcp":"40ms","request":"77ms","response":"6ms","domLoaded":"1378ms (897ms)","loadEvent":"14ms","total":"2119ms (2105ms)","apn":""}
+2017-11-01 16:29:49|01d88bf482c19044d52c17a113b788cb|||{"dns":"0ms","tcp":"69ms (29ms)","request":"38ms","response":"5ms","domLoaded":"444ms (255ms)","loadEvent":"0ms","total":"576ms (576ms)","apn":"Wlan"}
+2017-11-01 16:30:23|a06a03d94c29a27517bc806e13b788cb||2:o9GiTuPqVVkd87J4BAlV4JRKxMt8|{"dns":"0ms","tcp":"0ms","request":"183ms","response":"9ms","domLoaded":"269ms (229ms)","loadEvent":"1ms","total":"494ms (493ms)","apn":"Wlan"}
+2017-11-01 16:30:40|4e97c4bbc3cdeed795bc6bee13b788cb||1:1612938930|{"dns":"0ms","tcp":"2914ms (1057ms)","request":"712ms","response":"17ms","domLoaded":"2100ms (2098ms)","loadEvent":"0ms","total":"5757ms (5757ms)","apn":""}
+2017-11-01 16:30:47|a06a03d94c29a27517bc806e13b788cb||2:o9GiTuPqVVkd87J4BAlV4JRKxMt8|{"dns":"0ms","tcp":"0ms","request":"38ms","response":"11ms","domLoaded":"281ms (242ms)","loadEvent":"0ms","total":"356ms (356ms)","apn":"Wlan"}
+2017-11-01 16:31:10|19df9e679b90596ac2c421b9122188cb|||{"dns":"0ms","tcp":"0ms","request":"156ms","response":"6ms","domLoaded":"1113ms (1110ms)","loadEvent":"1ms","total":"1593ms (1592ms)","apn":""}
+2017-11-01 16:31:26|9d4417681e529c614a3ab73d13b788cb|||{"dns":"0ms","tcp":"0ms","request":"52ms","response":"68ms","domLoaded":"2668ms (2667ms)","loadEvent":"1ms","total":"4215ms (4214ms)","apn":""}
+2017-11-01 16:31:42|99c2e13d7bf355672c5e0457122788cb|IQB78_GA/783619&IMTT_3/783619&IPH&468340&iPhone6&50001&10096&iOS10.2&V3|2:o9GiTuCtQQkWyVdibVn6PvX9VcZA|{"dns":"0ms","tcp":"0ms","request":"0ms","response":"179ms","domLoaded":"204ms (167ms)","loadEvent":"0ms","total":"388ms (387ms)","apn":"wifi"}
+2017-11-01 16:32:19|f2389d8c1f2d25ed4ab6483c13b788cb||1:465797873|{"dns":"0ms","tcp":"622ms (509ms)","request":"189ms","response":"9ms","domLoaded":"2218ms (2216ms)","loadEvent":"1ms","total":"3358ms (3357ms)","apn":""}
+2017-11-01 16:33:12|e7216099652dc81f3f31d24713b788cb||1:315485203|{"dns":"50ms","tcp":"169ms (126ms)","request":"76ms","response":"17ms","domLoaded":"884ms (876ms)","loadEvent":"0ms","total":"1594ms (1594ms)","apn":""}
+2017-11-01 16:35:05|01cda2efecbbc222b844f6cf100588cb|||{"dns":"27ms","tcp":"28ms","request":"41ms","response":"17ms","domLoaded":"614ms (612ms)","loadEvent":"0ms","total":"1221ms (1221ms)","apn":""}
+2017-11-01 16:35:31||||{"dns":"0ms","tcp":"0ms","request":"0ms","response":"39ms","domLoaded":"629ms (628ms)","loadEvent":"1ms","total":"693ms (692ms)","apn":""}
+2017-11-01 16:36:14|eb2d6c95696c4f0c30e5524b13b788cb||1:852586069|{"dns":"72ms","tcp":"512ms (461ms)","request":"88ms","response":"14ms","domLoaded":"551ms (549ms)","loadEvent":"0ms","total":"1256ms (1256ms)","apn":""}
+2017-11-01 16:36:19||||{"dns":"24ms","tcp":"137ms (77ms)","request":"102ms","response":"8ms","domLoaded":"613ms (612ms)","loadEvent":"0ms","total":"1276ms (1276ms)","apn":""}
+2017-11-01 16:37:28|589f2bcdb5c7ca73eccd1a9613b788cb||1:979961451|{"dns":"0ms","tcp":"62ms (44ms)","request":"80ms","response":"15ms","domLoaded":"355ms (350ms)","loadEvent":"0ms","total":"1012ms (1012ms)","apn":""}
+2017-11-01 16:37:31|fb3d7c857907fa42200c125b13b788cb|||{"dns":"0ms","tcp":"30ms","request":"61ms","response":"12ms","domLoaded":"699ms (696ms)","loadEvent":"1ms","total":"1604ms (1603ms)","apn":""}
+2017-11-01 16:37:33|e7bc8e7104f4f16953fcc82912a788cb|||{"dns":"0ms","tcp":"42ms","request":"58ms","response":"3ms","domLoaded":"461ms (461ms)","loadEvent":"4ms","total":"956ms (952ms)","apn":""}
+2017-11-01 16:38:12|fe340a12137165294c58343013b788cb||1:2414116900|{"dns":"0ms","tcp":"0ms","request":"145ms","response":"9ms","domLoaded":"580ms (518ms)","loadEvent":"6ms","total":"787ms (781ms)","apn":"Wlan"}
+2017-11-01 16:38:45||||{"dns":"12ms","tcp":"143ms (107ms)","request":"31ms","response":"21ms","domLoaded":"1625ms (1211ms)","loadEvent":"0ms","total":"2615ms (2615ms)","apn":""}
+2017-11-01 16:38:53||||{"dns":"1ms","tcp":"54ms (45ms)","request":"40ms","response":"18ms","domLoaded":"206ms (206ms)","loadEvent":"0ms","total":"329ms (328ms)"}
+2017-11-01 16:39:00||||{"dns":"100ms","tcp":"79ms (34ms)","request":"53ms","response":"5ms","domLoaded":"637ms (545ms)","loadEvent":"1ms","total":"881ms (880ms)","apn":""}
+2017-11-01 16:39:14|d58ebc4336fa689e613b841b13b788cb||1:519480595|{"dns":"0ms","tcp":"115ms (59ms)","request":"57ms","response":"6ms","domLoaded":"438ms (437ms)","loadEvent":"1ms","total":"815ms (814ms)","apn":""}
+2017-11-01 16:39:33|||1:88496573|{"dns":"0ms","tcp":"0ms","request":"0ms","response":"281ms","domLoaded":"306ms (297ms)","loadEvent":"0ms","total":"595ms (595ms)"}
+2017-11-01 16:41:01|5770bf4ab551eb50e2a75999121f88cb||1:245185459|{"dns":"0ms","tcp":"0ms","request":"3ms","response":"19ms","domLoaded":"1010ms (1007ms)","loadEvent":"2ms","total":"1060ms (1058ms)","apn":""}
+2017-11-01 16:41:25|bf7010055cc37cfa0babcc7113b788cb||1:510567226|{"dns":"0ms","tcp":"0ms","request":"2ms","response":"7ms","domLoaded":"400ms (394ms)","loadEvent":"5ms","total":"427ms (422ms)","apn":""}
+2017-11-01 16:42:19|3df29287def817288f1551f313b788cb|||{"dns":"0ms","tcp":"0ms","request":"191ms","response":"8ms","domLoaded":"633ms (437ms)","loadEvent":"1ms","total":"932ms (931ms)","apn":"cmnet"}
+2017-11-01 16:42:51|d41ebbaa3950958e65e6391a13b788cb||1:3519699978|{"dns":"0ms","tcp":"0ms","request":"62ms","response":"54ms","domLoaded":"1444ms (1442ms)","loadEvent":"1ms","total":"1832ms (1831ms)","apn":"Wlan"}
+2017-11-01 16:42:55||||{"dns":"0ms","tcp":"0ms","request":"0ms","response":"151ms","domLoaded":"162ms (161ms)","loadEvent":"0ms","total":"330ms (329ms)"}
+2017-11-01 16:43:31|3df29287def817288f1551f313b788cb|||{"dns":"0ms","tcp":"0ms","request":"136ms","response":"6ms","domLoaded":"808ms (795ms)","loadEvent":"1ms","total":"1040ms (1039ms)","apn":"cmnet"}
+2017-11-01 16:43:47|857d104d06262077523a7a2510ee88cb||1:1032178946|{"dns":"0ms","tcp":"124ms (63ms)","request":"79ms","response":"3ms","domLoaded":"675ms (674ms)","loadEvent":"1ms","total":"914ms (913ms)","apn":""}
+2017-11-01 16:44:36|2cf5a6d9afd32fdffc3a5f8c100e88cb|||{"dns":"32ms","tcp":"45ms","request":"85ms","response":"18ms","domLoaded":"700ms (698ms)","loadEvent":"1ms","total":"1781ms (1780ms)","apn":""}
+2017-11-01 16:45:07|0bc1ffe7e6da3b52b3e50fc510ee88cb|||{"dns":"0ms","tcp":"61ms","request":"147ms","response":"28ms","domLoaded":"848ms (847ms)","loadEvent":"0ms","total":"1809ms (1809ms)","apn":""}
+2017-11-01 16:45:41||||{"dns":"0ms","tcp":"0ms","request":"1ms","response":"15ms","domLoaded":"254ms (227ms)","loadEvent":"0ms","total":"330ms (329ms)","apn":""}
+2017-11-01 16:45:52|||1:806117837|{"dns":"0ms","tcp":"0ms","request":"0ms","response":"299ms","domLoaded":"267ms (98ms)","loadEvent":"0ms","total":"596ms (596ms)"}
+2017-11-01 16:47:44|5a96f9b4b717ba5cef4c2d9411e388cb||1:180691296|{"dns":"0ms","tcp":"0ms","request":"269ms","response":"5ms","domLoaded":"420ms (398ms)","loadEvent":"0ms","total":"726ms (726ms)","apn":"cmnet"}
+2017-11-01 16:47:57|1fc695ea9de7d7e8c14f81bf13b788cb||1:970876014|{"dns":"0ms","tcp":"0ms","request":"2ms","response":"8ms","domLoaded":"206ms (203ms)","loadEvent":"3ms","total":"243ms (240ms)","apn":""}
+2017-11-01 16:47:58|d51975eb39c91ecf6164c01b13b788cb||1:1935887075|{"dns":"0ms","tcp":"197ms (110ms)","request":"127ms","response":"8ms","domLoaded":"1523ms (1255ms)","loadEvent":"0ms","total":"1886ms (1886ms)","apn":"cmnet"}
+2017-11-01 16:48:09|804a746c6d642746347b9c4e13b788cb||1:1352057583|{"dns":"0ms","tcp":"436ms (334ms)","request":"121ms","response":"9ms","domLoaded":"721ms (710ms)","loadEvent":"0ms","total":"1311ms (1310ms)","apn":""}
+2017-11-01 16:48:22|d41e77ad37202efe61558c1a122188cb|||{"dns":"0ms","tcp":"0ms","request":"133ms","response":"1ms","domLoaded":"1129ms (588ms)","loadEvent":"1ms","total":"1274ms (1273ms)","apn":"cmnet"}
+2017-11-01 16:48:39|db02512e59d9c9d1026e1b7b11dd88cb|||{"dns":"22ms","tcp":"15ms","request":"83ms","response":"25ms","domLoaded":"1360ms (1358ms)","loadEvent":"1ms","total":"2733ms (2732ms)","apn":""}
+2017-11-01 16:48:43|bf7010055cc37cfa0babcc7113b788cb||1:510567226|{"dns":"0ms","tcp":"0ms","request":"2ms","response":"9ms","domLoaded":"324ms (324ms)","loadEvent":"1ms","total":"350ms (349ms)","apn":""}
+2017-11-01 16:49:04|61a4028b82958e43d5293faf117d88cb|||{"dns":"0ms","tcp":"53ms","request":"120ms","response":"13ms","domLoaded":"659ms (658ms)","loadEvent":"0ms","total":"1374ms (1374ms)","apn":""}
+2017-11-01 16:49:21|b17bdecf5cf4171f059ff07f13b788cb||1:702305398|{"dns":"0ms","tcp":"0ms","request":"46ms","response":"2ms","domLoaded":"320ms (316ms)","loadEvent":"0ms","total":"386ms (386ms)","apn":"Wlan"}
+2017-11-01 16:50:13|f6d11eeb17052705421cc53813b788cb|||{"dns":"0ms","tcp":"90ms (57ms)","request":"82ms","response":"10ms","domLoaded":"603ms (601ms)","loadEvent":"7ms","total":"809ms (802ms)","apn":""}
+2017-11-01 16:51:26|||1:1446347934|{"dns":"0ms","tcp":"0ms","request":"19ms","response":"59ms","domLoaded":"514ms (512ms)","loadEvent":"0ms","total":"762ms (762ms)","apn":""}
+2017-11-01 16:51:52|1ed899609ce4a2f6c5207ebe11c188cb||2:o9GiTuJlMQwOrUy5U7xfoHPqvtf8|{"dns":"0ms","tcp":"0ms","request":"9ms","response":"11ms","domLoaded":"678ms (245ms)","loadEvent":"0ms","total":"716ms (716ms)","apn":"Wlan"}
+2017-11-01 16:51:53|03ee367180b202a7db45dfa313b788cb|||{"dns":"0ms","tcp":"37ms","request":"63ms","response":"21ms","domLoaded":"574ms (572ms)","loadEvent":"0ms","total":"1312ms (1312ms)","apn":""}
+2017-11-01 16:52:14|7012070992aedb38c0c462be13b788cb||1:1164959673|{"dns":"0ms","tcp":"0ms","request":"107ms","response":"4ms","domLoaded":"1156ms (813ms)","loadEvent":"14ms","total":"1329ms (1315ms)","apn":"Wlan"}
+2017-11-01 16:52:27|7012070992aedb38c0c462be13b788cb||1:1164959673|{"dns":"0ms","tcp":"0ms","request":"93ms","response":"4ms","domLoaded":"844ms (633ms)","loadEvent":"1ms","total":"1111ms (1110ms)","apn":"Wlan"}
+2017-11-01 16:52:43||||{"dns":"0ms","tcp":"0ms","request":"107ms","response":"12ms","domLoaded":"862ms (656ms)","loadEvent":"5ms","total":"1249ms (1244ms)","apn":""}
+2017-11-01 16:52:49|c90f4eb74b298af8121fe36913b788cb|||{"dns":"0ms","tcp":"44ms","request":"756ms","response":"21ms","domLoaded":"1098ms (1097ms)","loadEvent":"1ms","total":"3640ms (3639ms)","apn":""}
+2017-11-01 16:52:54||||{"dns":"0ms","tcp":"60ms (60ms)","request":"91ms","response":"2ms","domLoaded":"936ms (604ms)","loadEvent":"0ms","total":"1104ms (1104ms)","apn":""}
+2017-11-01 16:53:14||||{"dns":"36ms","tcp":"34ms","request":"57ms","response":"65ms","domLoaded":"4964ms (4911ms)","loadEvent":"3ms","total":"8223ms (8220ms)","apn":""}
+2017-11-01 16:53:44||||{"dns":"0ms","tcp":"0ms","request":"126ms","response":"5ms","domLoaded":"268ms (227ms)","loadEvent":"1ms","total":"436ms (435ms)","apn":""}
+2017-11-01 16:54:04|663d1ec284cfba5fd392dba812d688cb|IQB79_GA/793650&IMTT_3/793650&IPH&468340&iPhone6&50001&10132&iOS11.0.1&V3|1:584229000|{"dns":"0ms","tcp":"0ms","request":"0ms","response":"583ms","domLoaded":"1490ms (1153ms)","loadEvent":"0ms","total":"2115ms (2115ms)","apn":"4g"}
+2017-11-01 16:54:15|a058356823bfbfe07e4de40013b788cb|||{"dns":"0ms","tcp":"71ms","request":"85ms","response":"20ms","domLoaded":"5488ms (5487ms)","loadEvent":"0ms","total":"6923ms (6923ms)","apn":""}
+2017-11-01 16:54:26|9fc4f6097c999ec02be6c65113b788cb|||{"dns":"0ms","tcp":"29ms","request":"64ms","response":"8ms","domLoaded":"766ms (764ms)","loadEvent":"2ms","total":"1645ms (1643ms)","apn":""}
+2017-11-01 16:54:44|35ecbfc0b6729c60e8b9dd9513b788cb||1:2267702815|{"dns":"0ms","tcp":"0ms","request":"1ms","response":"13ms","domLoaded":"406ms (405ms)","loadEvent":"0ms","total":"433ms (432ms)","apn":""}
+2017-11-01 16:54:48|||1:2499577822|{"dns":"34ms","tcp":"221ms (161ms)","request":"77ms","response":"2ms","domLoaded":"615ms (611ms)","loadEvent":"1ms","total":"1381ms (1380ms)","apn":""}
+2017-11-01 16:54:55|||1:2264930949|{"dns":"0ms","tcp":"0ms","request":"0ms","response":"622ms","domLoaded":"717ms (688ms)","loadEvent":"0ms","total":"1354ms (1354ms)"}
+2017-11-01 16:56:07|12d8e6feffd01de6ade2f3dc100c88cb|IQB79_GA/793650&IMTT_3/793650&IPH&6712040&iPhone6p&50001&10132&iOS10.3.3&V3||{"dns":"0ms","tcp":"0ms","request":"0ms","response":"622ms","domLoaded":"971ms (970ms)","loadEvent":"0ms","total":"2639ms (2639ms)","apn":"wifi"}
+2017-11-01 16:56:31||||{"dns":"0ms","tcp":"0ms","request":"28ms","response":"1ms","domLoaded":"163ms (157ms)","loadEvent":"3ms","total":"212ms (209ms)","apn":""}
+2017-11-01 16:56:52|ae563b662d7c0f397fc1e30e100588cb|||{"dns":"0ms","tcp":"47ms","request":"89ms","response":"13ms","domLoaded":"720ms (718ms)","loadEvent":"8ms","total":"1597ms (1589ms)","apn":""}
+2017-11-01 16:57:00||||{"dns":"0ms","tcp":"0ms","request":"0ms","response":"71ms","domLoaded":"462ms (263ms)","loadEvent":"0ms","total":"563ms (563ms)"}
+2017-11-01 16:57:00|f70f623f74dc152e2d95015713b788cb||1:1076357490|{"dns":"114ms","tcp":"462ms (328ms)","request":"200ms","response":"15ms","domLoaded":"1066ms (1065ms)","loadEvent":"1ms","total":"2724ms (2723ms)","apn":""}
+2017-11-01 16:57:19||||{"dns":"0ms","tcp":"0ms","request":"46ms","response":"3ms","domLoaded":"191ms (185ms)","loadEvent":"0ms","total":"275ms (275ms)","apn":""}
+2017-11-01 16:57:59|||1:2314812060|{"dns":"0ms","tcp":"0ms","request":"0ms","response":"709ms","domLoaded":"105ms (60ms)","loadEvent":"0ms","total":"834ms (834ms)"}
+2017-11-01 16:58:27|73bcdcc990b8690cc1784dbd13b788cb||1:784908788|{"dns":"0ms","tcp":"140ms (76ms)","request":"86ms","response":"8ms","domLoaded":"783ms (774ms)","loadEvent":"1ms","total":"1556ms (1555ms)","apn":""}
+2017-11-01 16:58:59|9fc4f6097c999ec02be6c65113b788cb|||{"dns":"0ms","tcp":"30ms","request":"62ms","response":"17ms","domLoaded":"2100ms (2089ms)","loadEvent":"1ms","total":"2856ms (2855ms)","apn":""}
+2017-11-01 16:59:50|945efbea79be4b1924b4e25a13b788cb|||{"dns":"0ms","tcp":"49ms","request":"86ms","response":"34ms","domLoaded":"1266ms (1264ms)","loadEvent":"0ms","total":"2581ms (2581ms)","apn":""}
+2017-11-01 16:59:55|0cca8b728f604aa6d597dfac13b788cb||1:755326762|{"dns":"0ms","tcp":"0ms","request":"2ms","response":"13ms","domLoaded":"451ms (443ms)","loadEvent":"0ms","total":"485ms (485ms)","apn":""}
+2017-11-01 17:00:54|e1386b1462fc29ec3ea40441101b88cb|||{"dns":"186ms","tcp":"314ms (223ms)","request":"114ms","response":"23ms","domLoaded":"1597ms (1379ms)","loadEvent":"0ms","total":"2284ms (2284ms)","apn":"cmnet"}
+2017-11-01 17:01:04||||{"dns":"33ms","tcp":"272ms (211ms)","request":"80ms","response":"39ms","domLoaded":"461ms (461ms)","loadEvent":"0ms","total":"883ms (883ms)"}
+2017-11-01 17:01:48|1dc497e89edaeca5c9e1e8bd13b788cb||1:2519710845|{"dns":"0ms","tcp":"0ms","request":"41ms","response":"7ms","domLoaded":"389ms (345ms)","loadEvent":"1ms","total":"595ms (594ms)","apn":"Wlan"}
+2017-11-01 17:01:56|6db4e798ef612e50b567b1cd11dd88cb|||{"dns":"0ms","tcp":"0ms","request":"46ms","response":"15ms","domLoaded":"237ms (237ms)","loadEvent":"0ms","total":"361ms (361ms)","apn":""}
+2017-11-01 17:02:01||||{"dns":"3ms","tcp":"92ms","request":"149ms","response":"14ms","domLoaded":"2688ms (2678ms)","loadEvent":"18ms","total":"4763ms (4745ms)","apn":""}
+2017-11-01 17:02:06|428eca1da0ac5754f618d38c13b788cb|||{"dns":"0ms","tcp":"35ms","request":"111ms","response":"29ms","domLoaded":"1322ms (1315ms)","loadEvent":"1ms","total":"3772ms (3771ms)","apn":""}
+2017-11-01 17:02:29|6db4e798ef612e50b567b1cd11dd88cb|||{"dns":"0ms","tcp":"0ms","request":"47ms","response":"63ms","domLoaded":"212ms (211ms)","loadEvent":"0ms","total":"460ms (460ms)","apn":""}
+2017-11-01 17:02:55|6db4e798ef612e50b567b1cd11dd88cb|||{"dns":"0ms","tcp":"0ms","request":"43ms","response":"72ms","domLoaded":"237ms (236ms)","loadEvent":"0ms","total":"406ms (406ms)","apn":""}
+2017-11-01 17:03:16|35ecbfc0b6729c60e8b9dd9513b788cb||1:2267702815|{"dns":"0ms","tcp":"0ms","request":"108ms","response":"4ms","domLoaded":"371ms (369ms)","loadEvent":"0ms","total":"497ms (497ms)","apn":""}
+2017-11-01 17:03:19|6db4e798ef612e50b567b1cd11dd88cb|||{"dns":"0ms","tcp":"0ms","request":"43ms","response":"38ms","domLoaded":"209ms (208ms)","loadEvent":"0ms","total":"353ms (353ms)","apn":""}
+2017-11-01 17:03:28|a56a0f1548b9ac8c1011746b106088cb|||{"dns":"0ms","tcp":"29ms","request":"61ms","response":"13ms","domLoaded":"687ms (684ms)","loadEvent":"9ms","total":"1833ms (1824ms)","apn":""}
+2017-11-01 17:03:54|a66a2ef9452e3fae1394456813b788cb|||{"dns":"0ms","tcp":"48ms","request":"2377ms","response":"316ms","domLoaded":"4793ms (4787ms)","loadEvent":"1ms","total":"16541ms (16539ms)","apn":""}
+2017-11-01 17:04:57|fb22710e797799cb206b0e5b13b788cb|||{"dns":"0ms","tcp":"76ms","request":"90ms","response":"18ms","domLoaded":"617ms (616ms)","loadEvent":"1ms","total":"2134ms (2133ms)","apn":""}
+2017-11-01 17:05:27|cb07439428bdeead7f6ad705116588cb|||{"dns":"96ms","tcp":"50ms","request":"111ms","response":"91ms","domLoaded":"2372ms (2370ms)","loadEvent":"0ms","total":"4600ms (4600ms)","apn":""}
+2017-11-01 17:06:00|f9de11e4182517ac4f3a693713b788cb|||{"dns":"0ms","tcp":"100ms","request":"215ms","response":"87ms","domLoaded":"1456ms (1454ms)","loadEvent":"1ms","total":"3450ms (3449ms)","apn":""}
+2017-11-01 17:06:11|498fce37ca3084ad97ef9be913b788cb|||{"dns":"9ms","tcp":"46ms","request":"56ms","response":"23ms","domLoaded":"897ms (896ms)","loadEvent":"0ms","total":"2319ms (2318ms)","apn":""}
+2017-11-01 17:06:35|35ecbfc0b6729c60e8b9dd9513b788cb||1:2267702815|{"dns":"0ms","tcp":"250ms (87ms)","request":"110ms","response":"4ms","domLoaded":"506ms (505ms)","loadEvent":"0ms","total":"887ms (887ms)","apn":""}
+2017-11-01 17:08:01|4736b25ca64c68e5fb9c9b89130588cb|||{"dns":"0ms","tcp":"0ms","request":"81ms","response":"36ms","domLoaded":"965ms (960ms)","loadEvent":"12ms","total":"2141ms (2129ms)","apn":""}
+2017-11-01 17:08:04|f62f7c037b4494f52cfa045613b788cb|||{"dns":"0ms","tcp":"163ms (113ms)","request":"45ms","response":"14ms","domLoaded":"862ms (521ms)","loadEvent":"1ms","total":"1117ms (1116ms)","apn":"Wlan"}
+2017-11-01 17:08:13|10d6976e92dc2d00c883b0b013b788cb||2:o9GiTuIT9Q-nbxs-vaKnEG7DwCR0|{"dns":"0ms","tcp":"0ms","request":"5ms","response":"12ms","domLoaded":"592ms (472ms)","loadEvent":"1ms","total":"768ms (767ms)","apn":"Wlan"}
+2017-11-01 17:09:15|ac7526592f881fe877bdee0c117888cb||2:o9GiTuM2QCp6Mp4cH1p-o8dF7WPw|{"dns":"0ms","tcp":"74ms (51ms)","request":"67ms","response":"3ms","domLoaded":"30953ms (30940ms)","loadEvent":"1ms","total":"31111ms (31110ms)","apn":"ctnet"}
+2017-11-01 17:10:06|d6a723cd361da569610a1f18138988cb|||{"dns":"0ms","tcp":"0ms","request":"15ms","response":"28ms","domLoaded":"3056ms (985ms)","loadEvent":"0ms","total":"3211ms (3211ms)","apn":"Wlan"}
+2017-11-01 17:10:08|7eb8f900fd176feea7d6bcde118c88cb|IQB79_GA/793650&IMTT_3/793650&IPH&468340&iPhone6&50001&10132&iOS10.1.1&V3||{"dns":"0ms","tcp":"0ms","request":"0ms","response":"935ms","domLoaded":"1605ms (1256ms)","loadEvent":"0ms","total":"2546ms (2546ms)","apn":"wifi"}
+2017-11-01 17:10:24|d8204d105bf50d2502d0367813b788cb|||{"dns":"0ms","tcp":"61ms","request":"101ms","response":"8ms","domLoaded":"836ms (835ms)","loadEvent":"1ms","total":"2945ms (2944ms)","apn":""}
+2017-11-01 17:10:31||||{"dns":"0ms","tcp":"0ms","request":"65ms","response":"29ms","domLoaded":"634ms (619ms)","loadEvent":"2ms","total":"1209ms (1207ms)","apn":""}
+2017-11-01 17:10:33|4ab2df82c9f4c1129d48daea13b788cb||1:1091923939|{"dns":"0ms","tcp":"149ms (51ms)","request":"78ms","response":"9ms","domLoaded":"455ms (454ms)","loadEvent":"0ms","total":"706ms (706ms)","apn":""}
+2017-11-01 17:10:41|672e8fbb8b72ac40d27c31a9111488cb|||{"dns":"0ms","tcp":"81ms (44ms)","request":"82ms","response":"5ms","domLoaded":"614ms (483ms)","loadEvent":"0ms","total":"1139ms (1139ms)","apn":"ctlte"}
+2017-11-01 17:10:44|fa36591417e17f814a5c733413b788cb|||{"dns":"0ms","tcp":"108ms","request":"124ms","response":"16ms","domLoaded":"547ms (546ms)","loadEvent":"0ms","total":"1640ms (1640ms)","apn":""}
+2017-11-01 17:10:56|1631fe0bf5497b48ae22ead813b788cb||1:2503279853|{"dns":"48ms","tcp":"203ms (164ms)","request":"50ms","response":"13ms","domLoaded":"877ms (833ms)","loadEvent":"1ms","total":"1713ms (1711ms)","apn":""}
+2017-11-01 17:11:14|a8b9577c45498d621418046610ee88cb|||{"dns":"137ms","tcp":"226ms (177ms)","request":"68ms","response":"4ms","domLoaded":"498ms (379ms)","loadEvent":"0ms","total":"947ms (947ms)","apn":"wonet"}
+2017-11-01 17:11:20|6660c1478bfcc450d665e3a813b788cb|||{"dns":"0ms","tcp":"49ms","request":"105ms","response":"7ms","domLoaded":"767ms (765ms)","loadEvent":"0ms","total":"1693ms (1692ms)","apn":""}
+2017-11-01 17:11:23|3ef19184d269627a88c95ef011fa88cb|IQB78_GA/783619&IMTT_3/783619&IPH&6712040&iPhone6p&50001&10096&iOS10.2&V3||{"dns":"0ms","tcp":"0ms","request":"0ms","response":"341ms","domLoaded":"313ms (286ms)","loadEvent":"0ms","total":"668ms (668ms)","apn":"wifi"}
+2017-11-01 17:12:06|c40243ba47aea0e01d30b86413b788cb||1:863887069|{"dns":"0ms","tcp":"0ms","request":"2ms","response":"16ms","domLoaded":"393ms (391ms)","loadEvent":"5ms","total":"422ms (417ms)","apn":""}
+2017-11-01 17:13:05|95b27d8877ef0a9e2335895b12db88cb|||{"dns":"150ms","tcp":"14ms","request":"44ms","response":"13ms","domLoaded":"985ms (980ms)","loadEvent":"1ms","total":"2507ms (2506ms)","apn":""}
+2017-11-01 17:13:09|381fd025daf5a2b58eb13ef612d688cb|IQB71_GA/712737&IMTT_3/712737&IPH&468340&iPhone6s&50001&9842&iOS9.2&V3||{"dns":"0ms","tcp":"0ms","request":"0ms","response":"18ms","domLoaded":"83ms (83ms)","loadEvent":"0ms","total":"108ms (107ms)","apn":"wifi"}
+2017-11-01 17:13:10|||1:793284245|{"dns":"1ms","tcp":"213ms (175ms)","request":"59ms","response":"55ms","domLoaded":"851ms (617ms)","loadEvent":"0ms","total":"1504ms (1504ms)","apn":"4g"}
+2017-11-01 17:13:38|77b8d8cd94adc28fc31a4eb913b788cb||1:1908661430|{"dns":"0ms","tcp":"199ms (51ms)","request":"58ms","response":"19ms","domLoaded":"463ms (456ms)","loadEvent":"0ms","total":"761ms (761ms)","apn":""}
+2017-11-01 17:14:24|7aa3f08ff9f34d5ab431a8da10ee88cb|||{"dns":"12ms","tcp":"31ms","request":"40ms","response":"21ms","domLoaded":"488ms (486ms)","loadEvent":"1ms","total":"1439ms (1438ms)","apn":""}
+2017-11-01 17:14:32|6ca3c3d680519fcbd99caaa213b788cb|||{"dns":"0ms","tcp":"52ms","request":"84ms","response":"15ms","domLoaded":"424ms (421ms)","loadEvent":"0ms","total":"1240ms (1240ms)","apn":""}
+2017-11-01 17:16:17||||{"dns":"19ms","tcp":"667ms (653ms)","request":"41ms","response":"2ms","domLoaded":"775ms (773ms)","loadEvent":"0ms","total":"1532ms (1532ms)","apn":""}
+2017-11-01 17:16:23|3bd0a534b8bc931de1964d9b100988cb|IQB79_GA/793650&IMTT_3/793650&IPH&468340&iPhone6s&50001&10132&iOS10.3.3&V3|2:o9GiTuHDkveI8vIEyvVbYIV6AbUs|{"dns":"0ms","tcp":"0ms","request":"0ms","response":"160ms","domLoaded":"253ms (170ms)","loadEvent":"0ms","total":"487ms (487ms)","apn":"wifi"}
+2017-11-01 17:16:30|3bd0a534b8bc931de1964d9b100988cb|IQB79_GA/793650&IMTT_3/793650&IPH&468340&iPhone6s&50001&10132&iOS10.3.3&V3|2:o9GiTuHDkveI8vIEyvVbYIV6AbUs|{"dns":"0ms","tcp":"0ms","request":"0ms","response":"75ms","domLoaded":"262ms (198ms)","loadEvent":"1ms","total":"334ms (333ms)","apn":"wifi"}
+2017-11-01 17:16:47|c61f4c3345d67b2a1b2b426613b788cb||1:755128925|{"dns":"0ms","tcp":"215ms (136ms)","request":"180ms","response":"5ms","domLoaded":"1693ms (1680ms)","loadEvent":"0ms","total":"2614ms (2613ms)","apn":""}
+2017-11-01 17:17:11|6aa6ca5486f8889ddb95bea413b788cb||2:o9GiTuADWxxVLMdcT2oNQSV6N31w|{"dns":"0ms","tcp":"0ms","request":"106ms","response":"15ms","domLoaded":"2289ms (2286ms)","loadEvent":"0ms","total":"2488ms (2487ms)","apn":"cmnet"}
+2017-11-01 17:17:26|9bd2e166766be10f2f0a3e5510ee88cb||2:o9GiTuN2am1XmmXzkpvLpgTuWlt0|{"dns":"0ms","tcp":"0ms","request":"111ms","response":"5ms","domLoaded":"862ms (860ms)","loadEvent":"1ms","total":"1065ms (1064ms)","apn":"cmnet"}
+2017-11-01 17:18:17|f73b57c91b9d3a0741d7ee3911dd88cb|||{"dns":"0ms","tcp":"0ms","request":"98ms","response":"8ms","domLoaded":"363ms (362ms)","loadEvent":"0ms","total":"1034ms (1034ms)","apn":""}
+2017-11-01 17:18:33|ea2649040781a5025a4cf22413b788cb|||{"dns":"0ms","tcp":"39ms","request":"73ms","response":"49ms","domLoaded":"2331ms (2312ms)","loadEvent":"2ms","total":"4897ms (4894ms)","apn":""}
+2017-11-01 17:18:39|f73b57c91b9d3a0741d7ee3911dd88cb|||{"dns":"0ms","tcp":"0ms","request":"49ms","response":"8ms","domLoaded":"358ms (357ms)","loadEvent":"1ms","total":"889ms (888ms)","apn":""}
+2017-11-01 17:18:47|f73b57c91b9d3a0741d7ee3911dd88cb|||{"dns":"0ms","tcp":"0ms","request":"49ms","response":"2ms","domLoaded":"461ms (460ms)","loadEvent":"1ms","total":"922ms (921ms)","apn":""}
+2017-11-01 17:19:00|f73b57c91b9d3a0741d7ee3911dd88cb|||{"dns":"0ms","tcp":"0ms","request":"58ms","response":"3ms","domLoaded":"364ms (363ms)","loadEvent":"0ms","total":"1085ms (1084ms)","apn":""}
+2017-11-01 17:19:02|f73b57c91b9d3a0741d7ee3911dd88cb|||{"dns":"0ms","tcp":"0ms","request":"59ms","response":"7ms","domLoaded":"358ms (357ms)","loadEvent":"4ms","total":"876ms (872ms)","apn":""}
+2017-11-01 17:19:05|||1:446408641|{"dns":"0ms","tcp":"0ms","request":"0ms","response":"457ms","domLoaded":"518ms (518ms)","loadEvent":"0ms","total":"935ms (935ms)"}
+2017-11-01 17:19:10|f73b57c91b9d3a0741d7ee3911dd88cb|||{"dns":"0ms","tcp":"0ms","request":"62ms","response":"3ms","domLoaded":"499ms (498ms)","loadEvent":"1ms","total":"921ms (920ms)","apn":""}
+2017-11-01 17:19:16|cd02677d20e86bcc7b1dcf03117888cb|||{"dns":"35ms","tcp":"46ms","request":"51ms","response":"14ms","domLoaded":"1886ms (1884ms)","loadEvent":"1ms","total":"3152ms (3151ms)","apn":""}
+2017-11-01 17:19:25||||{"dns":"0ms","tcp":"0ms","request":"3ms","response":"10ms","domLoaded":"527ms (462ms)","loadEvent":"1ms","total":"626ms (625ms)","apn":""}
+2017-11-01 17:19:30|f73b57c91b9d3a0741d7ee3911dd88cb|||{"dns":"0ms","tcp":"0ms","request":"57ms","response":"3ms","domLoaded":"413ms (412ms)","loadEvent":"8ms","total":"1296ms (1288ms)","apn":""}
+2017-11-01 17:19:32|f73b57c91b9d3a0741d7ee3911dd88cb|||{"dns":"0ms","tcp":"0ms","request":"53ms","response":"4ms","domLoaded":"440ms (439ms)","loadEvent":"0ms","total":"1305ms (1305ms)","apn":""}
+2017-11-01 17:19:32|7b0a83ea9ce18669cdbc0bb514f488cb|||{"dns":"68ms","tcp":"301ms (274ms)","request":"32ms","response":"12ms","domLoaded":"1489ms (1107ms)","loadEvent":"1ms","total":"2184ms (2183ms)","apn":"Wlan"}
+2017-11-01 17:19:46|01cda13fed571e94b42038cf13b788cb||1:386795377|{"dns":"0ms","tcp":"0ms","request":"2ms","response":"20ms","domLoaded":"336ms (335ms)","loadEvent":"0ms","total":"374ms (374ms)","apn":""}
+2017-11-01 17:19:49|4067a85da2d245ecf4831c8e13b788cb|||{"dns":"0ms","tcp":"54ms","request":"67ms","response":"8ms","domLoaded":"896ms (892ms)","loadEvent":"16ms","total":"2908ms (2892ms)","apn":""}
+2017-11-01 17:20:18|c80767722b1b2b9d7bb92906113e88cb|||{"dns":"0ms","tcp":"49ms","request":"89ms","response":"36ms","domLoaded":"1083ms (1080ms)","loadEvent":"1ms","total":"2703ms (2702ms)","apn":""}
+2017-11-01 17:20:30|f73b57c91b9d3a0741d7ee3911dd88cb|||{"dns":"0ms","tcp":"0ms","request":"49ms","response":"4ms","domLoaded":"342ms (340ms)","loadEvent":"0ms","total":"522ms (522ms)","apn":""}
+2017-11-01 17:20:35|f73b57c91b9d3a0741d7ee3911dd88cb|||{"dns":"0ms","tcp":"0ms","request":"369ms","response":"3ms","domLoaded":"449ms (448ms)","loadEvent":"1ms","total":"891ms (890ms)","apn":""}
+2017-11-01 17:21:31|||1:289946944|{"dns":"0ms","tcp":"0ms","request":"0ms","response":"515ms","domLoaded":"1105ms (819ms)","loadEvent":"3ms","total":"1637ms (1634ms)"}
+2017-11-01 17:21:37|f73b57c91b9d3a0741d7ee3911dd88cb|||{"dns":"0ms","tcp":"0ms","request":"54ms","response":"7ms","domLoaded":"488ms (486ms)","loadEvent":"1ms","total":"1000ms (999ms)","apn":""}
+2017-11-01 17:21:46|f73b57c91b9d3a0741d7ee3911dd88cb|||{"dns":"0ms","tcp":"0ms","request":"61ms","response":"5ms","domLoaded":"350ms (348ms)","loadEvent":"1ms","total":"1490ms (1488ms)","apn":""}
+2017-11-01 17:21:48|f73b57c91b9d3a0741d7ee3911dd88cb|||{"dns":"0ms","tcp":"0ms","request":"53ms","response":"10ms","domLoaded":"322ms (321ms)","loadEvent":"1ms","total":"1059ms (1058ms)","apn":""}
+2017-11-01 17:22:01|f73b57c91b9d3a0741d7ee3911dd88cb|||{"dns":"0ms","tcp":"0ms","request":"51ms","response":"4ms","domLoaded":"333ms (332ms)","loadEvent":"1ms","total":"515ms (514ms)","apn":""}
+2017-11-01 17:22:05|aef1db8042a791e31b308d60111488cb|||{"dns":"707ms","tcp":"51ms","request":"70ms","response":"14ms","domLoaded":"1603ms (1602ms)","loadEvent":"0ms","total":"3224ms (3224ms)","apn":""}
+2017-11-01 17:22:26|f73b57c91b9d3a0741d7ee3911dd88cb|||{"dns":"0ms","tcp":"0ms","request":"59ms","response":"6ms","domLoaded":"566ms (565ms)","loadEvent":"0ms","total":"937ms (937ms)","apn":""}
+2017-11-01 17:22:41|f73b57c91b9d3a0741d7ee3911dd88cb|||{"dns":"0ms","tcp":"0ms","request":"55ms","response":"13ms","domLoaded":"333ms (332ms)","loadEvent":"1ms","total":"1099ms (1098ms)","apn":""}
+2017-11-01 17:22:53|f73b57c91b9d3a0741d7ee3911dd88cb|||{"dns":"0ms","tcp":"0ms","request":"84ms","response":"9ms","domLoaded":"467ms (466ms)","loadEvent":"2ms","total":"741ms (739ms)","apn":""}
+2017-11-01 17:22:55|f73b57c91b9d3a0741d7ee3911dd88cb|||{"dns":"0ms","tcp":"0ms","request":"54ms","response":"3ms","domLoaded":"327ms (326ms)","loadEvent":"0ms","total":"739ms (739ms)","apn":""}
+2017-11-01 17:22:57||||{"dns":"0ms","tcp":"0ms","request":"2ms","response":"34ms","domLoaded":"401ms (399ms)","loadEvent":"0ms","total":"585ms (585ms)","apn":""}
+2017-11-01 17:22:59|e31b762b60f4ff753c52e14313b788cb||1:1276896860|{"dns":"0ms","tcp":"0ms","request":"13ms","response":"6ms","domLoaded":"999ms (609ms)","loadEvent":"1ms","total":"1084ms (1083ms)","apn":"cmnet"}
+2017-11-01 17:23:20|f73b57c91b9d3a0741d7ee3911dd88cb|||{"dns":"0ms","tcp":"0ms","request":"65ms","response":"5ms","domLoaded":"412ms (409ms)","loadEvent":"1ms","total":"571ms (570ms)","apn":""}
+2017-11-01 17:23:27|f73b57c91b9d3a0741d7ee3911dd88cb|||{"dns":"0ms","tcp":"0ms","request":"58ms","response":"4ms","domLoaded":"609ms (608ms)","loadEvent":"1ms","total":"1513ms (1512ms)","apn":""}
+2017-11-01 17:23:38|||1:694910769|{"dns":"0ms","tcp":"0ms","request":"0ms","response":"68ms","domLoaded":"58ms (39ms)","loadEvent":"0ms","total":"136ms (135ms)"}
+2017-11-01 17:23:40|f73b57c91b9d3a0741d7ee3911dd88cb|||{"dns":"0ms","tcp":"0ms","request":"52ms","response":"4ms","domLoaded":"341ms (339ms)","loadEvent":"0ms","total":"1170ms (1170ms)","apn":""}
+2017-11-01 17:23:43|f73b57c91b9d3a0741d7ee3911dd88cb|||{"dns":"0ms","tcp":"0ms","request":"76ms","response":"17ms","domLoaded":"512ms (511ms)","loadEvent":"7ms","total":"1189ms (1181ms)","apn":""}
+2017-11-01 17:23:45|||1:353726310|{"dns":"0ms","tcp":"0ms","request":"0ms","response":"385ms","domLoaded":"165ms (50ms)","loadEvent":"1ms","total":"573ms (572ms)"}
+2017-11-01 17:23:47|f73b57c91b9d3a0741d7ee3911dd88cb|||{"dns":"0ms","tcp":"0ms","request":"51ms","response":"4ms","domLoaded":"456ms (455ms)","loadEvent":"1ms","total":"1209ms (1208ms)","apn":""}
+2017-11-01 17:23:58|f73b57c91b9d3a0741d7ee3911dd88cb|||{"dns":"0ms","tcp":"0ms","request":"58ms","response":"6ms","domLoaded":"431ms (430ms)","loadEvent":"1ms","total":"1371ms (1370ms)","apn":""}
+2017-11-01 17:24:04|e9f6958705fe40ea5f129027111488cb|||{"dns":"25ms","tcp":"50ms","request":"59ms","response":"46ms","domLoaded":"3443ms (3438ms)","loadEvent":"39ms","total":"5549ms (5509ms)","apn":""}
+2017-11-01 17:24:35|f73b57c91b9d3a0741d7ee3911dd88cb|||{"dns":"0ms","tcp":"0ms","request":"53ms","response":"4ms","domLoaded":"486ms (484ms)","loadEvent":"0ms","total":"1350ms (1349ms)","apn":""}
+2017-11-01 17:25:05|f73b57c91b9d3a0741d7ee3911dd88cb|||{"dns":"0ms","tcp":"0ms","request":"61ms","response":"6ms","domLoaded":"387ms (386ms)","loadEvent":"0ms","total":"723ms (723ms)","apn":""}
+2017-11-01 17:25:13|f73b57c91b9d3a0741d7ee3911dd88cb|||{"dns":"0ms","tcp":"0ms","request":"57ms","response":"4ms","domLoaded":"427ms (426ms)","loadEvent":"0ms","total":"779ms (778ms)","apn":""}
+2017-11-01 17:25:19|f73b57c91b9d3a0741d7ee3911dd88cb|||{"dns":"0ms","tcp":"0ms","request":"58ms","response":"4ms","domLoaded":"437ms (433ms)","loadEvent":"1ms","total":"573ms (572ms)","apn":""}
+2017-11-01 17:25:46|f73b57c91b9d3a0741d7ee3911dd88cb|||{"dns":"0ms","tcp":"0ms","request":"63ms","response":"6ms","domLoaded":"373ms (372ms)","loadEvent":"0ms","total":"523ms (523ms)","apn":""}
+2017-11-01 17:25:50|d60f5c23552ccb5f072a1d76130388cb|||{"dns":"74ms","tcp":"25ms","request":"56ms","response":"123ms","domLoaded":"2110ms (2107ms)","loadEvent":"3ms","total":"4544ms (4540ms)","apn":""}
+2017-11-01 17:25:57|f920730c7ad3f555220d765913b788cb||1:1946961248|{"dns":"0ms","tcp":"20ms (10ms)","request":"21ms","response":"4ms","domLoaded":"499ms (497ms)","loadEvent":"0ms","total":"640ms (640ms)","apn":""}
+2017-11-01 17:26:01|2007c83dc2938c5c941a6bee12c588cb|||{"dns":"0ms","tcp":"137ms (71ms)","request":"91ms","response":"5ms","domLoaded":"878ms (565ms)","loadEvent":"1ms","total":"1417ms (1416ms)","apn":"cmnet"}
+2017-11-01 17:26:07|6f97faa7ec4125feb526fccf13b788cb||1:1417142341|{"dns":"1ms","tcp":"139ms (80ms)","request":"64ms","response":"10ms","domLoaded":"815ms (808ms)","loadEvent":"0ms","total":"1052ms (1052ms)","apn":""}
+2017-11-01 17:26:09|f73b57c91b9d3a0741d7ee3911dd88cb|||{"dns":"0ms","tcp":"0ms","request":"54ms","response":"6ms","domLoaded":"424ms (424ms)","loadEvent":"0ms","total":"1307ms (1306ms)","apn":""}
+2017-11-01 17:26:15|f8df10e51a90f54b4d914c36127d88cb|||{"dns":"0ms","tcp":"0ms","request":"47ms","response":"31ms","domLoaded":"569ms (568ms)","loadEvent":"0ms","total":"1693ms (1693ms)","apn":""}
+2017-11-01 17:26:17|33fc9c89d0a2f995859549fd122188cb|||{"dns":"0ms","tcp":"215ms (153ms)","request":"76ms","response":"7ms","domLoaded":"792ms (562ms)","loadEvent":"0ms","total":"1440ms (1439ms)","apn":"Wlan"}
+2017-11-01 17:26:29|f73b57c91b9d3a0741d7ee3911dd88cb|||{"dns":"0ms","tcp":"0ms","request":"57ms","response":"4ms","domLoaded":"401ms (400ms)","loadEvent":"1ms","total":"876ms (875ms)","apn":""}
+2017-11-01 17:26:36|35ff964cd967c7b780bfb6fb11ec88cb|||{"dns":"27ms","tcp":"78ms","request":"101ms","response":"7ms","domLoaded":"651ms (648ms)","loadEvent":"1ms","total":"1344ms (1343ms)","apn":""}
+2017-11-01 17:26:58|f73b57c91b9d3a0741d7ee3911dd88cb|||{"dns":"0ms","tcp":"0ms","request":"63ms","response":"21ms","domLoaded":"393ms (392ms)","loadEvent":"0ms","total":"1126ms (1126ms)","apn":""}
+2017-11-01 17:27:00|f73b57c91b9d3a0741d7ee3911dd88cb|||{"dns":"0ms","tcp":"0ms","request":"49ms","response":"6ms","domLoaded":"324ms (322ms)","loadEvent":"6ms","total":"688ms (682ms)","apn":""}
+2017-11-01 17:27:01|15cc9fe096a5f2d9dc705db513b788cb||1:2039318489|{"dns":"0ms","tcp":"0ms","request":"85ms","response":"14ms","domLoaded":"682ms (609ms)","loadEvent":"0ms","total":"843ms (843ms)","apn":"cmnet"}
+2017-11-01 17:27:08|b0d2c7c9523b235e06819e7e13b788cb|||{"dns":"0ms","tcp":"0ms","request":"89ms","response":"20ms","domLoaded":"612ms (610ms)","loadEvent":"0ms","total":"925ms (925ms)","apn":""}
+2017-11-01 17:27:13|f73b57c91b9d3a0741d7ee3911dd88cb|||{"dns":"0ms","tcp":"0ms","request":"52ms","response":"4ms","domLoaded":"459ms (457ms)","loadEvent":"1ms","total":"1204ms (1203ms)","apn":""}
+2017-11-01 17:27:34|f73b57c91b9d3a0741d7ee3911dd88cb|||{"dns":"0ms","tcp":"0ms","request":"58ms","response":"7ms","domLoaded":"469ms (467ms)","loadEvent":"1ms","total":"1267ms (1266ms)","apn":""}
+2017-11-01 17:27:36|e4f299b4099448a45014572a101b88cb|||{"dns":"0ms","tcp":"55ms","request":"114ms","response":"7ms","domLoaded":"1054ms (1052ms)","loadEvent":"12ms","total":"2577ms (2565ms)","apn":""}
+2017-11-01 17:27:47|25ea8a9fc6ba91bc92c2b2eb122188cb|||{"dns":"0ms","tcp":"49ms","request":"66ms","response":"60ms","domLoaded":"1036ms (1035ms)","loadEvent":"0ms","total":"2739ms (2738ms)","apn":""}
+2017-11-01 17:27:57|4385c43dc18b7f449be780e313b788cb|||{"dns":"0ms","tcp":"0ms","request":"64ms","response":"10ms","domLoaded":"1651ms (1430ms)","loadEvent":"0ms","total":"1752ms (1752ms)","apn":"Wlan"}
+2017-11-01 17:27:57|7db7120390f6cdb5cc5559b3101b88cb|||{"dns":"0ms","tcp":"46ms","request":"94ms","response":"28ms","domLoaded":"873ms (870ms)","loadEvent":"0ms","total":"6289ms (6289ms)","apn":""}
+2017-11-01 17:27:58||||{"dns":"0ms","tcp":"180ms (82ms)","request":"113ms","response":"14ms","domLoaded":"230ms (230ms)","loadEvent":"0ms","total":"660ms (659ms)","apn":""}
+2017-11-01 17:27:59|b56c3f40369a9dda6fc6bd1513b788cb|||{"dns":"0ms","tcp":"54ms","request":"164ms","response":"80ms","domLoaded":"722ms (719ms)","loadEvent":"1ms","total":"1693ms (1692ms)","apn":""}
+2017-11-01 17:28:06|f73b57c91b9d3a0741d7ee3911dd88cb|||{"dns":"0ms","tcp":"0ms","request":"51ms","response":"5ms","domLoaded":"474ms (473ms)","loadEvent":"8ms","total":"668ms (660ms)","apn":""}
+2017-11-01 17:28:13|f93571a61a96d2b459c8253713b788cb||1:289889563|{"dns":"98ms","tcp":"215ms (163ms)","request":"64ms","response":"6ms","domLoaded":"1090ms (820ms)","loadEvent":"1ms","total":"1643ms (1642ms)","apn":"wonet"}
+2017-11-01 17:28:45|5c2da947bc935a5beb61ce92132488cb|||{"dns":"53ms","tcp":"175ms (123ms)","request":"71ms","response":"7ms","domLoaded":"1611ms (799ms)","loadEvent":"0ms","total":"2022ms (2021ms)","apn":"wonet"}
+2017-11-01 17:28:45|f73b57c91b9d3a0741d7ee3911dd88cb|||{"dns":"0ms","tcp":"0ms","request":"58ms","response":"4ms","domLoaded":"379ms (378ms)","loadEvent":"0ms","total":"802ms (802ms)","apn":""}
+2017-11-01 17:28:45|bf66354a3d02c5ca6533ee1f122188cb|||{"dns":"0ms","tcp":"135ms (108ms)","request":"43ms","response":"9ms","domLoaded":"582ms (396ms)","loadEvent":"0ms","total":"792ms (792ms)","apn":"wonet"}
+2017-11-01 17:28:52|f73b57c91b9d3a0741d7ee3911dd88cb|||{"dns":"0ms","tcp":"0ms","request":"62ms","response":"3ms","domLoaded":"338ms (337ms)","loadEvent":"1ms","total":"831ms (830ms)","apn":""}
+2017-11-01 17:29:02|73549b6e90539ba0c11f23bd13b788cb||1:2598412004|{"dns":"0ms","tcp":"0ms","request":"2ms","response":"17ms","domLoaded":"450ms (449ms)","loadEvent":"0ms","total":"486ms (486ms)","apn":""}
+2017-11-01 17:29:28|f73b57c91b9d3a0741d7ee3911dd88cb|||{"dns":"0ms","tcp":"0ms","request":"59ms","response":"15ms","domLoaded":"402ms (401ms)","loadEvent":"1ms","total":"978ms (977ms)","apn":""}
+2017-11-01 17:29:35|f73b57c91b9d3a0741d7ee3911dd88cb|||{"dns":"0ms","tcp":"0ms","request":"57ms","response":"10ms","domLoaded":"435ms (434ms)","loadEvent":"1ms","total":"1020ms (1019ms)","apn":""}
+2017-11-01 17:29:41|fb036e33785381792d1ef65b117888cb|||{"dns":"42ms","tcp":"116ms","request":"50ms","response":"62ms","domLoaded":"365ms (364ms)","loadEvent":"2ms","total":"913ms (911ms)","apn":""}
+2017-11-01 17:30:03|20ef8a90cd18b35b9490c7ee13b788cb|||{"dns":"0ms","tcp":"0ms","request":"65ms","response":"32ms","domLoaded":"696ms (694ms)","loadEvent":"0ms","total":"2239ms (2239ms)","apn":""}
+2017-11-01 17:30:05|f73b57c91b9d3a0741d7ee3911dd88cb|||{"dns":"0ms","tcp":"0ms","request":"57ms","response":"19ms","domLoaded":"407ms (406ms)","loadEvent":"1ms","total":"865ms (864ms)","apn":""}
+2017-11-01 17:30:08|||1:997414437|{"dns":"0ms","tcp":"0ms","request":"0ms","response":"130ms","domLoaded":"208ms (196ms)","loadEvent":"0ms","total":"346ms (346ms)"}
+2017-11-01 17:30:15|f73b57c91b9d3a0741d7ee3911dd88cb|||{"dns":"0ms","tcp":"0ms","request":"61ms","response":"17ms","domLoaded":"386ms (385ms)","loadEvent":"4ms","total":"568ms (564ms)","apn":""}
+2017-11-01 17:30:17|f73b57c91b9d3a0741d7ee3911dd88cb|||{"dns":"0ms","tcp":"0ms","request":"59ms","response":"21ms","domLoaded":"449ms (445ms)","loadEvent":"6ms","total":"713ms (707ms)","apn":""}
+2017-11-01 17:30:19||||{"dns":"0ms","tcp":"334ms (181ms)","request":"76ms","response":"6ms","domLoaded":"1838ms (1836ms)","loadEvent":"0ms","total":"2300ms (2300ms)","apn":""}
+2017-11-01 17:30:19|f73b57c91b9d3a0741d7ee3911dd88cb|||{"dns":"0ms","tcp":"0ms","request":"55ms","response":"21ms","domLoaded":"457ms (456ms)","loadEvent":"1ms","total":"760ms (759ms)","apn":""}
+2017-11-01 17:30:47|f73b57c91b9d3a0741d7ee3911dd88cb|||{"dns":"0ms","tcp":"0ms","request":"52ms","response":"16ms","domLoaded":"395ms (394ms)","loadEvent":"0ms","total":"1007ms (1007ms)","apn":""}
+2017-11-01 17:30:54|f73b57c91b9d3a0741d7ee3911dd88cb|||{"dns":"0ms","tcp":"0ms","request":"52ms","response":"5ms","domLoaded":"483ms (481ms)","loadEvent":"1ms","total":"944ms (943ms)","apn":""}
+2017-11-01 17:31:01|f23d5d481189bb37467d3c3c13b788cb|||{"dns":"0ms","tcp":"35ms","request":"68ms","response":"44ms","domLoaded":"1432ms (1427ms)","loadEvent":"1ms","total":"3214ms (3212ms)","apn":""}
+2017-11-01 17:31:02|f73b57c91b9d3a0741d7ee3911dd88cb|||{"dns":"0ms","tcp":"0ms","request":"53ms","response":"36ms","domLoaded":"567ms (565ms)","loadEvent":"1ms","total":"1375ms (1373ms)","apn":""}
+2017-11-01 17:31:14|b778180d5be7429102bd677913b788cb|||{"dns":"78ms","tcp":"95ms","request":"69ms","response":"19ms","domLoaded":"778ms (777ms)","loadEvent":"5ms","total":"1973ms (1968ms)","apn":""}
+2017-11-01 17:31:18|f73b57c91b9d3a0741d7ee3911dd88cb|||{"dns":"0ms","tcp":"0ms","request":"122ms","response":"18ms","domLoaded":"400ms (397ms)","loadEvent":"0ms","total":"1082ms (1082ms)","apn":""}
+2017-11-01 17:31:21|bdf455615e404e3e09a36a73122188cb|||{"dns":"0ms","tcp":"0ms","request":"51ms","response":"2ms","domLoaded":"475ms (474ms)","loadEvent":"1ms","total":"629ms (628ms)","apn":"Wlan"}
+2017-11-01 17:31:24|||1:997414437|{"dns":"0ms","tcp":"0ms","request":"0ms","response":"138ms","domLoaded":"1339ms (1195ms)","loadEvent":"0ms","total":"1482ms (1482ms)"}
+2017-11-01 17:31:28|a56322db27ba3f887f3e480513b788cb|||{"dns":"0ms","tcp":"36ms","request":"85ms","response":"16ms","domLoaded":"679ms (676ms)","loadEvent":"0ms","total":"1102ms (1102ms)","apn":""}
+2017-11-01 17:31:55|31f7b64fb254b882e8c21b9113b788cb||1:410133662|{"dns":"19ms","tcp":"134ms (99ms)","request":"87ms","response":"5ms","domLoaded":"568ms (558ms)","loadEvent":"1ms","total":"1097ms (1096ms)","apn":""}
+2017-11-01 17:31:59|f73b57c91b9d3a0741d7ee3911dd88cb|||{"dns":"0ms","tcp":"0ms","request":"54ms","response":"25ms","domLoaded":"478ms (477ms)","loadEvent":"0ms","total":"1434ms (1433ms)","apn":""}
+2017-11-01 17:32:26|f73b57c91b9d3a0741d7ee3911dd88cb|||{"dns":"0ms","tcp":"0ms","request":"54ms","response":"25ms","domLoaded":"420ms (419ms)","loadEvent":"0ms","total":"1586ms (1586ms)","apn":""}
+2017-11-01 17:32:31|f73b57c91b9d3a0741d7ee3911dd88cb|||{"dns":"0ms","tcp":"0ms","request":"56ms","response":"12ms","domLoaded":"573ms (571ms)","loadEvent":"2ms","total":"1534ms (1532ms)","apn":""}
+2017-11-01 17:32:37|f73b57c91b9d3a0741d7ee3911dd88cb|||{"dns":"0ms","tcp":"0ms","request":"58ms","response":"18ms","domLoaded":"487ms (486ms)","loadEvent":"1ms","total":"1136ms (1135ms)","apn":""}
+2017-11-01 17:32:44|f73b57c91b9d3a0741d7ee3911dd88cb|||{"dns":"0ms","tcp":"0ms","request":"55ms","response":"19ms","domLoaded":"428ms (426ms)","loadEvent":"1ms","total":"1565ms (1564ms)","apn":""}
+2017-11-01 17:32:56|f73b57c91b9d3a0741d7ee3911dd88cb|||{"dns":"0ms","tcp":"0ms","request":"84ms","response":"22ms","domLoaded":"486ms (484ms)","loadEvent":"0ms","total":"892ms (892ms)","apn":""}
+2017-11-01 17:33:00|ec3566196f576c322541d44c10ee88cb|||{"dns":"0ms","tcp":"28ms","request":"78ms","response":"7ms","domLoaded":"625ms (622ms)","loadEvent":"0ms","total":"1880ms (1880ms)","apn":""}
+2017-11-01 17:33:01|f73b57c91b9d3a0741d7ee3911dd88cb|||{"dns":"0ms","tcp":"0ms","request":"56ms","response":"11ms","domLoaded":"581ms (579ms)","loadEvent":"1ms","total":"1513ms (1511ms)","apn":""}
+2017-11-01 17:33:12|f73b57c91b9d3a0741d7ee3911dd88cb|||{"dns":"0ms","tcp":"0ms","request":"57ms","response":"7ms","domLoaded":"427ms (426ms)","loadEvent":"0ms","total":"637ms (637ms)","apn":""}
+2017-11-01 17:33:32|f73b57c91b9d3a0741d7ee3911dd88cb|||{"dns":"0ms","tcp":"0ms","request":"96ms","response":"10ms","domLoaded":"361ms (360ms)","loadEvent":"4ms","total":"680ms (676ms)","apn":""}
+2017-11-01 17:33:39|f73b57c91b9d3a0741d7ee3911dd88cb|||{"dns":"0ms","tcp":"0ms","request":"54ms","response":"7ms","domLoaded":"479ms (477ms)","loadEvent":"1ms","total":"1108ms (1107ms)","apn":""}
+2017-11-01 17:33:41|f73b57c91b9d3a0741d7ee3911dd88cb|||{"dns":"0ms","tcp":"0ms","request":"57ms","response":"17ms","domLoaded":"444ms (442ms)","loadEvent":"10ms","total":"1211ms (1201ms)","apn":""}
+2017-11-01 17:33:50|f73b57c91b9d3a0741d7ee3911dd88cb|||{"dns":"0ms","tcp":"0ms","request":"54ms","response":"23ms","domLoaded":"477ms (476ms)","loadEvent":"1ms","total":"1579ms (1578ms)","apn":""}
+2017-11-01 17:33:58|8649293c6524adc731fe1f48115d88cb|IQB73_GA/732956&IMTT_3/732956&IPH&407140&iPhone5SGLOBAL&50001&9921&iOS11.0.3&V3||
+2017-11-01 17:34:10|f73b57c91b9d3a0741d7ee3911dd88cb|||{"dns":"0ms","tcp":"0ms","request":"60ms","response":"15ms","domLoaded":"501ms (499ms)","loadEvent":"0ms","total":"998ms (998ms)","apn":""}
+2017-11-01 17:34:36|1fe78ad79c5c2252c354ebbf106088cb|||{"dns":"188ms","tcp":"295ms (218ms)","request":"213ms","response":"7ms","domLoaded":"875ms (796ms)","loadEvent":"0ms","total":"1603ms (1602ms)","apn":"cmnet"}
+2017-11-01 17:34:53|f73b57c91b9d3a0741d7ee3911dd88cb|||{"dns":"0ms","tcp":"0ms","request":"52ms","response":"13ms","domLoaded":"345ms (345ms)","loadEvent":"1ms","total":"491ms (490ms)","apn":""}
+2017-11-01 17:34:56|||1:1006080650|{"dns":"0ms","tcp":"0ms","request":"0ms","response":"1050ms","domLoaded":"72ms (51ms)","loadEvent":"0ms","total":"1072ms (1071ms)"}
+2017-11-01 17:35:00|f73b57c91b9d3a0741d7ee3911dd88cb|||{"dns":"0ms","tcp":"0ms","request":"61ms","response":"4ms","domLoaded":"318ms (317ms)","loadEvent":"0ms","total":"460ms (460ms)","apn":""}
+2017-11-01 17:35:01|edca05f00fd8c44f5d23722313b788cb||1:360665775|{"dns":"0ms","tcp":"27ms","request":"157ms","response":"24ms","domLoaded":"1089ms (1088ms)","loadEvent":"9ms","total":"2187ms (2178ms)","apn":"Wlan"}
+2017-11-01 17:35:02|f73b57c91b9d3a0741d7ee3911dd88cb|||{"dns":"0ms","tcp":"0ms","request":"61ms","response":"6ms","domLoaded":"372ms (370ms)","loadEvent":"3ms","total":"544ms (541ms)","apn":""}
+2017-11-01 17:35:06|f73b57c91b9d3a0741d7ee3911dd88cb|||{"dns":"0ms","tcp":"0ms","request":"52ms","response":"4ms","domLoaded":"381ms (378ms)","loadEvent":"1ms","total":"529ms (528ms)","apn":""}
+2017-11-01 17:35:10|f73b57c91b9d3a0741d7ee3911dd88cb|||{"dns":"0ms","tcp":"0ms","request":"54ms","response":"4ms","domLoaded":"389ms (388ms)","loadEvent":"0ms","total":"623ms (623ms)","apn":""}
+2017-11-01 17:35:16|f73b57c91b9d3a0741d7ee3911dd88cb|||{"dns":"0ms","tcp":"0ms","request":"52ms","response":"6ms","domLoaded":"326ms (325ms)","loadEvent":"0ms","total":"888ms (888ms)","apn":""}
+2017-11-01 17:35:24|f73b57c91b9d3a0741d7ee3911dd88cb|||{"dns":"0ms","tcp":"0ms","request":"44ms","response":"4ms","domLoaded":"311ms (310ms)","loadEvent":"1ms","total":"422ms (421ms)","apn":""}
+2017-11-01 17:35:33|f73b57c91b9d3a0741d7ee3911dd88cb|||{"dns":"0ms","tcp":"0ms","request":"62ms","response":"5ms","domLoaded":"309ms (308ms)","loadEvent":"0ms","total":"1184ms (1184ms)","apn":""}
+2017-11-01 17:35:35|f73b57c91b9d3a0741d7ee3911dd88cb|||{"dns":"0ms","tcp":"0ms","request":"52ms","response":"4ms","domLoaded":"360ms (359ms)","loadEvent":"1ms","total":"632ms (631ms)","apn":""}
+2017-11-01 17:35:43||||{"dns":"50ms","tcp":"58ms","request":"128ms","response":"20ms","domLoaded":"912ms (904ms)","loadEvent":"1ms","total":"2471ms (2470ms)","apn":""}
+2017-11-01 17:35:45|8d7518450f555cda5715c22d13b788cb||1:759982893|{"dns":"50ms","tcp":"206ms (150ms)","request":"70ms","response":"4ms","domLoaded":"536ms (446ms)","loadEvent":"0ms","total":"888ms (888ms)","apn":"Wlan"}
+2017-11-01 17:36:00|e6c10efb05af6819572d6728128788cb||2:o9GiTuIC17MdXoXgel1N6mmMbKK8|{"dns":"0ms","tcp":"0ms","request":"132ms","response":"6ms","domLoaded":"397ms (353ms)","loadEvent":"1ms","total":"606ms (605ms)","apn":"cmnet"}
+2017-11-01 17:36:03|da157560369a9ab96f6b961412fb88cb||1:2457841939|{"dns":"0ms","tcp":"0ms","request":"2ms","response":"22ms","domLoaded":"655ms (651ms)","loadEvent":"0ms","total":"704ms (704ms)","apn":""}
+2017-11-01 17:36:04|||1:1049303547|{"dns":"78ms","tcp":"196ms (133ms)","request":"165ms","response":"3ms","domLoaded":"1062ms (1060ms)","loadEvent":"0ms","total":"1531ms (1531ms)","apn":""}
+2017-11-01 17:36:05|f73b57c91b9d3a0741d7ee3911dd88cb|||{"dns":"0ms","tcp":"0ms","request":"58ms","response":"4ms","domLoaded":"319ms (318ms)","loadEvent":"1ms","total":"456ms (455ms)","apn":""}
+2017-11-01 17:36:08|5d02be4ab1231808ebe50c9311dd88cb|||{"dns":"0ms","tcp":"42ms","request":"65ms","response":"18ms","domLoaded":"550ms (548ms)","loadEvent":"0ms","total":"1090ms (1090ms)","apn":""}
+2017-11-01 17:36:16|f73b57c91b9d3a0741d7ee3911dd88cb|||{"dns":"0ms","tcp":"0ms","request":"56ms","response":"3ms","domLoaded":"318ms (317ms)","loadEvent":"1ms","total":"459ms (458ms)","apn":""}
+2017-11-01 17:36:39|f73b57c91b9d3a0741d7ee3911dd88cb|||{"dns":"0ms","tcp":"0ms","request":"69ms","response":"13ms","domLoaded":"320ms (319ms)","loadEvent":"0ms","total":"478ms (478ms)","apn":""}
+2017-11-01 17:36:55|f73b57c91b9d3a0741d7ee3911dd88cb|||{"dns":"0ms","tcp":"0ms","request":"57ms","response":"3ms","domLoaded":"336ms (335ms)","loadEvent":"1ms","total":"464ms (463ms)","apn":""}
+2017-11-01 17:37:20||||{"dns":"0ms","tcp":"0ms","request":"43ms","response":"3ms","domLoaded":"850ms (590ms)","loadEvent":"0ms","total":"950ms (950ms)","apn":""}
+2017-11-01 17:37:24|da157560369a9ab96f6b961412fb88cb||1:2457841939|{"dns":"0ms","tcp":"0ms","request":"3ms","response":"17ms","domLoaded":"596ms (593ms)","loadEvent":"1ms","total":"631ms (630ms)","apn":""}
+2017-11-01 17:37:34|f73b57c91b9d3a0741d7ee3911dd88cb|||{"dns":"0ms","tcp":"0ms","request":"52ms","response":"4ms","domLoaded":"335ms (334ms)","loadEvent":"1ms","total":"462ms (461ms)","apn":""}
+2017-11-01 17:37:42|f73b57c91b9d3a0741d7ee3911dd88cb|||{"dns":"0ms","tcp":"0ms","request":"67ms","response":"3ms","domLoaded":"322ms (321ms)","loadEvent":"0ms","total":"462ms (462ms)","apn":""}
+2017-11-01 17:37:48|e8244b0605a422985def3b2613b788cb|||{"dns":"0ms","tcp":"0ms","request":"173ms","response":"1335ms","domLoaded":"9670ms (9670ms)","loadEvent":"0ms","total":"10012ms (10012ms)","apn":""}
+2017-11-01 17:37:49|f73b57c91b9d3a0741d7ee3911dd88cb|||{"dns":"0ms","tcp":"0ms","request":"58ms","response":"3ms","domLoaded":"426ms (425ms)","loadEvent":"1ms","total":"636ms (635ms)","apn":""}
+2017-11-01 17:38:02|d8147b36341e16666ce21e1613b788cb||1:1904307862|{"dns":"0ms","tcp":"0ms","request":"274ms","response":"5ms","domLoaded":"473ms (473ms)","loadEvent":"1ms","total":"763ms (762ms)","apn":""}
+2017-11-01 17:38:04|36f9998cd54f6a0282671bf813b788cb|||{"dns":"0ms","tcp":"30ms","request":"59ms","response":"11ms","domLoaded":"891ms (889ms)","loadEvent":"1ms","total":"2029ms (2028ms)","apn":""}
+2017-11-01 17:38:06||||{"dns":"0ms","tcp":"0ms","request":"129ms","response":"2ms","domLoaded":"418ms (412ms)","loadEvent":"0ms","total":"651ms (651ms)","apn":""}
+2017-11-01 17:38:12|d40d5e2157a8a10e0a58437413b788cb|||{"dns":"0ms","tcp":"0ms","request":"61ms","response":"5ms","domLoaded":"395ms (394ms)","loadEvent":"3ms","total":"556ms (553ms)","apn":""}
+2017-11-01 17:38:15|d40d5e2157a8a10e0a58437413b788cb|||{"dns":"0ms","tcp":"0ms","request":"54ms","response":"5ms","domLoaded":"241ms (240ms)","loadEvent":"0ms","total":"404ms (404ms)","apn":""}
+2017-11-01 17:38:35|d40d5e2157a8a10e0a58437413b788cb|||{"dns":"0ms","tcp":"0ms","request":"54ms","response":"4ms","domLoaded":"266ms (265ms)","loadEvent":"0ms","total":"396ms (396ms)","apn":""}
+2017-11-01 17:38:37|d40d5e2157a8a10e0a58437413b788cb|||{"dns":"0ms","tcp":"0ms","request":"54ms","response":"4ms","domLoaded":"249ms (249ms)","loadEvent":"0ms","total":"404ms (403ms)","apn":""}
+2017-11-01 17:38:39|d40d5e2157a8a10e0a58437413b788cb|||{"dns":"0ms","tcp":"0ms","request":"53ms","response":"5ms","domLoaded":"255ms (255ms)","loadEvent":"1ms","total":"399ms (398ms)","apn":""}
+2017-11-01 17:38:59|f73b57c91b9d3a0741d7ee3911dd88cb|||{"dns":"0ms","tcp":"0ms","request":"56ms","response":"5ms","domLoaded":"502ms (501ms)","loadEvent":"1ms","total":"697ms (696ms)","apn":""}
+2017-11-01 17:39:03|f73b57c91b9d3a0741d7ee3911dd88cb|||{"dns":"0ms","tcp":"0ms","request":"60ms","response":"4ms","domLoaded":"468ms (467ms)","loadEvent":"0ms","total":"707ms (707ms)","apn":""}
+2017-11-01 17:39:06|f73b57c91b9d3a0741d7ee3911dd88cb|||{"dns":"0ms","tcp":"0ms","request":"57ms","response":"4ms","domLoaded":"457ms (455ms)","loadEvent":"0ms","total":"591ms (591ms)","apn":""}
+2017-11-01 17:39:06|d40d5e2157a8a10e0a58437413b788cb|||{"dns":"0ms","tcp":"0ms","request":"63ms","response":"4ms","domLoaded":"250ms (249ms)","loadEvent":"0ms","total":"391ms (391ms)","apn":""}
+2017-11-01 17:39:09|f73b57c91b9d3a0741d7ee3911dd88cb|||{"dns":"0ms","tcp":"0ms","request":"60ms","response":"3ms","domLoaded":"440ms (439ms)","loadEvent":"1ms","total":"650ms (649ms)","apn":""}
+2017-11-01 17:39:12|f73b57c91b9d3a0741d7ee3911dd88cb|||{"dns":"0ms","tcp":"0ms","request":"68ms","response":"7ms","domLoaded":"450ms (449ms)","loadEvent":"0ms","total":"731ms (730ms)","apn":""}
+2017-11-01 17:39:16|f73b57c91b9d3a0741d7ee3911dd88cb|||{"dns":"0ms","tcp":"0ms","request":"57ms","response":"4ms","domLoaded":"510ms (509ms)","loadEvent":"1ms","total":"703ms (702ms)","apn":""}
+2017-11-01 17:39:19|d40d5e2157a8a10e0a58437413b788cb|||{"dns":"0ms","tcp":"0ms","request":"61ms","response":"3ms","domLoaded":"242ms (241ms)","loadEvent":"3ms","total":"385ms (382ms)","apn":""}
+2017-11-01 17:39:25|f73b57c91b9d3a0741d7ee3911dd88cb|||{"dns":"0ms","tcp":"0ms","request":"57ms","response":"6ms","domLoaded":"478ms (477ms)","loadEvent":"0ms","total":"761ms (760ms)","apn":""}
+2017-11-01 17:39:35|db02512e59780c6b0108937b11ab88cb|||{"dns":"0ms","tcp":"30ms","request":"101ms","response":"37ms","domLoaded":"719ms (716ms)","loadEvent":"0ms","total":"1823ms (1822ms)","apn":""}
+2017-11-01 17:39:35|f73b57c91b9d3a0741d7ee3911dd88cb|||{"dns":"0ms","tcp":"0ms","request":"72ms","response":"7ms","domLoaded":"604ms (603ms)","loadEvent":"0ms","total":"1204ms (1204ms)","apn":""}
+2017-11-01 17:39:50|d40d5e2157a8a10e0a58437413b788cb|||{"dns":"0ms","tcp":"0ms","request":"79ms","response":"17ms","domLoaded":"251ms (251ms)","loadEvent":"0ms","total":"465ms (465ms)","apn":""}
+2017-11-01 17:39:54|f73b57c91b9d3a0741d7ee3911dd88cb|||{"dns":"0ms","tcp":"0ms","request":"58ms","response":"4ms","domLoaded":"446ms (445ms)","loadEvent":"1ms","total":"1120ms (1119ms)","apn":""}
+2017-11-01 17:39:54|864c25ff653b0ecd361dd74813b788cb||1:3106428483|{"dns":"18ms","tcp":"183ms (132ms)","request":"1494ms","response":"11ms","domLoaded":"660ms (648ms)","loadEvent":"1ms","total":"2794ms (2793ms)","apn":""}
+2017-11-01 17:40:06|f73b57c91b9d3a0741d7ee3911dd88cb|||{"dns":"0ms","tcp":"0ms","request":"53ms","response":"6ms","domLoaded":"473ms (471ms)","loadEvent":"0ms","total":"843ms (843ms)","apn":""}
+2017-11-01 17:40:10|e22e410c0fbcd7bd5540892c13b788cb|||{"dns":"0ms","tcp":"62ms","request":"215ms","response":"13ms","domLoaded":"1410ms (1406ms)","loadEvent":"1ms","total":"2866ms (2865ms)","apn":""}
+2017-11-01 17:40:15|c30c69732efd346d7744ad0d106088cb||1:2916659964|{"dns":"0ms","tcp":"0ms","request":"175ms","response":"2ms","domLoaded":"856ms (559ms)","loadEvent":"1ms","total":"1080ms (1079ms)","apn":"cmnet"}
+2017-11-01 17:40:29|d40d5e2157a8a10e0a58437413b788cb|||{"dns":"0ms","tcp":"0ms","request":"382ms","response":"16ms","domLoaded":"230ms (229ms)","loadEvent":"3ms","total":"736ms (733ms)","apn":""}
+2017-11-01 17:40:38|f73b57c91b9d3a0741d7ee3911dd88cb|||{"dns":"0ms","tcp":"0ms","request":"55ms","response":"4ms","domLoaded":"481ms (479ms)","loadEvent":"0ms","total":"1747ms (1747ms)","apn":""}
+2017-11-01 17:40:38|76bcd50f9a0b655ec1eeecb813b788cb|||{"dns":"0ms","tcp":"69ms","request":"183ms","response":"3ms","domLoaded":"698ms (697ms)","loadEvent":"0ms","total":"1869ms (1869ms)","apn":""}
+2017-11-01 17:40:40|f73b57c91b9d3a0741d7ee3911dd88cb|||{"dns":"0ms","tcp":"0ms","request":"58ms","response":"4ms","domLoaded":"485ms (484ms)","loadEvent":"0ms","total":"1511ms (1510ms)","apn":""}
+2017-11-01 17:41:00|f73b57c91b9d3a0741d7ee3911dd88cb|||{"dns":"0ms","tcp":"0ms","request":"66ms","response":"4ms","domLoaded":"500ms (498ms)","loadEvent":"0ms","total":"1251ms (1251ms)","apn":""}
+2017-11-01 17:41:09|d40d5e2157a8a10e0a58437413b788cb|||{"dns":"0ms","tcp":"0ms","request":"60ms","response":"2ms","domLoaded":"250ms (249ms)","loadEvent":"2ms","total":"388ms (386ms)","apn":""}
+2017-11-01 17:41:24|c71e4d32449b33ef1a953b6713b788cb|||{"dns":"1815ms","tcp":"44ms","request":"130ms","response":"38ms","domLoaded":"10604ms (10602ms)","loadEvent":"0ms","total":"16949ms (16948ms)","apn":""}
+2017-11-01 17:41:25|d40d5e2157a8a10e0a58437413b788cb|||{"dns":"0ms","tcp":"0ms","request":"57ms","response":"5ms","domLoaded":"239ms (239ms)","loadEvent":"2ms","total":"431ms (429ms)","apn":""}
+2017-11-01 17:41:31|2240555bc397a3dd924069ec122b88cb|||{"dns":"49ms","tcp":"66ms","request":"82ms","response":"19ms","domLoaded":"902ms (898ms)","loadEvent":"1ms","total":"2913ms (2912ms)","apn":""}
+2017-11-01 17:41:32|834f206d6ecb74f636edf04d13b788cb||2:o9GiTuDySuqq9il5vscxXyemn6vE|{"dns":"0ms","tcp":"102ms (49ms)","request":"57ms","response":"8ms","domLoaded":"488ms (303ms)","loadEvent":"0ms","total":"680ms (680ms)","apn":"Wlan"}
+2017-11-01 17:41:38|5d02be4ab1231808ebe50c9311dd88cb|||{"dns":"0ms","tcp":"37ms","request":"50ms","response":"12ms","domLoaded":"253ms (252ms)","loadEvent":"0ms","total":"517ms (517ms)","apn":""}
+2017-11-01 17:41:48|d40d5e2157a8a10e0a58437413b788cb|||{"dns":"0ms","tcp":"0ms","request":"68ms","response":"2ms","domLoaded":"241ms (240ms)","loadEvent":"2ms","total":"394ms (392ms)","apn":""}
+2017-11-01 17:41:58|d40d5e2157a8a10e0a58437413b788cb|||{"dns":"0ms","tcp":"0ms","request":"67ms","response":"3ms","domLoaded":"228ms (227ms)","loadEvent":"0ms","total":"397ms (397ms)","apn":""}
+2017-11-01 17:42:04|f73b57c91b9d3a0741d7ee3911dd88cb|||{"dns":"0ms","tcp":"0ms","request":"52ms","response":"5ms","domLoaded":"501ms (500ms)","loadEvent":"1ms","total":"1294ms (1293ms)","apn":""}
+2017-11-01 17:42:09|f73b57c91b9d3a0741d7ee3911dd88cb|||{"dns":"0ms","tcp":"0ms","request":"55ms","response":"7ms","domLoaded":"462ms (460ms)","loadEvent":"1ms","total":"1416ms (1415ms)","apn":""}
+2017-11-01 17:42:19|a4834cb9463b3d4d10ca676a12db88cb|||{"dns":"0ms","tcp":"52ms","request":"100ms","response":"17ms","domLoaded":"655ms (654ms)","loadEvent":"0ms","total":"1201ms (1201ms)","apn":""}
+2017-11-01 17:42:26|6301141a8127b231d2cb6cad13b788cb||1:2052037080|{"dns":"0ms","tcp":"0ms","request":"105ms","response":"77ms","domLoaded":"7654ms (7650ms)","loadEvent":"0ms","total":"7867ms (7867ms)","apn":"Wlan"}
+2017-11-01 17:42:41||||{"dns":"0ms","tcp":"84ms (52ms)","request":"55ms","response":"3ms","domLoaded":"999ms (437ms)","loadEvent":"1ms","total":"1217ms (1216ms)","apn":""}
+2017-11-01 17:42:42|f73b57c91b9d3a0741d7ee3911dd88cb|||{"dns":"0ms","tcp":"0ms","request":"55ms","response":"5ms","domLoaded":"480ms (479ms)","loadEvent":"1ms","total":"1576ms (1575ms)","apn":""}
+2017-11-01 17:42:46|f73b57c91b9d3a0741d7ee3911dd88cb|||{"dns":"0ms","tcp":"0ms","request":"59ms","response":"6ms","domLoaded":"419ms (418ms)","loadEvent":"1ms","total":"1186ms (1185ms)","apn":""}
+2017-11-01 17:42:57|276ecffbcb1e6736935046e9110b88cb|IQB79_GA/793650&IMTT_3/793650&IPH&468340&iPhone6s&50001&10132&iOS11.0.3&V3|1:468651738|{"dns":"0ms","tcp":"0ms","request":"0ms","response":"350ms","domLoaded":"390ms (355ms)","loadEvent":"3ms","total":"1110ms (1107ms)","apn":"wifi"}
+2017-11-01 17:43:06|d40d5e2157a8a10e0a58437413b788cb|||{"dns":"0ms","tcp":"0ms","request":"60ms","response":"3ms","domLoaded":"239ms (238ms)","loadEvent":"2ms","total":"424ms (422ms)","apn":""}
+2017-11-01 17:43:07|f73b57c91b9d3a0741d7ee3911dd88cb|||{"dns":"0ms","tcp":"0ms","request":"80ms","response":"6ms","domLoaded":"529ms (527ms)","loadEvent":"0ms","total":"998ms (998ms)","apn":""}
+2017-11-01 17:43:11|d40d5e2157a8a10e0a58437413b788cb|||{"dns":"0ms","tcp":"0ms","request":"53ms","response":"3ms","domLoaded":"232ms (232ms)","loadEvent":"0ms","total":"372ms (372ms)","apn":""}
+2017-11-01 17:43:19|d40d5e2157a8a10e0a58437413b788cb|||{"dns":"0ms","tcp":"0ms","request":"99ms","response":"3ms","domLoaded":"237ms (236ms)","loadEvent":"2ms","total":"464ms (462ms)","apn":""}
+2017-11-01 17:43:21|d40d5e2157a8a10e0a58437413b788cb|||{"dns":"0ms","tcp":"0ms","request":"84ms","response":"2ms","domLoaded":"228ms (228ms)","loadEvent":"0ms","total":"408ms (408ms)","apn":""}
+2017-11-01 17:43:21||||{"dns":"1ms","tcp":"134ms (103ms)","request":"82ms","response":"-153ms","domLoaded":"299ms (299ms)","loadEvent":"0ms","total":"608ms (608ms)"}
+2017-11-01 17:43:22||||{"dns":"0ms","tcp":"0ms","request":"160ms","response":"11ms","domLoaded":"508ms (505ms)","loadEvent":"2ms","total":"1178ms (1175ms)","apn":""}
+2017-11-01 17:43:31||||{"dns":"0ms","tcp":"0ms","request":"0ms","response":"529ms","domLoaded":"481ms (481ms)","loadEvent":"0ms","total":"1036ms (1025ms)"}
+2017-11-01 17:43:34||||{"dns":"1ms","tcp":"319ms (278ms)","request":"61ms","response":"24ms","domLoaded":"515ms (514ms)","loadEvent":"0ms","total":"936ms (936ms)"}
+2017-11-01 17:43:35|d40d5e2157a8a10e0a58437413b788cb|||{"dns":"0ms","tcp":"0ms","request":"65ms","response":"3ms","domLoaded":"571ms (570ms)","loadEvent":"0ms","total":"714ms (714ms)","apn":""}
+2017-11-01 17:43:37|d40d5e2157a8a10e0a58437413b788cb|||{"dns":"0ms","tcp":"0ms","request":"56ms","response":"2ms","domLoaded":"256ms (256ms)","loadEvent":"0ms","total":"406ms (405ms)","apn":""}
+2017-11-01 17:43:39|d40d5e2157a8a10e0a58437413b788cb|||{"dns":"0ms","tcp":"0ms","request":"53ms","response":"2ms","domLoaded":"234ms (233ms)","loadEvent":"0ms","total":"383ms (383ms)","apn":""}
+2017-11-01 17:43:43|f73b57c91b9d3a0741d7ee3911dd88cb|||{"dns":"0ms","tcp":"0ms","request":"59ms","response":"5ms","domLoaded":"655ms (654ms)","loadEvent":"0ms","total":"1573ms (1572ms)","apn":""}
+2017-11-01 17:43:53|d40d5e2157a8a10e0a58437413b788cb|||{"dns":"0ms","tcp":"0ms","request":"75ms","response":"6ms","domLoaded":"233ms (233ms)","loadEvent":"0ms","total":"421ms (421ms)","apn":""}
+2017-11-01 17:43:56|b66f3c433571ac2662451d1613b788cb|||{"dns":"401ms","tcp":"1341ms (1215ms)","request":"461ms","response":"5ms","domLoaded":"3511ms (3510ms)","loadEvent":"0ms","total":"5768ms (5768ms)","apn":""}
+2017-11-01 17:44:02|f73b57c91b9d3a0741d7ee3911dd88cb|||{"dns":"0ms","tcp":"0ms","request":"68ms","response":"4ms","domLoaded":"473ms (472ms)","loadEvent":"0ms","total":"1331ms (1331ms)","apn":""}
+2017-11-01 17:44:12|74b0dcd898ee7d7fc2c08cba13b788cb||1:991680263|{"dns":"0ms","tcp":"0ms","request":"2ms","response":"4ms","domLoaded":"315ms (309ms)","loadEvent":"0ms","total":"329ms (328ms)","apn":""}
+2017-11-01 17:44:35|||1:254566835|{"dns":"0ms","tcp":"0ms","request":"0ms","response":"373ms","domLoaded":"384ms (383ms)","loadEvent":"0ms","total":"550ms (536ms)"}
+2017-11-01 17:44:55|16ee83de951c3992cf1ae4b6111b88cb|||{"dns":"26ms","tcp":"49ms","request":"120ms","response":"4ms","domLoaded":"410ms (410ms)","loadEvent":"0ms","total":"897ms (896ms)","apn":""}
+2017-11-01 17:45:48|||1:563617728|{"dns":"42ms","tcp":"115ms (95ms)","request":"31ms","response":"14ms","domLoaded":"863ms (845ms)","loadEvent":"0ms","total":"1163ms (1162ms)"}
+2017-11-01 17:45:57|17ce9de2948234e4cc21feb713b788cb|||{"dns":"0ms","tcp":"21ms","request":"73ms","response":"14ms","domLoaded":"1165ms (1163ms)","loadEvent":"1ms","total":"2183ms (2182ms)","apn":""}
+2017-11-01 17:45:59|392a47a3d8966b568e32d4f713a788cb|ADRQBX53_GA_TMS_1.1_newbee/530997&X5MTT_3/025307&ADR&458014& CHM-TL00H &78632&9438&Android4.4.2 &V3||{"dns":"0ms","tcp":"0ms","request":"0ms","response":"687ms","domLoaded":"1396ms (1395ms)","loadEvent":"0ms","total":"2078ms (2078ms)","apn":"cmnet"}
+2017-11-01 17:45:59|c60041b8441248b81f59cb66122188cb|||{"dns":"0ms","tcp":"0ms","request":"3ms","response":"13ms","domLoaded":"421ms (339ms)","loadEvent":"1ms","total":"470ms (469ms)","apn":"3gnet"}
+2017-11-01 17:47:13||||{"dns":"0ms","tcp":"0ms","request":"101ms","response":"5ms","domLoaded":"618ms (595ms)","loadEvent":"0ms","total":"802ms (802ms)","apn":""}
+2017-11-01 17:47:14||||{"dns":"0ms","tcp":"0ms","request":"587ms","response":"4ms","domLoaded":"4080ms (2141ms)","loadEvent":"3ms","total":"5763ms (5760ms)","apn":"cmnet"}
+2017-11-01 17:47:23|e33a6916600f3e973e857043101b88cb|||{"dns":"0ms","tcp":"39ms","request":"87ms","response":"16ms","domLoaded":"507ms (506ms)","loadEvent":"8ms","total":"1675ms (1667ms)","apn":""}
+2017-11-01 17:47:36|a75f326f24da491b7e00d307118c88cb|IQB79_GA/793650&IMTT_3/793650&IPH&468340&iPhone91&50001&10132&iOS11.0.2&V3|1:742479947|{"dns":"0ms","tcp":"0ms","request":"0ms","response":"90ms","domLoaded":"35ms (31ms)","loadEvent":"0ms","total":"206ms (206ms)","apn":"wifi"}
+2017-11-01 17:47:44|d40d5e2157a8a10e0a58437413b788cb|||{"dns":"0ms","tcp":"0ms","request":"59ms","response":"3ms","domLoaded":"279ms (279ms)","loadEvent":"4ms","total":"414ms (410ms)","apn":""}
+2017-11-01 17:47:55|d40d5e2157a8a10e0a58437413b788cb|||{"dns":"0ms","tcp":"0ms","request":"68ms","response":"2ms","domLoaded":"245ms (245ms)","loadEvent":"0ms","total":"396ms (396ms)","apn":""}
+2017-11-01 17:47:58||||{"dns":"0ms","tcp":"0ms","request":"3ms","response":"5ms","domLoaded":"245ms (228ms)","loadEvent":"0ms","total":"352ms (352ms)","apn":""}
+2017-11-01 17:48:04|d40d5e2157a8a10e0a58437413b788cb|||{"dns":"0ms","tcp":"0ms","request":"85ms","response":"3ms","domLoaded":"248ms (248ms)","loadEvent":"1ms","total":"416ms (415ms)","apn":""}
+2017-11-01 17:48:05||||{"dns":"0ms","tcp":"0ms","request":"51ms","response":"2ms","domLoaded":"302ms (299ms)","loadEvent":"0ms","total":"390ms (390ms)","apn":""}
+2017-11-01 17:48:15|d40d5e2157a8a10e0a58437413b788cb|||{"dns":"0ms","tcp":"0ms","request":"74ms","response":"4ms","domLoaded":"240ms (240ms)","loadEvent":"1ms","total":"389ms (388ms)","apn":""}
+2017-11-01 17:48:17|d40d5e2157a8a10e0a58437413b788cb|||{"dns":"0ms","tcp":"0ms","request":"177ms","response":"3ms","domLoaded":"256ms (256ms)","loadEvent":"0ms","total":"696ms (696ms)","apn":""}
+2017-11-01 17:48:23|d40d5e2157a8a10e0a58437413b788cb|||{"dns":"0ms","tcp":"0ms","request":"390ms","response":"4ms","domLoaded":"580ms (579ms)","loadEvent":"0ms","total":"1127ms (1127ms)","apn":""}
+2017-11-01 17:48:51|15ed80dd96179d31cba05db513b788cb||1:1370821743|{"dns":"43ms","tcp":"206ms (154ms)","request":"66ms","response":"15ms","domLoaded":"505ms (496ms)","loadEvent":"0ms","total":"1277ms (1277ms)","apn":""}
+2017-11-01 17:49:16|246dccf8c842cfdd92fe66ea13b788cb|||{"dns":"8ms","tcp":"44ms","request":"58ms","response":"5ms","domLoaded":"1027ms (1026ms)","loadEvent":"1ms","total":"2472ms (2471ms)","apn":""}
+2017-11-01 17:49:40||||{"dns":"4ms","tcp":"160ms (93ms)","request":"111ms","response":"6ms","domLoaded":"1194ms (863ms)","loadEvent":"6ms","total":"1610ms (1604ms)","apn":""}
+2017-11-01 17:49:40|d40d5e2157a8a10e0a58437413b788cb|||{"dns":"0ms","tcp":"0ms","request":"202ms","response":"3ms","domLoaded":"401ms (400ms)","loadEvent":"0ms","total":"1138ms (1138ms)","apn":""}
+2017-11-01 17:49:50||||{"dns":"0ms","tcp":"0ms","request":"2ms","response":"11ms","domLoaded":"419ms (414ms)","loadEvent":"1ms","total":"492ms (491ms)","apn":""}
+2017-11-01 17:49:57|d40d5e2157a8a10e0a58437413b788cb|||{"dns":"0ms","tcp":"0ms","request":"83ms","response":"2ms","domLoaded":"248ms (248ms)","loadEvent":"0ms","total":"421ms (421ms)","apn":""}
+2017-11-01 17:50:11|e7c00ffa04ad81295617ad29117a88cb|||{"dns":"30ms","tcp":"57ms","request":"82ms","response":"10ms","domLoaded":"986ms (985ms)","loadEvent":"12ms","total":"2469ms (2457ms)","apn":""}
+2017-11-01 17:50:12|827a174a0133895f56739c22122188cb|||{"dns":"0ms","tcp":"17ms","request":"106ms","response":"61ms","domLoaded":"1502ms (1499ms)","loadEvent":"1ms","total":"3136ms (3135ms)","apn":""}
+2017-11-01 17:50:13|d40d5e2157a8a10e0a58437413b788cb|||{"dns":"0ms","tcp":"0ms","request":"72ms","response":"2ms","domLoaded":"318ms (317ms)","loadEvent":"0ms","total":"463ms (463ms)","apn":""}2017-11-01 17:51:46|d40d5e2157a8a10e0a58437413b788cb|||{"dns":"0ms","tcp":"0ms","request":"58ms","response":"2ms","domLoaded":"252ms (251ms)","loadEvent":"0ms","total":"448ms (448ms)","apn":""}
+2017-11-01 17:52:01|824d2d38615fd8383769cd4c113e88cb|||{"dns":"0ms","tcp":"19ms","request":"76ms","response":"14ms","domLoaded":"792ms (790ms)","loadEvent":"0ms","total":"2446ms (2446ms)","apn":""}
+2017-11-01 17:52:11|d40d5e2157a8a10e0a58437413b788cb|||{"dns":"0ms","tcp":"0ms","request":"52ms","response":"2ms","domLoaded":"253ms (252ms)","loadEvent":"1ms","total":"383ms (382ms)","apn":""}
+2017-11-01 17:52:26|d40d5e2157a8a10e0a58437413b788cb|||{"dns":"0ms","tcp":"0ms","request":"58ms","response":"4ms","domLoaded":"249ms (249ms)","loadEvent":"1ms","total":"387ms (386ms)","apn":""}
+2017-11-01 17:52:32|ed8f9a940d1e477c5f047023134a88cb|||{"dns":"102ms","tcp":"238ms (191ms)","request":"62ms","response":"1ms","domLoaded":"923ms (610ms)","loadEvent":"1ms","total":"1753ms (1752ms)","apn":"Wlan"}
+2017-11-01 17:52:34|ab533e63297b793f7178e70b13b788cb||1:315325590|{"dns":"0ms","tcp":"0ms","request":"4ms","response":"11ms","domLoaded":"318ms (317ms)","loadEvent":"0ms","total":"342ms (342ms)","apn":""}
+2017-11-01 17:52:39|8fedf8f66d8f31ca3ac8c04113a788cb|ADRQBX53_GA_TMS_1.1_newbee/530997&X5MTT_3/025307&ADR&458014& CHM-TL00H &78632&9438&Android4.4.2 &V3||{"dns":"0ms","tcp":"0ms","request":"0ms","response":"703ms","domLoaded":"1343ms (1341ms)","loadEvent":"1ms","total":"2042ms (2041ms)","apn":"cmnet"}
+2017-11-01 17:52:56|925415ec100a8c794a4c6c3213b788cb||1:2328601578|{"dns":"0ms","tcp":"169ms (96ms)","request":"109ms","response":"3ms","domLoaded":"1142ms (788ms)","loadEvent":"8ms","total":"1989ms (1981ms)","apn":"cmnet"}
+2017-11-01 17:53:21|d40d5e2157a8a10e0a58437413b788cb|||{"dns":"0ms","tcp":"0ms","request":"76ms","response":"2ms","domLoaded":"245ms (244ms)","loadEvent":"3ms","total":"410ms (407ms)","apn":""}
+2017-11-01 17:53:29|35ecbfc0b8a709e1ed33049513b788cb|||{"dns":"61ms","tcp":"153ms","request":"169ms","response":"3ms","domLoaded":"774ms (773ms)","loadEvent":"0ms","total":"2056ms (2056ms)","apn":""}
+2017-11-01 17:53:33||||{"dns":"0ms","tcp":"422ms (353ms)","request":"148ms","response":"2ms","domLoaded":"1236ms (1234ms)","loadEvent":"1ms","total":"1982ms (1981ms)","apn":""}
+2017-11-01 17:53:46|d40d5e2157a8a10e0a58437413b788cb|||{"dns":"0ms","tcp":"0ms","request":"54ms","response":"6ms","domLoaded":"254ms (254ms)","loadEvent":"1ms","total":"386ms (385ms)","apn":""}
+2017-11-01 17:53:48|9f553ce67ceb15c52b22fa51116488cb|||{"dns":"0ms","tcp":"318ms","request":"104ms","response":"13ms","domLoaded":"1077ms (1075ms)","loadEvent":"0ms","total":"11788ms (11788ms)","apn":""}
+2017-11-01 17:54:27|d40d5e2157a8a10e0a58437413b788cb|||{"dns":"0ms","tcp":"0ms","request":"87ms","response":"2ms","domLoaded":"230ms (230ms)","loadEvent":"0ms","total":"671ms (671ms)","apn":""}
+2017-11-01 17:54:30|5e0526fabccfebceea9f689013b788cb|||{"dns":"0ms","tcp":"26ms","request":"46ms","response":"228ms","domLoaded":"1552ms (1542ms)","loadEvent":"1ms","total":"3229ms (3228ms)","apn":""}
+2017-11-01 17:54:35|2be4819bc63281a99fda9ce513b788cb||2:o9GiTuBIccQNyApGTE3FefrJOOQE|{"dns":"0ms","tcp":"0ms","request":"3ms","response":"12ms","domLoaded":"445ms (437ms)","loadEvent":"0ms","total":"506ms (506ms)","apn":""}
+2017-11-01 17:54:39|2be4819bc63281a99fda9ce513b788cb||2:o9GiTuBIccQNyApGTE3FefrJOOQE|{"dns":"0ms","tcp":"0ms","request":"109ms","response":"24ms","domLoaded":"557ms (556ms)","loadEvent":"0ms","total":"762ms (762ms)","apn":""}
+2017-11-01 17:55:02|d40d5e2157a8a10e0a58437413b788cb|||{"dns":"0ms","tcp":"0ms","request":"67ms","response":"4ms","domLoaded":"235ms (234ms)","loadEvent":"0ms","total":"647ms (647ms)","apn":""}
+2017-11-01 17:55:14|d40d5e2157a8a10e0a58437413b788cb|||{"dns":"0ms","tcp":"0ms","request":"81ms","response":"5ms","domLoaded":"227ms (226ms)","loadEvent":"0ms","total":"401ms (401ms)","apn":""}
+2017-11-01 17:55:17|d40d5e2157a8a10e0a58437413b788cb|||{"dns":"0ms","tcp":"0ms","request":"67ms","response":"3ms","domLoaded":"232ms (231ms)","loadEvent":"0ms","total":"381ms (381ms)","apn":""}
+2017-11-01 17:55:23|d40d5e2157a8a10e0a58437413b788cb|||{"dns":"0ms","tcp":"0ms","request":"55ms","response":"2ms","domLoaded":"237ms (236ms)","loadEvent":"0ms","total":"372ms (372ms)","apn":""}
+2017-11-01 17:55:27|d40d5e2157a8a10e0a58437413b788cb|||{"dns":"0ms","tcp":"0ms","request":"52ms","response":"2ms","domLoaded":"232ms (231ms)","loadEvent":"0ms","total":"363ms (363ms)","apn":""}
+2017-11-01 17:55:28|1315b432fe6f2efaa6eb4bdd138888cb|ADRQBX56_GA/561300&X5MTT_3/025606&ADR&6812014& vivoX5ProD &80624&9457&Android5.0.2 &V3||{"dns":"0ms","tcp":"0ms","request":"0ms","response":"782ms","domLoaded":"9492ms (9492ms)","loadEvent":"0ms","total":"10271ms (10271ms)","apn":"cmnet"}
+2017-11-01 17:55:36|c509662b2927e5e3706b730b119988cb|||{"dns":"0ms","tcp":"75ms","request":"139ms","response":"33ms","domLoaded":"1106ms (1105ms)","loadEvent":"8ms","total":"2144ms (2135ms)","apn":""}
+2017-11-01 17:55:53|3f18d722dee2688789ec29f1122f88cb|IQB77_GA/773538&IMTT_3/773538&IPH&468340&iPhone6&50001&10084&iOS10.1.1&V3||{"dns":"0ms","tcp":"0ms","request":"0ms","response":"111ms","domLoaded":"100ms (98ms)","loadEvent":"0ms","total":"215ms (215ms)","apn":"wifi"}
+2017-11-01 17:55:56|d40d5e2157a8a10e0a58437413b788cb|||{"dns":"0ms","tcp":"0ms","request":"196ms","response":"2ms","domLoaded":"238ms (237ms)","loadEvent":"0ms","total":"566ms (566ms)","apn":""}
+2017-11-01 17:55:58|cc1546394e3b16111350a36c13b788cb|||{"dns":"0ms","tcp":"60ms","request":"106ms","response":"12ms","domLoaded":"983ms (977ms)","loadEvent":"1ms","total":"2435ms (2434ms)","apn":""}
+2017-11-01 17:56:03|d40d5e2157a8a10e0a58437413b788cb|||{"dns":"0ms","tcp":"0ms","request":"201ms","response":"14ms","domLoaded":"435ms (434ms)","loadEvent":"0ms","total":"889ms (889ms)","apn":""}
+2017-11-01 17:56:07|d40d5e2157a8a10e0a58437413b788cb|||{"dns":"0ms","tcp":"0ms","request":"411ms","response":"5ms","domLoaded":"401ms (400ms)","loadEvent":"0ms","total":"1399ms (1399ms)","apn":""}
+2017-11-01 17:56:17|d40d5e2157a8a10e0a58437413b788cb|||{"dns":"0ms","tcp":"0ms","request":"62ms","response":"3ms","domLoaded":"236ms (235ms)","loadEvent":"0ms","total":"398ms (398ms)","apn":""}
+2017-11-01 17:56:29|d40d5e2157a8a10e0a58437413b788cb|||{"dns":"0ms","tcp":"0ms","request":"63ms","response":"2ms","domLoaded":"286ms (285ms)","loadEvent":"0ms","total":"428ms (428ms)","apn":""}
+2017-11-01 17:56:48|d40d5e2157a8a10e0a58437413b788cb|||{"dns":"0ms","tcp":"0ms","request":"72ms","response":"3ms","domLoaded":"228ms (227ms)","loadEvent":"4ms","total":"396ms (392ms)","apn":""}
+2017-11-01 17:57:19|d40d5e2157a8a10e0a58437413b788cb|||{"dns":"0ms","tcp":"0ms","request":"56ms","response":"3ms","domLoaded":"232ms (232ms)","loadEvent":"1ms","total":"371ms (370ms)","apn":""}
+2017-11-01 17:57:23|d40d5e2157a8a10e0a58437413b788cb|||{"dns":"0ms","tcp":"0ms","request":"52ms","response":"3ms","domLoaded":"237ms (236ms)","loadEvent":"0ms","total":"391ms (391ms)","apn":""}
+2017-11-01 17:57:27|9a8b654e773775852c02fb54111b88cb||1:625113532|{"dns":"0ms","tcp":"0ms","request":"3ms","response":"11ms","domLoaded":"341ms (340ms)","loadEvent":"1ms","total":"377ms (376ms)","apn":""}
+2017-11-01 17:57:31|d40d5e2157a8a10e0a58437413b788cb|||{"dns":"0ms","tcp":"0ms","request":"99ms","response":"2ms","domLoaded":"228ms (228ms)","loadEvent":"0ms","total":"417ms (417ms)","apn":""}
+2017-11-01 17:57:33||||{"dns":"11ms","tcp":"74ms (63ms)","request":"23ms","response":"15ms","domLoaded":"190ms (189ms)","loadEvent":"1ms","total":"321ms (320ms)"}
+2017-11-01 17:57:43|d40d5e2157a8a10e0a58437413b788cb|||{"dns":"0ms","tcp":"0ms","request":"157ms","response":"3ms","domLoaded":"227ms (227ms)","loadEvent":"0ms","total":"576ms (576ms)","apn":""}
+2017-11-01 17:57:58|7b190c029afdec1bcf6d9bb513b788cb|||{"dns":"0ms","tcp":"33ms","request":"151ms","response":"193ms","domLoaded":"6425ms (6421ms)","loadEvent":"1ms","total":"13456ms (13454ms)","apn":""}
+2017-11-01 17:58:02|10dc984ff34b4e75a965c9de12b788cb|||{"dns":"267ms","tcp":"72ms","request":"86ms","response":"9ms","domLoaded":"891ms (887ms)","loadEvent":"0ms","total":"3636ms (3635ms)","apn":""}
+2017-11-01 17:58:05|7a6b85ae97dff04acfe6d1b413b788cb||1:1063675350|{"dns":"0ms","tcp":"67ms (39ms)","request":"76ms","response":"8ms","domLoaded":"541ms (341ms)","loadEvent":"0ms","total":"733ms (733ms)","apn":"Wlan"}
+2017-11-01 17:58:05|d40d5e2157a8a10e0a58437413b788cb|||{"dns":"0ms","tcp":"0ms","request":"231ms","response":"2ms","domLoaded":"811ms (810ms)","loadEvent":"0ms","total":"1180ms (1180ms)","apn":""}
+2017-11-01 17:58:09|d40d5e2157a8a10e0a58437413b788cb|||{"dns":"0ms","tcp":"0ms","request":"54ms","response":"3ms","domLoaded":"238ms (237ms)","loadEvent":"0ms","total":"420ms (420ms)","apn":""}
+2017-11-01 17:58:15|d40d5e2157a8a10e0a58437413b788cb|||{"dns":"0ms","tcp":"0ms","request":"60ms","response":"2ms","domLoaded":"233ms (233ms)","loadEvent":"1ms","total":"380ms (379ms)","apn":""}
+2017-11-01 17:58:20|cc03637620e68509783a0502110288cb||1:1914593237|{"dns":"0ms","tcp":"0ms","request":"173ms","response":"7ms","domLoaded":"480ms (460ms)","loadEvent":"0ms","total":"701ms (701ms)","apn":"cmnet"}
+2017-11-01 17:58:33|d40d5e2157a8a10e0a58437413b788cb|||{"dns":"0ms","tcp":"0ms","request":"52ms","response":"3ms","domLoaded":"231ms (231ms)","loadEvent":"0ms","total":"357ms (357ms)","apn":""}
+2017-11-01 17:58:48|a7b4d93d462b803c1283466913b788cb||1:355872280|{"dns":"0ms","tcp":"160ms (91ms)","request":"111ms","response":"15ms","domLoaded":"1523ms (1517ms)","loadEvent":"2ms","total":"2307ms (2305ms)","apn":""}
+2017-11-01 17:58:49|7a6b85ae97dff04acfe6d1b413b788cb||1:1063675350|{"dns":"0ms","tcp":"76ms (33ms)","request":"74ms","response":"6ms","domLoaded":"269ms (234ms)","loadEvent":"1ms","total":"453ms (452ms)","apn":"Wlan"}
+2017-11-01 17:58:50|d40d5e2157a8a10e0a58437413b788cb|||{"dns":"0ms","tcp":"0ms","request":"57ms","response":"2ms","domLoaded":"231ms (230ms)","loadEvent":"0ms","total":"365ms (365ms)","apn":""}
+2017-11-01 17:58:59|d40d5e2157a8a10e0a58437413b788cb|||{"dns":"0ms","tcp":"0ms","request":"54ms","response":"3ms","domLoaded":"396ms (395ms)","loadEvent":"0ms","total":"690ms (690ms)","apn":""}
+2017-11-01 17:59:19|d40d5e2157a8a10e0a58437413b788cb|||{"dns":"0ms","tcp":"0ms","request":"67ms","response":"3ms","domLoaded":"229ms (229ms)","loadEvent":"0ms","total":"366ms (366ms)","apn":""}
+2017-11-01 17:59:24|d40d5e2157a8a10e0a58437413b788cb|||{"dns":"0ms","tcp":"0ms","request":"61ms","response":"2ms","domLoaded":"235ms (235ms)","loadEvent":"3ms","total":"381ms (378ms)","apn":""}
+2017-11-01 17:59:30|d40d5e2157a8a10e0a58437413b788cb|||{"dns":"0ms","tcp":"0ms","request":"59ms","response":"3ms","domLoaded":"239ms (238ms)","loadEvent":"0ms","total":"386ms (386ms)","apn":""}
+2017-11-01 17:59:43|3f18d722dee2688789ec29f1122f88cb|IQB77_GA/773538&IMTT_3/773538&IPH&468340&iPhone6&50001&10084&iOS10.1.1&V3||{"dns":"0ms","tcp":"0ms","request":"0ms","response":"126ms","domLoaded":"171ms (168ms)","loadEvent":"0ms","total":"304ms (304ms)","apn":"wifi"}
+2017-11-01 17:59:48|d40d5e2157a8a10e0a58437413b788cb|||{"dns":"0ms","tcp":"0ms","request":"55ms","response":"3ms","domLoaded":"231ms (230ms)","loadEvent":"0ms","total":"364ms (364ms)","apn":""}
+2017-11-01 17:59:52|d40d5e2157a8a10e0a58437413b788cb|||{"dns":"0ms","tcp":"0ms","request":"77ms","response":"2ms","domLoaded":"225ms (225ms)","loadEvent":"1ms","total":"414ms (413ms)","apn":""}
+2017-11-01 17:59:54|874de8f96a3f30f239eaec49100c88cb|IQB79_GA/793650&IMTT_3/793650&IPH&6712040&iPhone6sp&50001&10132&iOS11.0.3&V3||{"dns":"0ms","tcp":"0ms","request":"0ms","response":"277ms","domLoaded":"1015ms (806ms)","loadEvent":"0ms","total":"1299ms (1299ms)","apn":"wifi"}
+2017-11-01 17:59:56|||1:1170969786|{"dns":"0ms","tcp":"0ms","request":"0ms","response":"624ms","domLoaded":"600ms (484ms)","loadEvent":"0ms","total":"1171ms (1171ms)"}
+2017-11-01 17:59:58||||{"dns":"2ms","tcp":"391ms (293ms)","request":"113ms","response":"9ms","domLoaded":"1145ms (952ms)","loadEvent":"0ms","total":"3396ms (3396ms)","apn":""}
+2017-11-01 18:00:17||||{"dns":"0ms","tcp":"0ms","request":"0ms","response":"206ms","domLoaded":"231ms (230ms)","loadEvent":"0ms","total":"502ms (458ms)"}
+2017-11-01 18:00:24|d40d5e2157a8a10e0a58437413b788cb|||{"dns":"0ms","tcp":"0ms","request":"58ms","response":"3ms","domLoaded":"225ms (224ms)","loadEvent":"0ms","total":"368ms (368ms)","apn":""}
+2017-11-01 18:00:38|eb21489207cff6c65f56582513b788cb||1:1297687819|{"dns":"0ms","tcp":"0ms","request":"3ms","response":"20ms","domLoaded":"458ms (456ms)","loadEvent":"0ms","total":"535ms (535ms)","apn":""}
+2017-11-01 18:01:02|||1:1033224544|{"dns":"0ms","tcp":"0ms","request":"0ms","response":"90ms","domLoaded":"213ms (158ms)","loadEvent":"0ms","total":"310ms (310ms)"}
+2017-11-01 18:01:20|d40d5e2157a8a10e0a58437413b788cb|||{"dns":"0ms","tcp":"0ms","request":"48ms","response":"3ms","domLoaded":"2203ms (2201ms)","loadEvent":"0ms","total":"2348ms (2348ms)","apn":""}
+2017-11-01 18:01:22|ad6125f24e858bc9197f9a6312a788cb||1:642394847|{"dns":"0ms","tcp":"111ms (54ms)","request":"79ms","response":"24ms","domLoaded":"644ms (636ms)","loadEvent":"0ms","total":"1168ms (1168ms)","apn":""}
+2017-11-01 18:01:31||||{"dns":"0ms","tcp":"0ms","request":"55ms","response":"2ms","domLoaded":"262ms (254ms)","loadEvent":"0ms","total":"337ms (337ms)","apn":""}
+2017-11-01 18:01:32|d40d5e2157a8a10e0a58437413b788cb|||{"dns":"0ms","tcp":"0ms","request":"67ms","response":"2ms","domLoaded":"235ms (234ms)","loadEvent":"3ms","total":"396ms (393ms)","apn":""}
+2017-11-01 18:01:45||||{"dns":"0ms","tcp":"185ms (81ms)","request":"86ms","response":"2ms","domLoaded":"1280ms (849ms)","loadEvent":"1ms","total":"1606ms (1605ms)","apn":""}
+2017-11-01 18:01:49|5e91f4eeb30ff11fe828fd9013b788cb||1:1969558522|{"dns":"0ms","tcp":"0ms","request":"2ms","response":"13ms","domLoaded":"322ms (317ms)","loadEvent":"0ms","total":"351ms (351ms)","apn":""}
+2017-11-01 18:02:05|a862c7d645f6bca91e34a866103a88cb||1:297325067|{"dns":"0ms","tcp":"0ms","request":"1ms","response":"5ms","domLoaded":"376ms (269ms)","loadEvent":"3ms","total":"410ms (407ms)","apn":"wonet"}
+2017-11-01 18:02:14||||{"dns":"0ms","tcp":"124ms (82ms)","request":"67ms","response":"3ms","domLoaded":"1214ms (960ms)","loadEvent":"1ms","total":"2121ms (2120ms)","apn":""}
+2017-11-01 18:02:34|||1:1033224544|{"dns":"0ms","tcp":"0ms","request":"0ms","response":"119ms","domLoaded":"88ms (53ms)","loadEvent":"0ms","total":"222ms (222ms)"}
+2017-11-01 18:02:45|d40d5e2157a8a10e0a58437413b788cb|||{"dns":"0ms","tcp":"0ms","request":"67ms","response":"3ms","domLoaded":"228ms (228ms)","loadEvent":"0ms","total":"408ms (408ms)","apn":""}
+2017-11-01 18:02:50|d40d5e2157a8a10e0a58437413b788cb|||{"dns":"0ms","tcp":"0ms","request":"55ms","response":"11ms","domLoaded":"241ms (240ms)","loadEvent":"0ms","total":"389ms (389ms)","apn":""}
+2017-11-01 18:02:54|99be71847bce6a682de4035713b788cb||1:1944703129|{"dns":"0ms","tcp":"0ms","request":"76ms","response":"5ms","domLoaded":"4650ms (3876ms)","loadEvent":"0ms","total":"4752ms (4752ms)","apn":"Wlan"}
+2017-11-01 18:02:58|d40d5e2157a8a10e0a58437413b788cb|||{"dns":"0ms","tcp":"0ms","request":"75ms","response":"8ms","domLoaded":"238ms (238ms)","loadEvent":"3ms","total":"407ms (404ms)","apn":""}
+2017-11-01 18:03:02|25fcafd0a76d2964fff5b38513b788cb|||{"dns":"0ms","tcp":"99ms","request":"85ms","response":"24ms","domLoaded":"873ms (872ms)","loadEvent":"0ms","total":"1917ms (1916ms)","apn":""}
+2017-11-01 18:03:19|d40d5e2157a8a10e0a58437413b788cb|||{"dns":"0ms","tcp":"0ms","request":"57ms","response":"2ms","domLoaded":"241ms (240ms)","loadEvent":"0ms","total":"396ms (396ms)","apn":""}
+2017-11-01 18:03:21|d40d5e2157a8a10e0a58437413b788cb|||{"dns":"0ms","tcp":"0ms","request":"52ms","response":"3ms","domLoaded":"231ms (231ms)","loadEvent":"0ms","total":"395ms (395ms)","apn":""}
+2017-11-01 18:03:32|||1:481514959|{"dns":"0ms","tcp":"0ms","request":"0ms","response":"475ms","domLoaded":"772ms (602ms)","loadEvent":"1ms","total":"1219ms (1218ms)"}
+2017-11-01 18:03:35|d81777623b5872916d1f2416116488cb|||{"dns":"127ms","tcp":"149ms","request":"69ms","response":"9ms","domLoaded":"739ms (736ms)","loadEvent":"0ms","total":"1516ms (1516ms)","apn":""}
+2017-11-01 18:03:40|8a53007f0882c38952accd2a11ec88cb|||{"dns":"183ms","tcp":"56ms","request":"64ms","response":"413ms","domLoaded":"3609ms (3606ms)","loadEvent":"1ms","total":"12895ms (12894ms)","apn":""}
+2017-11-01 18:03:42||||{"dns":"0ms","tcp":"0ms","request":"0ms","response":"349ms","domLoaded":"333ms (328ms)","loadEvent":"0ms","total":"531ms (515ms)"}
+2017-11-01 18:03:44|d40d5e2157a8a10e0a58437413b788cb|||{"dns":"0ms","tcp":"0ms","request":"55ms","response":"2ms","domLoaded":"231ms (230ms)","loadEvent":"0ms","total":"385ms (385ms)","apn":""}
+2017-11-01 18:03:47|04dd8ef186005c9edc74d9a413b788cb||1:272410094|{"dns":"0ms","tcp":"0ms","request":"2ms","response":"14ms","domLoaded":"334ms (333ms)","loadEvent":"0ms","total":"361ms (361ms)","apn":""}
+2017-11-01 18:03:54|d40d5e2157a8a10e0a58437413b788cb|||{"dns":"0ms","tcp":"0ms","request":"56ms","response":"2ms","domLoaded":"234ms (233ms)","loadEvent":"0ms","total":"377ms (377ms)","apn":""}
+2017-11-01 18:03:55|a7b4d93d462b803c1283466913b788cb||1:355872280|{"dns":"0ms","tcp":"0ms","request":"3ms","response":"13ms","domLoaded":"965ms (932ms)","loadEvent":"2ms","total":"992ms (990ms)","apn":""}
+2017-11-01 18:04:12|d40d5e2157a8a10e0a58437413b788cb|||{"dns":"0ms","tcp":"0ms","request":"58ms","response":"3ms","domLoaded":"230ms (229ms)","loadEvent":"0ms","total":"383ms (383ms)","apn":""}
+2017-11-01 18:04:25|d40d5e2157a8a10e0a58437413b788cb|||{"dns":"0ms","tcp":"0ms","request":"60ms","response":"3ms","domLoaded":"235ms (234ms)","loadEvent":"0ms","total":"378ms (378ms)","apn":""}
+2017-11-01 18:04:35|d40d5e2157a8a10e0a58437413b788cb|||{"dns":"0ms","tcp":"0ms","request":"67ms","response":"8ms","domLoaded":"233ms (233ms)","loadEvent":"1ms","total":"430ms (429ms)","apn":""}
+2017-11-01 18:04:56||||{"dns":"0ms","tcp":"4889ms (4252ms)","request":"701ms","response":"3ms","domLoaded":"2358ms (1845ms)","loadEvent":"1ms","total":"9432ms (9430ms)","apn":""}
+2017-11-01 18:04:57|60a6e71ee2c6a486badc28c013b788cb||1:490505859|{"dns":"29ms","tcp":"110ms (88ms)","request":"128ms","response":"10ms","domLoaded":"","loadEvent":"","total":"","apn":"Wlan"}
+2017-11-01 18:05:26|35ecbfc0b6b82cfafbca789510ee88cb||2:o9GiTuHdUwRzvdnGqmWRt6QgKeRY|{"dns":"0ms","tcp":"76ms (44ms)","request":"50ms","response":"5ms","domLoaded":"761ms (532ms)","loadEvent":"0ms","total":"1230ms (1230ms)","apn":"wonet"}
+2017-11-01 18:05:27||||{"dns":"0ms","tcp":"82ms (53ms)","request":"59ms","response":"2ms","domLoaded":"673ms (643ms)","loadEvent":"0ms","total":"965ms (965ms)","apn":""}
+2017-11-01 18:05:42|00cc885fe3ddcb34b4a296ce13a788cb|||{"dns":"0ms","tcp":"0ms","request":"154ms","response":"3ms","domLoaded":"1554ms (1544ms)","loadEvent":"3ms","total":"1743ms (1740ms)","apn":"4gnet"}
+2017-11-01 18:05:45||||{"dns":"1ms","tcp":"48ms (15ms)","request":"39ms","response":"3ms","domLoaded":"985ms (510ms)","loadEvent":"9ms","total":"1107ms (1098ms)","apn":""}
+2017-11-01 18:05:54|d40d5e2157a8a10e0a58437413b788cb|||{"dns":"0ms","tcp":"0ms","request":"54ms","response":"3ms","domLoaded":"227ms (226ms)","loadEvent":"0ms","total":"373ms (373ms)","apn":""}
+2017-11-01 18:05:56|d40d5e2157a8a10e0a58437413b788cb|||{"dns":"0ms","tcp":"0ms","request":"51ms","response":"2ms","domLoaded":"233ms (232ms)","loadEvent":"0ms","total":"381ms (381ms)","apn":""}
+2017-11-01 18:05:57|e32f43dd0fc3185e5706fd2d111488cb|||{"dns":"0ms","tcp":"52ms","request":"107ms","response":"19ms","domLoaded":"763ms (755ms)","loadEvent":"1ms","total":"2573ms (2572ms)","apn":""}
+2017-11-01 18:06:19|ec3566196ff1e6403393b34c13b788cb||1:846229262|{"dns":"61ms","tcp":"299ms (224ms)","request":"124ms","response":"9ms","domLoaded":"600ms (591ms)","loadEvent":"1ms","total":"1120ms (1119ms)","apn":""}
+2017-11-01 18:06:46|||1:1175015956|{"dns":"0ms","tcp":"0ms","request":"0ms","response":"361ms","domLoaded":"860ms (715ms)","loadEvent":"0ms","total":"1748ms (1748ms)"}
+2017-11-01 18:06:52|855c0f7006b7bbb45cf3e62513b788cb||1:451462293|{"dns":"0ms","tcp":"0ms","request":"8ms","response":"22ms","domLoaded":"665ms (638ms)","loadEvent":"0ms","total":"694ms (693ms)","apn":""}
+2017-11-01 18:07:03|||1:1175015956|{"dns":"0ms","tcp":"0ms","request":"0ms","response":"378ms","domLoaded":"437ms (106ms)","loadEvent":"1ms","total":"843ms (842ms)"}
+2017-11-01 18:07:09|d40d5e2157a8a10e0a58437413b788cb|||{"dns":"0ms","tcp":"0ms","request":"101ms","response":"2ms","domLoaded":"239ms (239ms)","loadEvent":"0ms","total":"426ms (425ms)","apn":""}
+2017-11-01 18:07:21|d9214c115adc086d00db1e7913c088cb|||{"dns":"0ms","tcp":"47ms","request":"131ms","response":"12ms","domLoaded":"1582ms (1579ms)","loadEvent":"0ms","total":"2925ms (2925ms)","apn":""}
+2017-11-01 18:07:21|d40d5e2157a8a10e0a58437413b788cb|||{"dns":"0ms","tcp":"0ms","request":"373ms","response":"7ms","domLoaded":"275ms (275ms)","loadEvent":"1ms","total":"1049ms (1048ms)","apn":""}
+2017-11-01 18:07:36|05dc8ff086dbd006d0ced3a512fb88cb|||{"dns":"21ms","tcp":"21ms","request":"29ms","response":"8ms","domLoaded":"866ms (863ms)","loadEvent":"1ms","total":"1486ms (1485ms)","apn":""}
+2017-11-01 18:07:37|9841126d1aabbff44070553813b788cb||1:2479431736|{"dns":"0ms","tcp":"107ms (60ms)","request":"71ms","response":"18ms","domLoaded":"989ms (973ms)","loadEvent":"0ms","total":"2066ms (2066ms)","apn":"Wlan"}
+2017-11-01 18:07:41|d58ead71379531ab6312401b13b788cb|||{"dns":"0ms","tcp":"153ms (79ms)","request":"86ms","response":"5ms","domLoaded":"1348ms (769ms)","loadEvent":"1ms","total":"2134ms (2133ms)","apn":"Wlan"}
+2017-11-01 18:07:48|d40d5e2157a8a10e0a58437413b788cb|||{"dns":"0ms","tcp":"0ms","request":"380ms","response":"3ms","domLoaded":"2174ms (2174ms)","loadEvent":"1ms","total":"2675ms (2674ms)","apn":""}
+2017-11-01 18:08:10|d40d5e2157a8a10e0a58437413b788cb|||{"dns":"0ms","tcp":"0ms","request":"73ms","response":"3ms","domLoaded":"227ms (227ms)","loadEvent":"0ms","total":"431ms (431ms)","apn":""}
+2017-11-01 18:08:24|ed278293002e60a453f75623100588cb|||{"dns":"14ms","tcp":"25ms","request":"32ms","response":"13ms","domLoaded":"844ms (843ms)","loadEvent":"7ms","total":"1622ms (1615ms)","apn":""}
+2017-11-01 18:08:28|d40d5e2157a8a10e0a58437413b788cb|||{"dns":"0ms","tcp":"0ms","request":"46ms","response":"2ms","domLoaded":"241ms (240ms)","loadEvent":"0ms","total":"424ms (424ms)","apn":""}
+2017-11-01 18:08:56|f6ad8e5117769fb842393738124e88cb||1:474197601|{"dns":"0ms","tcp":"0ms","request":"182ms","response":"9ms","domLoaded":"1268ms (1242ms)","loadEvent":"0ms","total":"1518ms (1518ms)","apn":"Wlan"}
+2017-11-01 18:08:57|d40d5e2157a8a10e0a58437413b788cb|||{"dns":"0ms","tcp":"0ms","request":"60ms","response":"3ms","domLoaded":"233ms (232ms)","loadEvent":"0ms","total":"416ms (416ms)","apn":""}
+2017-11-01 18:09:05|ee37641b6d56bb282758814e10ee88cb|||{"dns":"0ms","tcp":"65ms","request":"220ms","response":"25ms","domLoaded":"1587ms (1583ms)","loadEvent":"15ms","total":"3156ms (3141ms)","apn":""}
+2017-11-01 18:09:09|70a9fa85f2b2d83daf388dd013b788cb|||{"dns":"0ms","tcp":"0ms","request":"43ms","response":"5ms","domLoaded":"1226ms (1225ms)","loadEvent":"0ms","total":"1598ms (1598ms)","apn":""}
+2017-11-01 18:09:24|d40d5e2157a8a10e0a58437413b788cb|||{"dns":"0ms","tcp":"0ms","request":"50ms","response":"3ms","domLoaded":"224ms (224ms)","loadEvent":"1ms","total":"498ms (497ms)","apn":""}
+2017-11-01 18:09:24|e6294c560bc0247a5014302813b788cb|||{"dns":"0ms","tcp":"0ms","request":"14ms","response":"6ms","domLoaded":"665ms (420ms)","loadEvent":"0ms","total":"761ms (761ms)","apn":"Wlan"}
+2017-11-01 18:09:27|17dd7869fa6226b9a7b798d913b788cb|||{"dns":"0ms","tcp":"41ms","request":"59ms","response":"15ms","domLoaded":"651ms (647ms)","loadEvent":"1ms","total":"1844ms (1842ms)","apn":""}
+2017-11-01 18:09:28|d40d5e2157a8a10e0a58437413b788cb|||{"dns":"0ms","tcp":"0ms","request":"64ms","response":"2ms","domLoaded":"232ms (231ms)","loadEvent":"0ms","total":"384ms (384ms)","apn":""}
+2017-11-01 18:09:32|||1:3175331390|{"dns":"0ms","tcp":"0ms","request":"1ms","response":"2ms","domLoaded":"411ms (359ms)","loadEvent":"1ms","total":"438ms (437ms)","apn":""}
+2017-11-01 18:09:34|e33a691660e465053c5f9d43103a88cb||1:561486933|{"dns":"0ms","tcp":"0ms","request":"5ms","response":"14ms","domLoaded":"627ms (625ms)","loadEvent":"0ms","total":"672ms (672ms)","apn":""}
+2017-11-01 18:09:38|d40d5e2157a8a10e0a58437413b788cb|||{"dns":"0ms","tcp":"0ms","request":"46ms","response":"3ms","domLoaded":"321ms (320ms)","loadEvent":"0ms","total":"475ms (475ms)","apn":""}
+2017-11-01 18:09:44||||{"dns":"0ms","tcp":"0ms","request":"3ms","response":"2ms","domLoaded":"465ms (416ms)","loadEvent":"1ms","total":"516ms (515ms)","apn":""}
+2017-11-01 18:10:09|b1683b4432f459fe6dc75111106088cb||1:664437290|{"dns":"106ms","tcp":"426ms (138ms)","request":"579ms","response":"11ms","domLoaded":"1643ms (1249ms)","loadEvent":"1ms","total":"2817ms (2816ms)","apn":"Wlan"}
+2017-11-01 18:10:49|8d412db361cc341a399e824313b788cb|||{"dns":"0ms","tcp":"2345ms","request":"4450ms","response":"10231ms","domLoaded":"26789ms (26785ms)","loadEvent":"1ms","total":"48770ms (48769ms)","apn":""}
+2017-11-01 18:11:05|4b6ca356a99ef9d0fd579d8513b788cb|||{"dns":"1ms","tcp":"296ms (233ms)","request":"87ms","response":"17ms","domLoaded":"1468ms (1113ms)","loadEvent":"3ms","total":"2186ms (2183ms)","apn":"cmnet"}
+2017-11-01 18:11:21|5396f900bfd2b2bce7cde19d142e88cb|||{"dns":"0ms","tcp":"12ms","request":"134ms","response":"89ms","domLoaded":"3534ms (3531ms)","loadEvent":"0ms","total":"4781ms (4780ms)","apn":""}
+2017-11-01 18:11:29|01d88bf482c19044d52c17a113b788cb|||{"dns":"72ms","tcp":"157ms (128ms)","request":"54ms","response":"9ms","domLoaded":"488ms (314ms)","loadEvent":"2ms","total":"799ms (797ms)","apn":"Wlan"}
+2017-11-01 18:11:43|d40d5e2157a8a10e0a58437413b788cb|||{"dns":"0ms","tcp":"0ms","request":"53ms","response":"4ms","domLoaded":"228ms (228ms)","loadEvent":"0ms","total":"386ms (385ms)","apn":""}
+2017-11-01 18:11:53|ab6404114833ee291c588a6513b788cb|||{"dns":"0ms","tcp":"69ms","request":"88ms","response":"16ms","domLoaded":"908ms (903ms)","loadEvent":"1ms","total":"2343ms (2342ms)","apn":""}
+2017-11-01 18:11:58|d40d5e2157a8a10e0a58437413b788cb|||{"dns":"0ms","tcp":"0ms","request":"54ms","response":"2ms","domLoaded":"231ms (230ms)","loadEvent":"0ms","total":"382ms (382ms)","apn":""}
+2017-11-01 18:12:00|d40d5e2157a8a10e0a58437413b788cb|||{"dns":"0ms","tcp":"0ms","request":"50ms","response":"4ms","domLoaded":"226ms (226ms)","loadEvent":"0ms","total":"363ms (363ms)","apn":""}
+2017-11-01 18:12:06|d40d5e2157a8a10e0a58437413b788cb|||{"dns":"0ms","tcp":"0ms","request":"89ms","response":"3ms","domLoaded":"228ms (228ms)","loadEvent":"0ms","total":"414ms (413ms)","apn":""}
+2017-11-01 18:12:12|d40d5e2157a8a10e0a58437413b788cb|||{"dns":"0ms","tcp":"0ms","request":"60ms","response":"3ms","domLoaded":"229ms (228ms)","loadEvent":"0ms","total":"385ms (385ms)","apn":""}
+2017-11-01 18:12:29|d40d5e2157a8a10e0a58437413b788cb|||{"dns":"0ms","tcp":"0ms","request":"67ms","response":"3ms","domLoaded":"230ms (230ms)","loadEvent":"0ms","total":"424ms (424ms)","apn":""}
+2017-11-01 18:12:30||||{"dns":"1ms","tcp":"95ms (44ms)","request":"56ms","response":"2ms","domLoaded":"687ms (642ms)","loadEvent":"0ms","total":"854ms (854ms)","apn":""}
+2017-11-01 18:12:38|d40d5e2157a8a10e0a58437413b788cb|||{"dns":"0ms","tcp":"0ms","request":"54ms","response":"4ms","domLoaded":"262ms (262ms)","loadEvent":"1ms","total":"999ms (998ms)","apn":""}
+2017-11-01 18:12:42|d40d5e2157a8a10e0a58437413b788cb|||{"dns":"0ms","tcp":"0ms","request":"105ms","response":"2ms","domLoaded":"227ms (226ms)","loadEvent":"0ms","total":"407ms (407ms)","apn":""}
+2017-11-01 18:12:44|d40d5e2157a8a10e0a58437413b788cb|||{"dns":"0ms","tcp":"0ms","request":"107ms","response":"3ms","domLoaded":"237ms (237ms)","loadEvent":"0ms","total":"431ms (430ms)","apn":""}
+2017-11-01 18:12:53|d40d5e2157a8a10e0a58437413b788cb|||{"dns":"0ms","tcp":"0ms","request":"101ms","response":"2ms","domLoaded":"239ms (238ms)","loadEvent":"0ms","total":"494ms (494ms)","apn":""}
+2017-11-01 18:13:14|ed3467186e2520e33ac1a24d100588cb||1:2454540730|{"dns":"0ms","tcp":"0ms","request":"123ms","response":"10ms","domLoaded":"880ms (845ms)","loadEvent":"0ms","total":"1045ms (1045ms)","apn":"Wlan"}
+2017-11-01 18:13:47|dd1272673e62fd156f3fd61313b788cb|||{"dns":"0ms","tcp":"426ms","request":"73ms","response":"18ms","domLoaded":"1056ms (1053ms)","loadEvent":"1ms","total":"3586ms (3585ms)","apn":""}
+2017-11-01 18:14:07|5374bb4eb1365902e6c3a19d12e988cb||1:442801004|{"dns":"176ms","tcp":"372ms (278ms)","request":"140ms","response":"2ms","domLoaded":"1037ms (796ms)","loadEvent":"0ms","total":"1766ms (1766ms)","apn":"cmnet"}
+2017-11-01 18:14:09|d40d5e2157a8a10e0a58437413b788cb|||{"dns":"0ms","tcp":"0ms","request":"54ms","response":"2ms","domLoaded":"227ms (226ms)","loadEvent":"0ms","total":"363ms (363ms)","apn":""}
+2017-11-01 18:14:11|5019aa4cbc47fdc6e479639e13b788cb|||{"dns":"0ms","tcp":"104ms (52ms)","request":"65ms","response":"12ms","domLoaded":"654ms (441ms)","loadEvent":"0ms","total":"1237ms (1237ms)","apn":"Wlan"}
+2017-11-01 18:14:30|a66c05df456796ed16fa476813b788cb|||{"dns":"14ms","tcp":"36ms","request":"45ms","response":"544ms","domLoaded":"801ms (795ms)","loadEvent":"0ms","total":"7276ms (7276ms)","apn":""}
+2017-11-01 18:14:51|d40d5e2157a8a10e0a58437413b788cb|||{"dns":"0ms","tcp":"0ms","request":"46ms","response":"4ms","domLoaded":"583ms (582ms)","loadEvent":"0ms","total":"981ms (981ms)","apn":""}
+2017-11-01 18:15:22|d40d5e2157a8a10e0a58437413b788cb|||{"dns":"0ms","tcp":"0ms","request":"133ms","response":"2ms","domLoaded":"239ms (238ms)","loadEvent":"0ms","total":"640ms (640ms)","apn":""}
+2017-11-01 18:15:23|71a8fb84f2d52e8bba27f6d113b788cb|||{"dns":"0ms","tcp":"14ms","request":"55ms","response":"8ms","domLoaded":"556ms (554ms)","loadEvent":"1ms","total":"1365ms (1364ms)","apn":""}
+2017-11-01 18:15:30|d40d5e2157a8a10e0a58437413b788cb|||{"dns":"0ms","tcp":"0ms","request":"47ms","response":"2ms","domLoaded":"243ms (242ms)","loadEvent":"0ms","total":"378ms (378ms)","apn":""}
+2017-11-01 18:15:32|d40d5e2157a8a10e0a58437413b788cb|||{"dns":"0ms","tcp":"0ms","request":"76ms","response":"2ms","domLoaded":"239ms (238ms)","loadEvent":"0ms","total":"411ms (411ms)","apn":""}
+2017-11-01 18:15:32|||1:644963968|{"dns":"0ms","tcp":"0ms","request":"0ms","response":"332ms","domLoaded":"594ms (580ms)","loadEvent":"0ms","total":"939ms (939ms)"}
+2017-11-01 18:15:37|3df1b562de79864a8d000bf313b788cb|||{"dns":"0ms","tcp":"21ms","request":"83ms","response":"8ms","domLoaded":"1269ms (1260ms)","loadEvent":"16ms","total":"2962ms (2946ms)","apn":""}
+2017-11-01 18:15:39|d40d5e2157a8a10e0a58437413b788cb|||{"dns":"0ms","tcp":"0ms","request":"69ms","response":"3ms","domLoaded":"233ms (232ms)","loadEvent":"0ms","total":"389ms (389ms)","apn":""}
+2017-11-01 18:15:54||||{"dns":"11ms","tcp":"10ms","request":"42ms","response":"3ms","domLoaded":"767ms (736ms)","loadEvent":"1ms","total":"1554ms (1553ms)","apn":""}
+2017-11-01 18:15:56|b56c3f403634aefa6f536c1510ee88cb|||{"dns":"0ms","tcp":"0ms","request":"83ms","response":"26ms","domLoaded":"630ms (628ms)","loadEvent":"1ms","total":"2033ms (2032ms)","apn":""}
+2017-11-01 18:16:06|d40d5e2157a8a10e0a58437413b788cb|||{"dns":"0ms","tcp":"0ms","request":"68ms","response":"7ms","domLoaded":"238ms (238ms)","loadEvent":"2ms","total":"467ms (465ms)","apn":""}
+2017-11-01 18:16:08|d40d5e2157a8a10e0a58437413b788cb|||{"dns":"0ms","tcp":"0ms","request":"56ms","response":"3ms","domLoaded":"229ms (229ms)","loadEvent":"0ms","total":"370ms (370ms)","apn":""}
+2017-11-01 18:16:15|10dcb3fefd449ce2a65693de13b788cb||1:1376448140|{"dns":"0ms","tcp":"0ms","request":"3ms","response":"16ms","domLoaded":"346ms (345ms)","loadEvent":"0ms","total":"384ms (384ms)","apn":""}
+2017-11-01 18:16:19|d40d5e2157a8a10e0a58437413b788cb|||{"dns":"0ms","tcp":"0ms","request":"58ms","response":"3ms","domLoaded":"248ms (247ms)","loadEvent":"0ms","total":"1399ms (1399ms)","apn":""}
+2017-11-01 18:16:36||||{"dns":"43ms","tcp":"122ms (79ms)","request":"65ms","response":"4ms","domLoaded":"1288ms (939ms)","loadEvent":"1ms","total":"1864ms (1863ms)","apn":""}
+2017-11-01 18:16:39|d40d5e2157a8a10e0a58437413b788cb|||{"dns":"0ms","tcp":"0ms","request":"57ms","response":"2ms","domLoaded":"227ms (226ms)","loadEvent":"0ms","total":"381ms (381ms)","apn":""}
+2017-11-01 18:16:47||||{"dns":"0ms","tcp":"0ms","request":"0ms","response":"141ms","domLoaded":"531ms (238ms)","loadEvent":"0ms","total":"696ms (694ms)"}
+2017-11-01 18:16:57|d40d5e2157a8a10e0a58437413b788cb|||{"dns":"0ms","tcp":"0ms","request":"79ms","response":"2ms","domLoaded":"240ms (239ms)","loadEvent":"0ms","total":"587ms (587ms)","apn":""}
+2017-11-01 18:17:19|||1:770359755|{"dns":"0ms","tcp":"0ms","request":"0ms","response":"337ms","domLoaded":"417ms (416ms)","loadEvent":"0ms","total":"786ms (786ms)"}
+2017-11-01 18:17:25|77b8d8cd94adc28fc31a4eb913b788cb||1:1908661430|{"dns":"140ms","tcp":"303ms (187ms)","request":"135ms","response":"13ms","domLoaded":"512ms (502ms)","loadEvent":"0ms","total":"1126ms (1126ms)","apn":""}
+2017-11-01 18:17:27|d40d5e2157a8a10e0a58437413b788cb|||{"dns":"0ms","tcp":"0ms","request":"117ms","response":"3ms","domLoaded":"254ms (253ms)","loadEvent":"0ms","total":"460ms (460ms)","apn":""}
+2017-11-01 18:17:28|73bcdcc990019d3bc78949bd13b788cb||1:513827592|{"dns":"0ms","tcp":"0ms","request":"11ms","response":"32ms","domLoaded":"417ms (410ms)","loadEvent":"0ms","total":"496ms (496ms)","apn":""}
+2017-11-01 18:18:01||||{"dns":"0ms","tcp":"0ms","request":"2ms","response":"12ms","domLoaded":"605ms (567ms)","loadEvent":"1ms","total":"668ms (667ms)","apn":""}
+2017-11-01 18:18:10|05c066efe9132b97b3f475cb13b788cb|||{"dns":"0ms","tcp":"31ms","request":"59ms","response":"23ms","domLoaded":"1687ms (1681ms)","loadEvent":"0ms","total":"3637ms (3637ms)","apn":""}
+2017-11-01 18:18:10|08d182fd8b37a13ad0ec71a813b788cb|||{"dns":"54ms","tcp":"219ms (175ms)","request":"72ms","response":"3ms","domLoaded":"1770ms (1533ms)","loadEvent":"1ms","total":"2145ms (2144ms)","apn":"cmnet"}
+2017-11-01 18:18:12|d40d5e2157a8a10e0a58437413b788cb|||{"dns":"0ms","tcp":"0ms","request":"192ms","response":"15ms","domLoaded":"243ms (243ms)","loadEvent":"0ms","total":"890ms (890ms)","apn":""}
+2017-11-01 18:18:16|d40d5e2157a8a10e0a58437413b788cb|||{"dns":"0ms","tcp":"0ms","request":"42ms","response":"8ms","domLoaded":"233ms (232ms)","loadEvent":"0ms","total":"358ms (358ms)","apn":""}
+2017-11-01 18:18:40|22fba8d7a03a3016fbd6548213b788cb|||{"dns":"0ms","tcp":"8ms","request":"36ms","response":"3ms","domLoaded":"558ms (556ms)","loadEvent":"7ms","total":"1235ms (1228ms)","apn":""}
+2017-11-01 18:18:47|d40d5e2157a8a10e0a58437413b788cb|||{"dns":"0ms","tcp":"0ms","request":"45ms","response":"3ms","domLoaded":"238ms (237ms)","loadEvent":"0ms","total":"382ms (382ms)","apn":""}
+2017-11-01 18:18:47||||{"dns":"86ms","tcp":"974ms (861ms)","request":"158ms","response":"2ms","domLoaded":"1178ms (1131ms)","loadEvent":"1ms","total":"2435ms (2434ms)","apn":""}
+2017-11-01 18:18:59|||1:2248583949|{"dns":"0ms","tcp":"0ms","request":"0ms","response":"258ms","domLoaded":"301ms (300ms)","loadEvent":"0ms","total":"744ms (744ms)"}
+2017-11-01 18:19:03|d40d5e2157a8a10e0a58437413b788cb|||{"dns":"0ms","tcp":"0ms","request":"46ms","response":"3ms","domLoaded":"230ms (229ms)","loadEvent":"2ms","total":"392ms (390ms)","apn":""}
+2017-11-01 18:19:05|d40d5e2157a8a10e0a58437413b788cb|||{"dns":"0ms","tcp":"0ms","request":"53ms","response":"3ms","domLoaded":"235ms (234ms)","loadEvent":"2ms","total":"385ms (383ms)","apn":""}
+2017-11-01 18:19:16|d40d5e2157a8a10e0a58437413b788cb|||{"dns":"0ms","tcp":"0ms","request":"51ms","response":"13ms","domLoaded":"231ms (231ms)","loadEvent":"2ms","total":"385ms (382ms)","apn":""}
+2017-11-01 18:19:24||||{"dns":"0ms","tcp":"0ms","request":"3ms","response":"4ms","domLoaded":"252ms (221ms)","loadEvent":"1ms","total":"298ms (297ms)","apn":""}
+2017-11-01 18:20:13|72610ce893c07eb3c2e3ebbc122b88cb|||{"dns":"0ms","tcp":"63ms","request":"91ms","response":"88ms","domLoaded":"1190ms (1184ms)","loadEvent":"1ms","total":"3753ms (3752ms)","apn":""}
+2017-11-01 18:20:54|3df2978dd022936389e714f313b788cb||1:1456363086|{"dns":"0ms","tcp":"0ms","request":"4ms","response":"10ms","domLoaded":"590ms (577ms)","loadEvent":"1ms","total":"627ms (626ms)","apn":""}
+2017-11-01 18:20:54|d40d5e2157a8a10e0a58437413b788cb|||{"dns":"0ms","tcp":"0ms","request":"55ms","response":"3ms","domLoaded":"226ms (225ms)","loadEvent":"0ms","total":"361ms (361ms)","apn":""}
+2017-11-01 18:20:56|78a1f28dfa929b3ba6d9dbd813b788cb||2:o9GiTuLKoxp6niRiixB9sUIHIx5g|{"dns":"0ms","tcp":"231ms (42ms)","request":"111ms","response":"5ms","domLoaded":"998ms (801ms)","loadEvent":"1ms","total":"1379ms (1378ms)","apn":"ctlte"}
+2017-11-01 18:22:05|c30c69732efca38377550f0d106088cb|||{"dns":"0ms","tcp":"0ms","request":"56ms","response":"90ms","domLoaded":"266ms (265ms)","loadEvent":"0ms","total":"585ms (585ms)","apn":""}
+2017-11-01 18:22:34|d40d5e2157a8a10e0a58437413b788cb|||{"dns":"0ms","tcp":"0ms","request":"86ms","response":"3ms","domLoaded":"232ms (232ms)","loadEvent":"3ms","total":"475ms (472ms)","apn":""}
+2017-11-01 18:22:38|3df2978dd022936389e714f313b788cb||1:1456363086|{"dns":"0ms","tcp":"0ms","request":"11ms","response":"17ms","domLoaded":"651ms (625ms)","loadEvent":"1ms","total":"721ms (720ms)","apn":""}
+2017-11-01 18:22:40||||{"dns":"12ms","tcp":"14ms","request":"27ms","response":"8ms","domLoaded":"594ms (593ms)","loadEvent":"1ms","total":"1463ms (1462ms)","apn":""}
+2017-11-01 18:22:48|954c1f60176068834be5453511c188cb|||{"dns":"0ms","tcp":"38ms","request":"74ms","response":"31ms","domLoaded":"808ms (805ms)","loadEvent":"1ms","total":"1602ms (1601ms)","apn":""}
+2017-11-01 18:23:32|d40d5e2157a8a10e0a58437413b788cb|||{"dns":"0ms","tcp":"0ms","request":"105ms","response":"2ms","domLoaded":"226ms (226ms)","loadEvent":"0ms","total":"570ms (569ms)","apn":""}
+2017-11-01 18:23:37|eb2f43470760afd05e60652513b788cb||1:626710362|{"dns":"1ms","tcp":"133ms (70ms)","request":"98ms","response":"6ms","domLoaded":"512ms (511ms)","loadEvent":"0ms","total":"1061ms (1061ms)","apn":""}
+2017-11-01 18:23:41|e7216099652dc81f3f31d24713b788cb||1:315485203|{"dns":"0ms","tcp":"136ms (58ms)","request":"74ms","response":"6ms","domLoaded":"740ms (739ms)","loadEvent":"0ms","total":"1467ms (1467ms)","apn":""}
+2017-11-01 18:23:56|367fcc2ada11b16f82dd39f8122188cb|||{"dns":"0ms","tcp":"0ms","request":"77ms","response":"17ms","domLoaded":"346ms (345ms)","loadEvent":"0ms","total":"1171ms (1171ms)","apn":""}
+2017-11-01 18:24:01|d40d5e2157a8a10e0a58437413b788cb|||{"dns":"0ms","tcp":"0ms","request":"98ms","response":"3ms","domLoaded":"421ms (420ms)","loadEvent":"0ms","total":"1020ms (1020ms)","apn":""}
+2017-11-01 18:24:14|d40d5e2157a8a10e0a58437413b788cb|||{"dns":"0ms","tcp":"0ms","request":"90ms","response":"3ms","domLoaded":"276ms (275ms)","loadEvent":"0ms","total":"511ms (511ms)","apn":""}
+2017-11-01 18:24:20|4a85e5f0a661b4dffecd6e8413b788cb||1:451013612|{"dns":"0ms","tcp":"0ms","request":"2ms","response":"10ms","domLoaded":"417ms (416ms)","loadEvent":"1ms","total":"443ms (442ms)","apn":""}
+2017-11-01 18:24:48|d40d5e2157a8a10e0a58437413b788cb|||{"dns":"0ms","tcp":"0ms","request":"49ms","response":"2ms","domLoaded":"271ms (270ms)","loadEvent":"0ms","total":"401ms (401ms)","apn":""}
+2017-11-01 18:25:17|d40d5e2157a8a10e0a58437413b788cb|||{"dns":"0ms","tcp":"0ms","request":"83ms","response":"2ms","domLoaded":"471ms (470ms)","loadEvent":"0ms","total":"757ms (757ms)","apn":""}
+2017-11-01 18:25:25|12ddbda8f1fb9b70a73221dc13b788cb|||{"dns":"151ms","tcp":"413ms (294ms)","request":"132ms","response":"20ms","domLoaded":"1053ms (818ms)","loadEvent":"5ms","total":"1821ms (1816ms)","apn":"wonet"}
+2017-11-01 18:25:43|1bd4b4a1f8941a9cae04acd5116488cb|||{"dns":"0ms","tcp":"0ms","request":"6724ms","response":"5ms","domLoaded":"230ms (208ms)","loadEvent":"0ms","total":"6995ms (6995ms)","apn":"cmnet"}
+2017-11-01 18:25:58|fc305f121197f2374c53c032111b88cb|||{"dns":"43ms","tcp":"48ms","request":"61ms","response":"27ms","domLoaded":"825ms (818ms)","loadEvent":"1ms","total":"2166ms (2165ms)","apn":""}
+2017-11-01 18:26:17|f83757421b684b834e78a43613b788cb|||{"dns":"0ms","tcp":"167ms","request":"241ms","response":"231ms","domLoaded":"2355ms (1130ms)","loadEvent":"1ms","total":"3378ms (3377ms)","apn":""}
+2017-11-01 18:26:21|d40d5e2157a8a10e0a58437413b788cb|||{"dns":"0ms","tcp":"0ms","request":"2212ms","response":"7ms","domLoaded":"1269ms (1268ms)","loadEvent":"3ms","total":"5241ms (5238ms)","apn":""}
+2017-11-01 18:26:32|||1:892082918|{"dns":"0ms","tcp":"0ms","request":"0ms","response":"284ms","domLoaded":"459ms (345ms)","loadEvent":"0ms","total":"751ms (751ms)"}
+2017-11-01 18:26:37|c1184b3442e786ec1a866f6113b788cb|||{"dns":"0ms","tcp":"9ms","request":"39ms","response":"27ms","domLoaded":"1080ms (1078ms)","loadEvent":"1ms","total":"2586ms (2585ms)","apn":""}
+2017-11-01 18:26:44|d40d5e2157a8a10e0a58437413b788cb|||{"dns":"0ms","tcp":"0ms","request":"120ms","response":"6ms","domLoaded":"228ms (228ms)","loadEvent":"1ms","total":"583ms (582ms)","apn":""}
+2017-11-01 18:26:44|1cc596e99f577596c0437abc13bf88cb|||{"dns":"0ms","tcp":"37ms","request":"65ms","response":"19ms","domLoaded":"667ms (665ms)","loadEvent":"1ms","total":"1470ms (1469ms)","apn":""}
+2017-11-01 18:26:47||||{"dns":"38ms","tcp":"39ms","request":"93ms","response":"5ms","domLoaded":"1062ms (760ms)","loadEvent":"1ms","total":"2227ms (2226ms)","apn":""}
+2017-11-01 18:26:56|945efbea79be4b1924b4e25a13b788cb|||{"dns":"0ms","tcp":"50ms","request":"157ms","response":"31ms","domLoaded":"1723ms (1722ms)","loadEvent":"1ms","total":"3291ms (3290ms)","apn":""}
+2017-11-01 18:27:38|d40d5e2157a8a10e0a58437413b788cb|||{"dns":"0ms","tcp":"0ms","request":"102ms","response":"2ms","domLoaded":"225ms (224ms)","loadEvent":"0ms","total":"418ms (418ms)","apn":""}
+2017-11-01 18:27:54|a06627de220034ca7a00dd0011ab88cb|||{"dns":"0ms","tcp":"72ms","request":"118ms","response":"16ms","domLoaded":"404ms (402ms)","loadEvent":"0ms","total":"816ms (816ms)","apn":""}
+2017-11-01 18:27:58|d40d5e2157a8a10e0a58437413b788cb|||{"dns":"0ms","tcp":"0ms","request":"60ms","response":"2ms","domLoaded":"226ms (226ms)","loadEvent":"1ms","total":"381ms (380ms)","apn":""}
+2017-11-01 18:28:02|d40d5e2157a8a10e0a58437413b788cb|||{"dns":"0ms","tcp":"0ms","request":"75ms","response":"2ms","domLoaded":"244ms (243ms)","loadEvent":"0ms","total":"411ms (411ms)","apn":""}
+2017-11-01 18:28:11|d40d5e2157a8a10e0a58437413b788cb|||{"dns":"0ms","tcp":"0ms","request":"50ms","response":"3ms","domLoaded":"236ms (236ms)","loadEvent":"0ms","total":"390ms (389ms)","apn":""}
+2017-11-01 18:28:15|d40d5e2157a8a10e0a58437413b788cb|||{"dns":"0ms","tcp":"0ms","request":"52ms","response":"2ms","domLoaded":"237ms (237ms)","loadEvent":"0ms","total":"386ms (386ms)","apn":""}
+2017-11-01 18:28:16|7177d6509cf19a92c4f189bf101b88cb||1:308474300|{"dns":"0ms","tcp":"0ms","request":"100ms","response":"3ms","domLoaded":"571ms (570ms)","loadEvent":"1ms","total":"1084ms (1083ms)","apn":"cmnet"}
+2017-11-01 18:28:20|d40d5e2157a8a10e0a58437413b788cb|||{"dns":"0ms","tcp":"0ms","request":"63ms","response":"2ms","domLoaded":"237ms (236ms)","loadEvent":"0ms","total":"383ms (383ms)","apn":""}
+2017-11-01 18:28:40|d40d5e2157a8a10e0a58437413b788cb|||{"dns":"0ms","tcp":"0ms","request":"57ms","response":"3ms","domLoaded":"238ms (238ms)","loadEvent":"0ms","total":"383ms (383ms)","apn":""}
+2017-11-01 18:28:50|8ad1f22e683d285e3ffdf74412c488cb|||{"dns":"0ms","tcp":"29ms","request":"53ms","response":"151ms","domLoaded":"1334ms (1333ms)","loadEvent":"1ms","total":"3297ms (3296ms)","apn":""}
+2017-11-01 18:28:54|5a9cdd24d8fef92780c2c5fa13b788cb||1:307424723|{"dns":"0ms","tcp":"0ms","request":"2ms","response":"18ms","domLoaded":"628ms (627ms)","loadEvent":"0ms","total":"664ms (664ms)","apn":""}
+2017-11-01 18:29:01||||{"dns":"2ms","tcp":"158ms (81ms)","request":"98ms","response":"3ms","domLoaded":"2092ms (1815ms)","loadEvent":"1ms","total":"3003ms (3002ms)","apn":"Wlan"}
+2017-11-01 18:29:07|d40d5e2157a8a10e0a58437413b788cb|||{"dns":"0ms","tcp":"0ms","request":"72ms","response":"2ms","domLoaded":"340ms (340ms)","loadEvent":"0ms","total":"516ms (515ms)","apn":""}
+2017-11-01 18:29:07|529dfde8be52b4bce5fc469c13b788cb|||{"dns":"0ms","tcp":"301ms","request":"70ms","response":"23ms","domLoaded":"1783ms (1778ms)","loadEvent":"1ms","total":"4354ms (4353ms)","apn":""}
+2017-11-01 18:29:13|7e5996639c03bd6cc80e74b012e588cb|||{"dns":"0ms","tcp":"43ms","request":"99ms","response":"92ms","domLoaded":"2897ms (2868ms)","loadEvent":"1ms","total":"4316ms (4314ms)","apn":""}
+2017-11-01 18:29:23|d40d5e2157a8a10e0a58437413b788cb|||{"dns":"0ms","tcp":"0ms","request":"64ms","response":"3ms","domLoaded":"231ms (230ms)","loadEvent":"0ms","total":"379ms (379ms)","apn":""}
+2017-11-01 18:29:25|d40d5e2157a8a10e0a58437413b788cb|||{"dns":"0ms","tcp":"0ms","request":"74ms","response":"2ms","domLoaded":"235ms (235ms)","loadEvent":"0ms","total":"399ms (399ms)","apn":""}
+2017-11-01 18:29:28||||{"dns":"2ms","tcp":"77ms (64ms)","request":"22ms","response":"8ms","domLoaded":"174ms (173ms)","loadEvent":"0ms","total":"292ms (292ms)"}
+2017-11-01 18:30:07|f1e00e251c6d81434561a73f13b788cb||1:604479409|{"dns":"0ms","tcp":"41ms (22ms)","request":"54ms","response":"2ms","domLoaded":"307ms (304ms)","loadEvent":"1ms","total":"436ms (435ms)","apn":""}
+2017-11-01 18:30:32|539cfce9b0e5f548e2c1b29d113b88cb||1:1477348932|{"dns":"0ms","tcp":"0ms","request":"150ms","response":"19ms","domLoaded":"900ms (880ms)","loadEvent":"1ms","total":"1202ms (1201ms)","apn":"Wlan"}
+2017-11-01 18:30:52||||{"dns":"2ms","tcp":"41ms","request":"61ms","response":"3ms","domLoaded":"1518ms (1441ms)","loadEvent":"1ms","total":"2829ms (2827ms)","apn":""}
+2017-11-01 18:31:04|3322cce7de87880384ae22fd13b788cb||2:o9GiTuOQjv8wB5f17GL8RENMF7P8|{"dns":"36ms","tcp":"244ms (146ms)","request":"594ms","response":"11ms","domLoaded":"855ms (845ms)","loadEvent":"0ms","total":"1786ms (1786ms)","apn":"Wlan"}
+2017-11-01 18:31:10|d40d5e2157a8a10e0a58437413b788cb|||{"dns":"0ms","tcp":"0ms","request":"83ms","response":"3ms","domLoaded":"229ms (229ms)","loadEvent":"0ms","total":"397ms (397ms)","apn":""}
+2017-11-01 18:31:17|d40d5e2157a8a10e0a58437413b788cb|||{"dns":"0ms","tcp":"0ms","request":"84ms","response":"2ms","domLoaded":"231ms (231ms)","loadEvent":"0ms","total":"398ms (398ms)","apn":""}
+2017-11-01 18:31:19||||{"dns":"16ms","tcp":"97ms (80ms)","request":"24ms","response":"4ms","domLoaded":"1340ms (985ms)","loadEvent":"1ms","total":"2345ms (2344ms)","apn":""}
+2017-11-01 18:31:20|1fd39740fde19022ab8b56d112b788cb|||{"dns":"0ms","tcp":"27ms","request":"93ms","response":"58ms","domLoaded":"1505ms (1503ms)","loadEvent":"1ms","total":"3197ms (3194ms)","apn":""}
+2017-11-01 18:31:21|d8c9270c3564758268657d1613b788cb|||{"dns":"0ms","tcp":"70ms","request":"106ms","response":"9ms","domLoaded":"894ms (893ms)","loadEvent":"1ms","total":"2594ms (2593ms)","apn":""}
+2017-11-01 18:31:29|d40d5e2157a8a10e0a58437413b788cb|||{"dns":"0ms","tcp":"0ms","request":"84ms","response":"2ms","domLoaded":"237ms (236ms)","loadEvent":"0ms","total":"410ms (410ms)","apn":""}
+2017-11-01 18:31:30|11dd994ef22f9285a462eedf13b788cb|||{"dns":"0ms","tcp":"90ms","request":"97ms","response":"6ms","domLoaded":"993ms (992ms)","loadEvent":"7ms","total":"2461ms (2454ms)","apn":""}
+2017-11-01 18:31:44|d40d5e2157a8a10e0a58437413b788cb|||{"dns":"0ms","tcp":"0ms","request":"51ms","response":"3ms","domLoaded":"237ms (237ms)","loadEvent":"0ms","total":"382ms (382ms)","apn":""}
+2017-11-01 18:32:05|d40d5e2157a8a10e0a58437413b788cb|||{"dns":"0ms","tcp":"0ms","request":"159ms","response":"2ms","domLoaded":"259ms (258ms)","loadEvent":"0ms","total":"776ms (776ms)","apn":""}
+2017-11-01 18:33:22||||{"dns":"12ms","tcp":"35ms","request":"39ms","response":"37ms","domLoaded":"3017ms (3003ms)","loadEvent":"2ms","total":"5464ms (5462ms)","apn":""}
+2017-11-01 18:33:39|d40d5e2157a8a10e0a58437413b788cb|||{"dns":"0ms","tcp":"0ms","request":"44ms","response":"3ms","domLoaded":"243ms (243ms)","loadEvent":"3ms","total":"384ms (381ms)","apn":""}
+2017-11-01 18:33:43|875e0d720582ca105ffb392711dd88cb|||{"dns":"0ms","tcp":"322ms","request":"112ms","response":"13ms","domLoaded":"582ms (581ms)","loadEvent":"0ms","total":"1658ms (1658ms)","apn":""}
+2017-11-01 18:34:10|d40d5e2157a8a10e0a58437413b788cb|||{"dns":"0ms","tcp":"0ms","request":"53ms","response":"2ms","domLoaded":"222ms (222ms)","loadEvent":"2ms","total":"413ms (411ms)","apn":""}
+2017-11-01 18:34:26|a058356823bfbfe07e4de40013b788cb|||{"dns":"65ms","tcp":"77ms","request":"86ms","response":"2ms","domLoaded":"588ms (587ms)","loadEvent":"1ms","total":"1251ms (1250ms)","apn":""}
+2017-11-01 18:34:31|35ecbfc0b6729c60e8b9dd9513b788cb||1:2267702815|{"dns":"0ms","tcp":"0ms","request":"2ms","response":"9ms","domLoaded":"373ms (367ms)","loadEvent":"0ms","total":"409ms (409ms)","apn":""}
+2017-11-01 18:34:36|d40d5e2157a8a10e0a58437413b788cb|||{"dns":"0ms","tcp":"0ms","request":"49ms","response":"2ms","domLoaded":"223ms (223ms)","loadEvent":"0ms","total":"363ms (363ms)","apn":""}
+2017-11-01 18:34:43|d40d5e2157a8a10e0a58437413b788cb|||{"dns":"0ms","tcp":"0ms","request":"47ms","response":"3ms","domLoaded":"245ms (245ms)","loadEvent":"0ms","total":"382ms (382ms)","apn":""}
+2017-11-01 18:34:51|31fe9e8bdd0500f7857b65ff110288cb||1:460146533|{"dns":"0ms","tcp":"0ms","request":"23ms","response":"5ms","domLoaded":"1046ms (742ms)","loadEvent":"6ms","total":"1118ms (1112ms)","apn":"Wlan"}
+2017-11-01 18:35:33||||{"dns":"27ms","tcp":"24ms","request":"34ms","response":"2ms","domLoaded":"472ms (471ms)","loadEvent":"1ms","total":"1096ms (1095ms)","apn":""}
+2017-11-01 18:35:41|4e81e1f4adf5b151ff19138013b788cb|||{"dns":"1ms","tcp":"13ms","request":"60ms","response":"167ms","domLoaded":"1903ms (1893ms)","loadEvent":"2ms","total":"3742ms (3740ms)","apn":""}
+2017-11-01 18:35:42|d40d5e2157a8a10e0a58437413b788cb|||{"dns":"0ms","tcp":"0ms","request":"57ms","response":"2ms","domLoaded":"239ms (239ms)","loadEvent":"3ms","total":"385ms (382ms)","apn":""}
+2017-11-01 18:35:47||||{"dns":"0ms","tcp":"0ms","request":"2ms","response":"5ms","domLoaded":"484ms (482ms)","loadEvent":"1ms","total":"555ms (554ms)","apn":""}
+2017-11-01 18:35:48|12cb98e7903ae7dac9d565b211f588cb||1:499242611|{"dns":"0ms","tcp":"0ms","request":"114ms","response":"6ms","domLoaded":"420ms (374ms)","loadEvent":"0ms","total":"561ms (561ms)","apn":"wonet"}
+2017-11-01 18:35:50|35ecbfc0b6729c60e8b9dd9513b788cb||1:2267702815|{"dns":"0ms","tcp":"0ms","request":"4ms","response":"7ms","domLoaded":"394ms (393ms)","loadEvent":"0ms","total":"424ms (423ms)","apn":""}
+2017-11-01 18:36:37|a76d04de44657ac217c57a69113e88cb|||{"dns":"0ms","tcp":"33ms","request":"79ms","response":"21ms","domLoaded":"1323ms (1319ms)","loadEvent":"18ms","total":"3585ms (3567ms)","apn":""}
+2017-11-01 18:36:40||||{"dns":"30ms","tcp":"95ms (84ms)","request":"34ms","response":"9ms","domLoaded":"1167ms (1164ms)","loadEvent":"9ms","total":"1393ms (1384ms)","apn":""}
+2017-11-01 18:36:57|f83757421b684b834e78a43613b788cb|||{"dns":"0ms","tcp":"546ms","request":"213ms","response":"35ms","domLoaded":"","loadEvent":"","total":"","apn":""}
+2017-11-01 18:37:06|827a174a0133895f56739c22122188cb|||{"dns":"0ms","tcp":"15ms","request":"69ms","response":"11ms","domLoaded":"806ms (801ms)","loadEvent":"1ms","total":"2182ms (2180ms)","apn":""}
+2017-11-01 18:37:11|d40d5e2157a8a10e0a58437413b788cb|||{"dns":"0ms","tcp":"0ms","request":"58ms","response":"3ms","domLoaded":"304ms (303ms)","loadEvent":"0ms","total":"502ms (502ms)","apn":""}
+2017-11-01 18:37:59|9bc47b0379b741462b6d945513b788cb||1:2976595745|{"dns":"0ms","tcp":"219ms (134ms)","request":"328ms","response":"9ms","domLoaded":"","loadEvent":"","total":"","apn":"Wlan"}
+2017-11-01 18:38:23|d40d5e2157a8a10e0a58437413b788cb|||{"dns":"0ms","tcp":"0ms","request":"59ms","response":"2ms","domLoaded":"252ms (250ms)","loadEvent":"4ms","total":"398ms (394ms)","apn":""}
+2017-11-01 18:38:50|d40d5e2157a8a10e0a58437413b788cb|||{"dns":"0ms","tcp":"0ms","request":"129ms","response":"2ms","domLoaded":"244ms (244ms)","loadEvent":"0ms","total":"458ms (458ms)","apn":""}
+2017-11-01 18:38:52|e23b68176057c00f3802de4213b788cb|||{"dns":"41ms","tcp":"34ms","request":"78ms","response":"26ms","domLoaded":"824ms (821ms)","loadEvent":"1ms","total":"2029ms (2028ms)","apn":""}
+2017-11-01 18:38:53|f83757421b684b834e78a43613b788cb|||{"dns":"0ms","tcp":"166ms","request":"252ms","response":"17ms","domLoaded":"1454ms (668ms)","loadEvent":"1ms","total":"2473ms (2472ms)","apn":""}
+2017-11-01 18:38:54|||1:1243441962|{"dns":"0ms","tcp":"0ms","request":"0ms","response":"280ms","domLoaded":"354ms (354ms)","loadEvent":"0ms","total":"639ms (639ms)"}
+2017-11-01 18:39:38|5746a883baf30f0ae201f799100588cb|||{"dns":"23ms","tcp":"14ms","request":"54ms","response":"6ms","domLoaded":"373ms (372ms)","loadEvent":"1ms","total":"878ms (877ms)","apn":""}
+2017-11-01 18:39:39|35ecbfc0b69d69d5fef3179513b788cb|||{"dns":"0ms","tcp":"0ms","request":"184ms","response":"2ms","domLoaded":"188ms (168ms)","loadEvent":"0ms","total":"464ms (464ms)","apn":"3gnet"}
+2017-11-01 18:39:43|185ab9dbf5fdc510acf421d613b788cb|||{"dns":"460ms","tcp":"51ms","request":"86ms","response":"16ms","domLoaded":"1376ms (1374ms)","loadEvent":"1ms","total":"3244ms (3243ms)","apn":""}
+2017-11-01 18:39:45|66a9c9dc858cc7fbd35169a813b788cb||1:676632020|{"dns":"0ms","tcp":"107ms (60ms)","request":"59ms","response":"12ms","domLoaded":"712ms (705ms)","loadEvent":"0ms","total":"1301ms (1301ms)","apn":""}
+2017-11-01 18:39:54|d40d5e2157a8a10e0a58437413b788cb|||{"dns":"0ms","tcp":"0ms","request":"51ms","response":"3ms","domLoaded":"231ms (231ms)","loadEvent":"1ms","total":"367ms (366ms)","apn":""}
+2017-11-01 18:40:13|d40d5e2157a8a10e0a58437413b788cb|||{"dns":"0ms","tcp":"0ms","request":"45ms","response":"4ms","domLoaded":"235ms (234ms)","loadEvent":"0ms","total":"378ms (378ms)","apn":""}
+2017-11-01 18:40:17|d40d5e2157a8a10e0a58437413b788cb|||{"dns":"0ms","tcp":"0ms","request":"52ms","response":"13ms","domLoaded":"231ms (230ms)","loadEvent":"0ms","total":"415ms (415ms)","apn":""}
+2017-11-01 18:40:22|d40d5e2157a8a10e0a58437413b788cb|||{"dns":"0ms","tcp":"0ms","request":"54ms","response":"18ms","domLoaded":"354ms (353ms)","loadEvent":"0ms","total":"684ms (684ms)","apn":""}
+2017-11-01 18:40:26|d40d5e2157a8a10e0a58437413b788cb|||{"dns":"0ms","tcp":"0ms","request":"52ms","response":"5ms","domLoaded":"259ms (258ms)","loadEvent":"0ms","total":"378ms (378ms)","apn":""}
+2017-11-01 18:40:53|d40d5e2157a8a10e0a58437413b788cb|||{"dns":"0ms","tcp":"0ms","request":"62ms","response":"19ms","domLoaded":"256ms (255ms)","loadEvent":"0ms","total":"408ms (408ms)","apn":""}
+2017-11-01 18:41:26|4b81e832a7c2b3abfc53518513b788cb|||{"dns":"0ms","tcp":"0ms","request":"34ms","response":"5ms","domLoaded":"415ms (415ms)","loadEvent":"1ms","total":"625ms (624ms)","apn":""}
+2017-11-01 18:41:41|d40d5e2157a8a10e0a58437413b788cb|||{"dns":"0ms","tcp":"0ms","request":"58ms","response":"10ms","domLoaded":"260ms (259ms)","loadEvent":"0ms","total":"385ms (385ms)","apn":""}
+2017-11-01 18:41:52|d40d5e2157a8a10e0a58437413b788cb|||{"dns":"0ms","tcp":"0ms","request":"58ms","response":"3ms","domLoaded":"256ms (255ms)","loadEvent":"0ms","total":"386ms (386ms)","apn":""}
+2017-11-01 18:41:59|19d6b3a9f471ff83a8d129d7103a88cb|||{"dns":"0ms","tcp":"78ms","request":"185ms","response":"8ms","domLoaded":"886ms (882ms)","loadEvent":"1ms","total":"2630ms (2629ms)","apn":""}
+2017-11-01 18:42:15|9d4417681e529c614a3ab73d13b788cb|||{"dns":"0ms","tcp":"26ms","request":"54ms","response":"20ms","domLoaded":"1080ms (1079ms)","loadEvent":"1ms","total":"1992ms (1991ms)","apn":""}
+2017-11-01 18:43:23|26e0a158a43cf2b2fcf8df8613b788cb||1:250656153|{"dns":"0ms","tcp":"0ms","request":"3ms","response":"17ms","domLoaded":"318ms (312ms)","loadEvent":"0ms","total":"357ms (357ms)","apn":""}
+2017-11-01 18:43:36|d40d5e2157a8a10e0a58437413b788cb|||{"dns":"0ms","tcp":"0ms","request":"57ms","response":"3ms","domLoaded":"263ms (263ms)","loadEvent":"1ms","total":"427ms (426ms)","apn":""}
+2017-11-01 18:43:41|d40d5e2157a8a10e0a58437413b788cb|||{"dns":"0ms","tcp":"0ms","request":"57ms","response":"3ms","domLoaded":"259ms (258ms)","loadEvent":"0ms","total":"563ms (563ms)","apn":""}
+2017-11-01 18:43:50|d40d5e2157a8a10e0a58437413b788cb|||{"dns":"0ms","tcp":"0ms","request":"65ms","response":"5ms","domLoaded":"253ms (252ms)","loadEvent":"0ms","total":"400ms (400ms)","apn":""}
+2017-11-01 18:43:53|d40d5e2157a8a10e0a58437413b788cb|||{"dns":"0ms","tcp":"0ms","request":"60ms","response":"4ms","domLoaded":"255ms (254ms)","loadEvent":"0ms","total":"581ms (581ms)","apn":""}
+2017-11-01 18:43:58|d40d5e2157a8a10e0a58437413b788cb|||{"dns":"0ms","tcp":"0ms","request":"61ms","response":"6ms","domLoaded":"268ms (267ms)","loadEvent":"0ms","total":"439ms (439ms)","apn":""}
+2017-11-01 18:44:04||||{"dns":"0ms","tcp":"0ms","request":"329ms","response":"8ms","domLoaded":"776ms (770ms)","loadEvent":"2ms","total":"1159ms (1157ms)","apn":""}
+2017-11-01 18:44:12|b9bf1e9854282be80ef7f57713b788cb|||{"dns":"8ms","tcp":"14ms","request":"35ms","response":"15ms","domLoaded":"372ms (370ms)","loadEvent":"0ms","total":"855ms (855ms)","apn":""}
+2017-11-01 18:44:28|9dc27e8a71583ddf2d86f85311ab88cb|||{"dns":"0ms","tcp":"0ms","request":"167ms","response":"4ms","domLoaded":"675ms (643ms)","loadEvent":"0ms","total":"866ms (866ms)","apn":"cmnet"}
+2017-11-01 18:44:31|b0693a453206b6e26a85031013b788cb|||{"dns":"0ms","tcp":"76ms","request":"111ms","response":"15ms","domLoaded":"1712ms (1710ms)","loadEvent":"1ms","total":"4347ms (4345ms)","apn":""}
+2017-11-01 18:44:38|29f0a3dcabf8558df5cdb88913b788cb|||{"dns":"0ms","tcp":"18ms","request":"40ms","response":"29ms","domLoaded":"1984ms (1982ms)","loadEvent":"1ms","total":"4258ms (4257ms)","apn":""}
+2017-11-01 18:44:47|fa3c7d84785a9c7e2025365a13b788cb|||{"dns":"0ms","tcp":"147ms","request":"69ms","response":"14ms","domLoaded":"1172ms (1170ms)","loadEvent":"0ms","total":"2409ms (2409ms)","apn":""}
+2017-11-01 18:45:14|d40d5e2157a8a10e0a58437413b788cb|||{"dns":"0ms","tcp":"0ms","request":"61ms","response":"3ms","domLoaded":"242ms (241ms)","loadEvent":"0ms","total":"393ms (393ms)","apn":""}
+2017-11-01 18:45:17||||{"dns":"303ms","tcp":"237ms (185ms)","request":"87ms","response":"1ms","domLoaded":"915ms (735ms)","loadEvent":"0ms","total":"1590ms (1590ms)","apn":""}
+2017-11-01 18:45:27|d40d5e2157a8a10e0a58437413b788cb|||{"dns":"0ms","tcp":"0ms","request":"76ms","response":"2ms","domLoaded":"619ms (618ms)","loadEvent":"0ms","total":"855ms (855ms)","apn":""}
+2017-11-01 18:45:35|5188dba4d399f7658ea188f113b788cb|||{"dns":"1ms","tcp":"61ms (22ms)","request":"33ms","response":"4ms","domLoaded":"273ms (237ms)","loadEvent":"1ms","total":"401ms (400ms)","apn":"Wlan"}
+2017-11-01 18:45:50|||1:2926007327|{"dns":"0ms","tcp":"0ms","request":"104ms","response":"3ms","domLoaded":"480ms (478ms)","loadEvent":"0ms","total":"1223ms (1223ms)","apn":""}
+2017-11-01 18:45:54|26e0a158a43cf2b2fcf8df8613b788cb||1:250656153|{"dns":"0ms","tcp":"100ms (44ms)","request":"70ms","response":"12ms","domLoaded":"276ms (276ms)","loadEvent":"0ms","total":"476ms (475ms)","apn":""}
+2017-11-01 18:46:03|4c8acb32ced470799490e4ec118288cb|||{"dns":"0ms","tcp":"24ms","request":"77ms","response":"17ms","domLoaded":"611ms (610ms)","loadEvent":"0ms","total":"1237ms (1237ms)","apn":""}
+2017-11-01 18:46:10|71bdf92e92574509c70bd6bf12e688cb|||{"dns":"19ms","tcp":"52ms","request":"74ms","response":"8ms","domLoaded":"837ms (834ms)","loadEvent":"1ms","total":"2171ms (2170ms)","apn":""}
+2017-11-01 18:46:11|d40d5e2157a8a10e0a58437413b788cb|||{"dns":"0ms","tcp":"0ms","request":"117ms","response":"12ms","domLoaded":"270ms (270ms)","loadEvent":"1ms","total":"483ms (482ms)","apn":""}
+2017-11-01 18:46:13|d40d5e2157a8a10e0a58437413b788cb|||{"dns":"0ms","tcp":"0ms","request":"61ms","response":"3ms","domLoaded":"263ms (262ms)","loadEvent":"0ms","total":"405ms (405ms)","apn":""}
+2017-11-01 18:46:21|d40d5e2157a8a10e0a58437413b788cb|||{"dns":"0ms","tcp":"0ms","request":"84ms","response":"5ms","domLoaded":"244ms (243ms)","loadEvent":"0ms","total":"520ms (520ms)","apn":""}
+2017-11-01 18:46:28|d40d5e2157a8a10e0a58437413b788cb|||{"dns":"0ms","tcp":"0ms","request":"47ms","response":"6ms","domLoaded":"258ms (257ms)","loadEvent":"0ms","total":"400ms (400ms)","apn":""}
+2017-11-01 18:46:31|||1:498504588|{"dns":"24ms","tcp":"148ms (111ms)","request":"43ms","response":"86ms","domLoaded":"436ms (361ms)","loadEvent":"0ms","total":"921ms (921ms)"}
+2017-11-01 18:46:34|2007c83dc2938c5c941a6bee12c588cb|||{"dns":"37ms","tcp":"212ms (105ms)","request":"230ms","response":"20ms","domLoaded":"622ms (571ms)","loadEvent":"1ms","total":"1715ms (1714ms)","apn":"cmnet"}
+2017-11-01 18:46:35|d40d5e2157a8a10e0a58437413b788cb|||{"dns":"0ms","tcp":"0ms","request":"55ms","response":"5ms","domLoaded":"248ms (247ms)","loadEvent":"0ms","total":"433ms (433ms)","apn":""}
+2017-11-01 18:46:54||||{"dns":"0ms","tcp":"0ms","request":"116ms","response":"1ms","domLoaded":"325ms (324ms)","loadEvent":"0ms","total":"747ms (747ms)","apn":"wifi"}
+2017-11-01 18:46:59|d41b7b6e38f9c006606d2f1a122188cb||1:920535872|{"dns":"0ms","tcp":"168ms (94ms)","request":"107ms","response":"7ms","domLoaded":"478ms (321ms)","loadEvent":"0ms","total":"785ms (785ms)","apn":"cmnet"}
+2017-11-01 18:47:02|dc1a5ba25e3cab00070a5e7c11c188cb||1:905811438|{"dns":"151ms","tcp":"152ms (122ms)","request":"46ms","response":"4ms","domLoaded":"944ms (690ms)","loadEvent":"6ms","total":"1520ms (1514ms)","apn":"wonet"}
+2017-11-01 18:47:10|d40d5e2157a8a10e0a58437413b788cb|||{"dns":"0ms","tcp":"0ms","request":"80ms","response":"2ms","domLoaded":"4365ms (4364ms)","loadEvent":"0ms","total":"4555ms (4555ms)","apn":""}
+2017-11-01 18:48:00|ec2343560f4141135cb3f62213b788cb|||{"dns":"0ms","tcp":"33ms","request":"61ms","response":"28ms","domLoaded":"696ms (691ms)","loadEvent":"0ms","total":"1777ms (1777ms)","apn":""}
+2017-11-01 18:48:06|d40d5e2157a8a10e0a58437413b788cb|||{"dns":"0ms","tcp":"0ms","request":"344ms","response":"3ms","domLoaded":"263ms (262ms)","loadEvent":"6ms","total":"884ms (878ms)","apn":""}
+2017-11-01 18:48:37||||{"dns":"0ms","tcp":"0ms","request":"4ms","response":"4ms","domLoaded":"460ms (331ms)","loadEvent":"0ms","total":"518ms (517ms)","apn":""}
+2017-11-01 18:49:04|||1:226230871|{"dns":"7ms","tcp":"39ms (26ms)","request":"36ms","response":"3ms","domLoaded":"1288ms (904ms)","loadEvent":"0ms","total":"1645ms (1645ms)","apn":""}
+2017-11-01 18:49:41||||{"dns":"0ms","tcp":"0ms","request":"76ms","response":"1ms","domLoaded":"615ms (402ms)","loadEvent":"0ms","total":"712ms (712ms)","apn":""}
+2017-11-01 18:49:50|a867021845f389f91f6b0266122188cb|||{"dns":"28ms","tcp":"43ms","request":"192ms","response":"14ms","domLoaded":"2632ms (2619ms)","loadEvent":"2ms","total":"7606ms (7604ms)","apn":""}
+2017-11-01 18:49:53|d40d5e2157a8a10e0a58437413b788cb|||{"dns":"0ms","tcp":"0ms","request":"52ms","response":"5ms","domLoaded":"262ms (261ms)","loadEvent":"0ms","total":"435ms (435ms)","apn":""}
+2017-11-01 18:50:06|d40d5e2157a8a10e0a58437413b788cb|||{"dns":"0ms","tcp":"0ms","request":"65ms","response":"3ms","domLoaded":"421ms (420ms)","loadEvent":"0ms","total":"893ms (893ms)","apn":""}
+2017-11-01 18:50:07|d40d5e2157a8a10e0a58437413b788cb|||{"dns":"0ms","tcp":"0ms","request":"65ms","response":"9ms","domLoaded":"255ms (255ms)","loadEvent":"0ms","total":"404ms (404ms)","apn":""}
+2017-11-01 18:50:23|d40d5e2157a8a10e0a58437413b788cb|||{"dns":"0ms","tcp":"0ms","request":"66ms","response":"3ms","domLoaded":"262ms (261ms)","loadEvent":"1ms","total":"460ms (459ms)","apn":""}
+2017-11-01 18:50:40|d40d5e2157a8a10e0a58437413b788cb|||{"dns":"0ms","tcp":"0ms","request":"63ms","response":"5ms","domLoaded":"244ms (243ms)","loadEvent":"0ms","total":"383ms (383ms)","apn":""}
+2017-11-01 18:50:49|b99e51a45bcf419b0f57447712db88cb|||{"dns":"0ms","tcp":"17ms","request":"46ms","response":"15ms","domLoaded":"1183ms (1181ms)","loadEvent":"0ms","total":"2648ms (2647ms)","apn":""}
+2017-11-01 18:51:29|8b4d0cf509240c0a52942f2b13b788cb|||{"dns":"0ms","tcp":"36ms","request":"64ms","response":"118ms","domLoaded":"1667ms (1662ms)","loadEvent":"3ms","total":"3303ms (3299ms)","apn":""}
+2017-11-01 18:51:35|e5f41a3108324c72578de82b13b788cb|||{"dns":"0ms","tcp":"59ms","request":"95ms","response":"18ms","domLoaded":"799ms (796ms)","loadEvent":"0ms","total":"1869ms (1869ms)","apn":""}
+2017-11-01 18:51:37|ca066af4269cfac27fee700413b788cb|||{"dns":"0ms","tcp":"0ms","request":"91ms","response":"7ms","domLoaded":"1002ms (813ms)","loadEvent":"1ms","total":"1627ms (1626ms)","apn":"ctlte"}
+2017-11-01 18:51:44|d40d5e2157a8a10e0a58437413b788cb|||{"dns":"0ms","tcp":"0ms","request":"53ms","response":"2ms","domLoaded":"258ms (257ms)","loadEvent":"3ms","total":"405ms (402ms)","apn":""}
+2017-11-01 18:51:58|bc9b54a15f87d22908a0357213b788cb|||{"dns":"11ms","tcp":"29ms","request":"38ms","response":"128ms","domLoaded":"1237ms (1228ms)","loadEvent":"1ms","total":"4346ms (4345ms)","apn":""}
+2017-11-01 18:52:02|d40d5e2157a8a10e0a58437413b788cb|||{"dns":"0ms","tcp":"0ms","request":"87ms","response":"9ms","domLoaded":"250ms (250ms)","loadEvent":"0ms","total":"408ms (408ms)","apn":""}
+2017-11-01 18:52:12|d40d5e2157a8a10e0a58437413b788cb|||{"dns":"0ms","tcp":"0ms","request":"87ms","response":"76ms","domLoaded":"241ms (241ms)","loadEvent":"1ms","total":"473ms (472ms)","apn":""}
+2017-11-01 18:52:23|d40d5e2157a8a10e0a58437413b788cb|||{"dns":"0ms","tcp":"0ms","request":"101ms","response":"2ms","domLoaded":"263ms (262ms)","loadEvent":"2ms","total":"469ms (467ms)","apn":""}
+2017-11-01 18:52:53|b278465e5f5c85870617917c10ee88cb|||{"dns":"16ms","tcp":"57ms","request":"65ms","response":"37ms","domLoaded":"5612ms (5609ms)","loadEvent":"1ms","total":"68881ms (68880ms)","apn":""}
+2017-11-01 18:53:00|d40d5e2157a8a10e0a58437413b788cb|||{"dns":"0ms","tcp":"0ms","request":"216ms","response":"5ms","domLoaded":"432ms (431ms)","loadEvent":"0ms","total":"1046ms (1046ms)","apn":""}
+2017-11-01 18:53:16|d40d5e2157a8a10e0a58437413b788cb|||{"dns":"0ms","tcp":"0ms","request":"136ms","response":"3ms","domLoaded":"861ms (861ms)","loadEvent":"0ms","total":"1289ms (1288ms)","apn":""}
+2017-11-01 18:53:38|d1b3a6a830f7a10e6c12b41f377988cb||1:3558173929|{"dns":"0ms","tcp":"0ms","request":"106ms","response":"3ms","domLoaded":"524ms (465ms)","loadEvent":"1ms","total":"668ms (667ms)","apn":"Wlan"}
+2017-11-01 18:54:10|14d2936a96cd90b7cc42edb411b388cb|||{"dns":"0ms","tcp":"119ms (84ms)","request":"121ms","response":"10ms","domLoaded":"1069ms (800ms)","loadEvent":"1ms","total":"1356ms (1355ms)","apn":"cmnet"}
+2017-11-01 18:54:19|3a65d92dd671e7ab8ed4daf4122188cb|||{"dns":"0ms","tcp":"29ms","request":"73ms","response":"11ms","domLoaded":"1280ms (1279ms)","loadEvent":"0ms","total":"2963ms (2963ms)","apn":""}
+2017-11-01 18:55:08|39f5b166daf8632a8bcc54f712c588cb|||{"dns":"0ms","tcp":"122ms","request":"96ms","response":"16ms","domLoaded":"696ms (694ms)","loadEvent":"8ms","total":"1927ms (1919ms)","apn":""}
+2017-11-01 18:55:12|0475f11fe4f52eb4b62e76ca127c88cb|IQB79_GA/793650&IMTT_3/793650&IPH&468340&iPhone6&50001&10132&iOS11.0.3&V3|1:252395256|{"dns":"0ms","tcp":"0ms","request":"0ms","response":"1366ms","domLoaded":"2148ms (2033ms)","loadEvent":"0ms","total":"3522ms (3522ms)","apn":"wifi"}
+2017-11-01 18:55:31|d91579e73a0eb9dc6d0e8b1713b788cb|||{"dns":"0ms","tcp":"15ms","request":"312ms","response":"46ms","domLoaded":"3150ms (3095ms)","loadEvent":"1ms","total":"7446ms (7445ms)","apn":""}
+2017-11-01 18:55:35|e82e6f966a5e985732d9f34813b788cb|||{"dns":"23ms","tcp":"19ms","request":"29ms","response":"20ms","domLoaded":"1491ms (1488ms)","loadEvent":"0ms","total":"4480ms (4479ms)","apn":""}
+2017-11-01 18:55:38|39e0b3ccbb74a39fe3326999111088cb|IQB77_GA/773549&IMTT_3/773549&IPH&7713860&iPhone92&50001&10101&iOS11.0.3&V3||{"dns":"0ms","tcp":"0ms","request":"0ms","response":"437ms","domLoaded":"344ms (86ms)","loadEvent":"0ms","total":"1282ms (1281ms)","apn":"4g"}
+2017-11-01 18:55:38|d60f5c23552ccb5f072a1d76130388cb|||{"dns":"0ms","tcp":"18ms","request":"28ms","response":"83ms","domLoaded":"1792ms (1786ms)","loadEvent":"3ms","total":"3622ms (3619ms)","apn":""}
+2017-11-01 18:55:46|df06552a5dff472904f4cd7f13b788cb|||{"dns":"0ms","tcp":"0ms","request":"242ms","response":"2ms","domLoaded":"354ms (353ms)","loadEvent":"0ms","total":"938ms (938ms)","apn":""}
+2017-11-01 18:56:21|01c7867f8318cef1db8151a111dd88cb||1:545843089|{"dns":"29ms","tcp":"194ms (161ms)","request":"149ms","response":"18ms","domLoaded":"798ms (792ms)","loadEvent":"1ms","total":"1263ms (1262ms)","apn":""}
+2017-11-01 18:56:36|c0194a35436da9930a8c746013b788cb|||{"dns":"0ms","tcp":"41ms (25ms)","request":"297ms","response":"23ms","domLoaded":"1433ms (955ms)","loadEvent":"1ms","total":"2066ms (2065ms)","apn":"Wlan"}
+2017-11-01 18:56:52|d40d5e2157a8a10e0a58437413b788cb|||{"dns":"0ms","tcp":"0ms","request":"275ms","response":"3ms","domLoaded":"671ms (670ms)","loadEvent":"1ms","total":"9401ms (9400ms)","apn":""}
+2017-11-01 18:57:39|8ea966936f6fb67f3a4b6540121f88cb|||{"dns":"100ms","tcp":"31ms","request":"365ms","response":"23ms","domLoaded":"2618ms (2615ms)","loadEvent":"1ms","total":"5311ms (5310ms)","apn":""}
+2017-11-01 18:57:48|d40d5e2157a8a10e0a58437413b788cb|||{"dns":"0ms","tcp":"0ms","request":"95ms","response":"2ms","domLoaded":"1005ms (1004ms)","loadEvent":"0ms","total":"1241ms (1241ms)","apn":""}
+2017-11-01 18:57:48|77bbd749949aa1fac3638eb9112488cb|||{"dns":"0ms","tcp":"0ms","request":"133ms","response":"20ms","domLoaded":"755ms (754ms)","loadEvent":"0ms","total":"1206ms (1206ms)","apn":""}
+2017-11-01 18:57:58|d40d5e2157a8a10e0a58437413b788cb|||{"dns":"0ms","tcp":"0ms","request":"73ms","response":"2ms","domLoaded":"248ms (247ms)","loadEvent":"0ms","total":"407ms (407ms)","apn":""}
+2017-11-01 18:58:08|d40d5e2157a8a10e0a58437413b788cb|||{"dns":"0ms","tcp":"0ms","request":"49ms","response":"3ms","domLoaded":"235ms (234ms)","loadEvent":"4ms","total":"344ms (340ms)","apn":""}
+2017-11-01 18:58:24|f4ab81da18c0337c4083df3a13a688cb|||{"dns":"3ms","tcp":"77ms (47ms)","request":"34ms","response":"2ms","domLoaded":"1208ms (1206ms)","loadEvent":"0ms","total":"1609ms (1609ms)","apn":"Wlan"}
+2017-11-01 18:58:50|27feadd2a50bb641fc9ee18713b788cb|||{"dns":"0ms","tcp":"193ms (87ms)","request":"101ms","response":"10ms","domLoaded":"202ms (179ms)","loadEvent":"0ms","total":"542ms (541ms)","apn":"cmnet"}
+2017-11-01 18:58:53|27feadd2a50bb641fc9ee18713b788cb|||{"dns":"0ms","tcp":"0ms","request":"138ms","response":"4ms","domLoaded":"227ms (202ms)","loadEvent":"0ms","total":"409ms (409ms)","apn":"cmnet"}
+2017-11-01 18:59:14|||1:1293660873|{"dns":"0ms","tcp":"0ms","request":"0ms","response":"368ms","domLoaded":"874ms (545ms)","loadEvent":"1ms","total":"1320ms (1319ms)"}
+2017-11-01 19:00:20|c528f0b7466d6c1d1f80b26513b788cb|||{"dns":"0ms","tcp":"28ms","request":"56ms","response":"23ms","domLoaded":"1193ms (1192ms)","loadEvent":"1ms","total":"2448ms (2447ms)","apn":""}
+2017-11-01 19:01:24|25fcafd0a76d2964fff5b38513b788cb|||{"dns":"0ms","tcp":"80ms","request":"140ms","response":"15ms","domLoaded":"606ms (603ms)","loadEvent":"1ms","total":"1423ms (1422ms)","apn":""}
+2017-11-01 19:01:34||||{"dns":"12ms","tcp":"71ms (59ms)","request":"24ms","response":"2ms","domLoaded":"1065ms (789ms)","loadEvent":"1ms","total":"1390ms (1389ms)","apn":""}
+2017-11-01 19:01:47|1ec794eb938b1180c6bb4ebe13b788cb|||{"dns":"0ms","tcp":"110ms (53ms)","request":"67ms","response":"5ms","domLoaded":"958ms (481ms)","loadEvent":"1ms","total":"1173ms (1172ms)","apn":"wonet"}
+2017-11-01 19:02:01|5e943120b29576d4eaad4f9013bf88cb||1:923324794|{"dns":"200ms","tcp":"400ms (281ms)","request":"144ms","response":"11ms","domLoaded":"1795ms (1480ms)","loadEvent":"1ms","total":"2592ms (2591ms)","apn":"cmnet"}
+2017-11-01 19:02:42|22e84d5ccf009688928090ec13b788cb||2:o9GiTuAnY66xWnuB2rjR5vvITY4c|{"dns":"0ms","tcp":"0ms","request":"49ms","response":"2ms","domLoaded":"624ms (409ms)","loadEvent":"1ms","total":"701ms (700ms)","apn":"Wlan"}
+2017-11-01 19:03:08|f83757421b25b55d4d1d923613b788cb|||{"dns":"0ms","tcp":"0ms","request":"104ms","response":"1ms","domLoaded":"458ms (457ms)","loadEvent":"0ms","total":"623ms (623ms)","apn":"Wlan"}
+2017-11-01 19:03:12|e32f43dd0fc3185e5706fd2d111488cb|||{"dns":"0ms","tcp":"29ms","request":"66ms","response":"14ms","domLoaded":"528ms (526ms)","loadEvent":"1ms","total":"1634ms (1633ms)","apn":""}
+2017-11-01 19:03:15|884e0ff60a996292526dbe2813b788cb|||{"dns":"0ms","tcp":"288ms","request":"60ms","response":"17ms","domLoaded":"834ms (833ms)","loadEvent":"1ms","total":"2364ms (2363ms)","apn":""}
+2017-11-01 19:03:37|03da89f680501313d90494a312d488cb|||{"dns":"0ms","tcp":"75ms","request":"92ms","response":"17ms","domLoaded":"1195ms (1159ms)","loadEvent":"1ms","total":"4352ms (4351ms)","apn":""}
+2017-11-01 19:03:50|1851f0c4f4726b36aeb4add6117d88cb|||{"dns":"11ms","tcp":"26ms","request":"35ms","response":"20ms","domLoaded":"839ms (838ms)","loadEvent":"1ms","total":"1968ms (1967ms)","apn":""}
+2017-11-01 19:03:52|6a4d8277892b6d18dca7a1a413b788cb|||{"dns":"0ms","tcp":"28ms","request":"60ms","response":"29ms","domLoaded":"765ms (758ms)","loadEvent":"2ms","total":"2395ms (2392ms)","apn":""}
+2017-11-01 19:04:20|f731708974956b082e8caf5713b788cb||2:o9GiTuD8EQx57QN5AS5cmYSMX-D8|{"dns":"0ms","tcp":"261ms (168ms)","request":"234ms","response":"13ms","domLoaded":"1296ms (917ms)","loadEvent":"4ms","total":"2929ms (2925ms)","apn":"cmnet"}
+2017-11-01 19:04:34|db02512e58c6e5a104a6e77b13b788cb||1:671515461|{"dns":"35ms","tcp":"289ms (219ms)","request":"87ms","response":"6ms","domLoaded":"820ms (734ms)","loadEvent":"1ms","total":"1257ms (1255ms)","apn":""}
+2017-11-01 19:04:35|ad62021741ad03291a3e7d6313b788cb|||{"dns":"0ms","tcp":"0ms","request":"602ms","response":"24ms","domLoaded":"1980ms (1979ms)","loadEvent":"0ms","total":"2884ms (2884ms)","apn":""}
+2017-11-01 19:04:53|63bae996e09aa018b3245dc3100e88cb||1:1345038256|{"dns":"122ms","tcp":"260ms (161ms)","request":"82ms","response":"5ms","domLoaded":"946ms (742ms)","loadEvent":"0ms","total":"1436ms (1436ms)","apn":"cmnet"}
+2017-11-01 19:05:33||||{"dns":"20ms","tcp":"173ms (152ms)","request":"38ms","response":"30ms","domLoaded":"5516ms (5516ms)","loadEvent":"0ms","total":"5896ms (5896ms)"}
+2017-11-01 19:05:57|7bb4d4c19736700ece42a2b513b788cb||1:531523374|{"dns":"0ms","tcp":"0ms","request":"5ms","response":"12ms","domLoaded":"569ms (567ms)","loadEvent":"0ms","total":"607ms (607ms)","apn":""}
+2017-11-01 19:06:00|||1:1243441962|{"dns":"0ms","tcp":"0ms","request":"0ms","response":"320ms","domLoaded":"373ms (372ms)","loadEvent":"0ms","total":"700ms (700ms)"}
+2017-11-01 19:06:38|14deb76df7cbd361a06f55da13b788cb||1:1572689891|{"dns":"0ms","tcp":"0ms","request":"102ms","response":"7ms","domLoaded":"1106ms (785ms)","loadEvent":"0ms","total":"1244ms (1243ms)","apn":"cmnet"}
+2017-11-01 19:06:46||||{"dns":"2ms","tcp":"171ms (95ms)","request":"89ms","response":"13ms","domLoaded":"1090ms (733ms)","loadEvent":"1ms","total":"1874ms (1873ms)","apn":""}
+2017-11-01 19:06:48|5473bc49b70d2143eca9739a13b788cb|||{"dns":"0ms","tcp":"45ms","request":"93ms","response":"31ms","domLoaded":"1518ms (1517ms)","loadEvent":"1ms","total":"3493ms (3491ms)","apn":""}
+2017-11-01 19:07:11||||{"dns":"0ms","tcp":"0ms","request":"3ms","response":"3ms","domLoaded":"376ms (332ms)","loadEvent":"9ms","total":"422ms (413ms)","apn":""}
+2017-11-01 19:07:32|af630c41437437d01b89616111b888cb|IQB79_GA/793650&IMTT_3/793650&IPH&468340&iPhone6&50001&10132&iOS11.0.3&V3|1:1032775106|{"dns":"0ms","tcp":"0ms","request":"0ms","response":"414ms","domLoaded":"2063ms (573ms)","loadEvent":"0ms","total":"3271ms (3271ms)","apn":"wifi"}
+2017-11-01 19:07:36|||1:752186062|{"dns":"0ms","tcp":"0ms","request":"0ms","response":"144ms","domLoaded":"336ms (335ms)","loadEvent":"0ms","total":"430ms (430ms)"}
+2017-11-01 19:07:56||||{"dns":"16ms","tcp":"78ms (62ms)","request":"46ms","response":"1ms","domLoaded":"329ms (311ms)","loadEvent":"0ms","total":"532ms (532ms)","apn":""}
+2017-11-01 19:08:04|3557424cd75d363480be67fb13b788cb|||{"dns":"0ms","tcp":"0ms","request":"86ms","response":"20ms","domLoaded":"417ms (415ms)","loadEvent":"0ms","total":"699ms (699ms)","apn":""}
+2017-11-01 19:08:05|9dffeae47ccfe173229f6c5313c388cb|||{"dns":"19ms","tcp":"68ms","request":"84ms","response":"486ms","domLoaded":"4233ms (4208ms)","loadEvent":"1ms","total":"9538ms (9537ms)","apn":""}
+2017-11-01 19:08:54|9dffeae47ccfe173229f6c5313c388cb|||{"dns":"1ms","tcp":"64ms","request":"527ms","response":"78ms","domLoaded":"6538ms (6409ms)","loadEvent":"2ms","total":"13220ms (13024ms)","apn":""}
+2017-11-01 19:09:02|510eb246bdca1c0ce6fdcb9f11c188cb||1:982871651|{"dns":"133ms","tcp":"205ms (154ms)","request":"60ms","response":"9ms","domLoaded":"1558ms (780ms)","loadEvent":"0ms","total":"2009ms (2009ms)","apn":"Wlan"}
+2017-11-01 19:09:06|c60ca9b82a297ec973502708117888cb|||{"dns":"0ms","tcp":"327ms (188ms)","request":"234ms","response":"3ms","domLoaded":"2966ms (2286ms)","loadEvent":"1ms","total":"4547ms (4546ms)","apn":"3gnet"}
+2017-11-01 19:09:09|d40d5e2157a8a10e0a58437413b788cb|||{"dns":"0ms","tcp":"0ms","request":"58ms","response":"3ms","domLoaded":"273ms (272ms)","loadEvent":"0ms","total":"403ms (403ms)","apn":""}
+2017-11-01 19:09:11||||{"dns":"19ms","tcp":"125ms (64ms)","request":"75ms","response":"5ms","domLoaded":"1161ms (924ms)","loadEvent":"1ms","total":"1460ms (1459ms)","apn":""}
+2017-11-01 19:09:18|d40d5e2157a8a10e0a58437413b788cb|||{"dns":"0ms","tcp":"0ms","request":"106ms","response":"12ms","domLoaded":"284ms (284ms)","loadEvent":"1ms","total":"470ms (469ms)","apn":""}
+2017-11-01 19:09:42|76bcd50f95ceb539c6c499b813b788cb|||{"dns":"0ms","tcp":"262ms (102ms)","request":"123ms","response":"10ms","domLoaded":"479ms (427ms)","loadEvent":"1ms","total":"916ms (915ms)","apn":"Wlan"}
+2017-11-01 19:09:43|d40d5e2157a8a10e0a58437413b788cb|||{"dns":"0ms","tcp":"0ms","request":"627ms","response":"3ms","domLoaded":"1366ms (1366ms)","loadEvent":"1ms","total":"3018ms (3017ms)","apn":""}
+2017-11-01 19:09:58|d40d5e2157a8a10e0a58437413b788cb|||{"dns":"0ms","tcp":"0ms","request":"217ms","response":"3ms","domLoaded":"398ms (397ms)","loadEvent":"0ms","total":"792ms (792ms)","apn":""}
+2017-11-01 19:10:01|7bb4d4c19736700ece42a2b513b788cb||1:531523374|{"dns":"0ms","tcp":"0ms","request":"2ms","response":"9ms","domLoaded":"582ms (580ms)","loadEvent":"0ms","total":"607ms (607ms)","apn":""}
+2017-11-01 19:10:05|1d426833f121d3c9a922a1d311f588cb|||{"dns":"0ms","tcp":"32ms","request":"47ms","response":"242ms","domLoaded":"2345ms (2333ms)","loadEvent":"8ms","total":"4584ms (4575ms)","apn":""}
+2017-11-01 19:10:19|2ae5809ac7495e909adf51e4105588cb|IQB77_GA/773549&IMTT_3/773549&IPH&7713860&iPhone92&50001&10101&iOS10.2&V3|1:1491821421|{"dns":"0ms","tcp":"0ms","request":"0ms","response":"362ms","domLoaded":"135ms (89ms)","loadEvent":"0ms","total":"503ms (503ms)","apn":"4g"}
+2017-11-01 19:10:26|2839d7fcc5f0c4619b85ece610ee88cb|||{"dns":"0ms","tcp":"61ms","request":"161ms","response":"45ms","domLoaded":"1474ms (1472ms)","loadEvent":"1ms","total":"3666ms (3665ms)","apn":""}
+2017-11-01 19:10:51|||1:448254839|{"dns":"0ms","tcp":"0ms","request":"0ms","response":"256ms","domLoaded":"324ms (323ms)","loadEvent":"0ms","total":"566ms (566ms)"}
+2017-11-01 19:11:09|7bb4d4c19736700ece42a2b513b788cb||1:531523374|{"dns":"0ms","tcp":"0ms","request":"2ms","response":"11ms","domLoaded":"592ms (590ms)","loadEvent":"10ms","total":"623ms (613ms)","apn":""}
+2017-11-01 19:11:16|0ac0fee6e75d5739bf2971c4103a88cb||1:939412554|{"dns":"70ms","tcp":"203ms (156ms)","request":"66ms","response":"5ms","domLoaded":"1003ms (628ms)","loadEvent":"0ms","total":"1391ms (1391ms)","apn":"Wlan"}
+2017-11-01 19:11:19|d40d5e2157a8a10e0a58437413b788cb|||{"dns":"0ms","tcp":"0ms","request":"184ms","response":"4ms","domLoaded":"237ms (237ms)","loadEvent":"0ms","total":"1216ms (1216ms)","apn":""}
+2017-11-01 19:11:46|e3b89b44030044bd53abe02d377988cb|||{"dns":"0ms","tcp":"31ms","request":"40ms","response":"15ms","domLoaded":"1658ms (1657ms)","loadEvent":"2ms","total":"4357ms (4355ms)","apn":""}
+2017-11-01 19:12:07|559afaefb6d4c20ae083779b116488cb|||{"dns":"0ms","tcp":"86ms (41ms)","request":"52ms","response":"2ms","domLoaded":"672ms (390ms)","loadEvent":"0ms","total":"839ms (839ms)","apn":"Wlan"}
+2017-11-01 19:12:25|af8847b24ce6fbf61e31bb6113b788cb|||{"dns":"31ms","tcp":"14ms","request":"22ms","response":"18ms","domLoaded":"912ms (903ms)","loadEvent":"2ms","total":"2332ms (2330ms)","apn":""}
+2017-11-01 19:12:30|75648aa198c24526c2ae61bb100588cb||1:1078353242|{"dns":"28ms","tcp":"197ms (158ms)","request":"213ms","response":"8ms","domLoaded":"1016ms (1014ms)","loadEvent":"1ms","total":"2351ms (2350ms)","apn":""}
+2017-11-01 19:12:31||||{"dns":"42ms","tcp":"118ms","request":"104ms","response":"49ms","domLoaded":"919ms (771ms)","loadEvent":"0ms","total":"2147ms (2147ms)","apn":""}
+2017-11-01 19:13:06||||{"dns":"0ms","tcp":"0ms","request":"0ms","response":"50ms","domLoaded":"276ms (180ms)","loadEvent":"0ms","total":"333ms (329ms)"}
+2017-11-01 19:13:26|4a85e5f0a60972d6ff990c8411f588cb|||{"dns":"0ms","tcp":"153ms","request":"136ms","response":"15ms","domLoaded":"1287ms (1285ms)","loadEvent":"8ms","total":"2752ms (2744ms)","apn":""}
+2017-11-01 19:13:28|d40d5e2157a8a10e0a58437413b788cb|||{"dns":"0ms","tcp":"0ms","request":"128ms","response":"7ms","domLoaded":"468ms (467ms)","loadEvent":"0ms","total":"1874ms (1874ms)","apn":""}
+2017-11-01 19:13:33||||{"dns":"0ms","tcp":"0ms","request":"9ms","response":"4ms","domLoaded":"472ms (396ms)","loadEvent":"7ms","total":"1166ms (1159ms)","apn":""}
+2017-11-01 19:13:44|e31b762b60b830bb3e0be64313b788cb||1:1101020179|{"dns":"0ms","tcp":"255ms (143ms)","request":"191ms","response":"22ms","domLoaded":"1261ms (930ms)","loadEvent":"1ms","total":"1732ms (1731ms)","apn":""}
+2017-11-01 19:14:05|4b143e65a76b4274ffa0ca8513b788cb|||{"dns":"0ms","tcp":"41ms","request":"78ms","response":"32ms","domLoaded":"511ms (508ms)","loadEvent":"1ms","total":"1395ms (1394ms)","apn":""}
+2017-11-01 19:14:13|36f9998cd54f6a0282671bf813b788cb|||{"dns":"0ms","tcp":"37ms","request":"60ms","response":"6ms","domLoaded":"731ms (726ms)","loadEvent":"1ms","total":"1988ms (1987ms)","apn":""}
+2017-11-01 19:14:39|17d190699471a8a6ce14e1b713b788cb|||{"dns":"0ms","tcp":"79ms","request":"99ms","response":"63ms","domLoaded":"3769ms (3767ms)","loadEvent":"1ms","total":"7820ms (7818ms)","apn":""}
+2017-11-01 19:15:21||||{"dns":"0ms","tcp":"0ms","request":"66ms","response":"20ms","domLoaded":"494ms (429ms)","loadEvent":"10ms","total":"989ms (979ms)","apn":""}
+2017-11-01 19:16:12|33684b97d1dae00e840c01fd13b788cb|||{"dns":"0ms","tcp":"0ms","request":"4ms","response":"23ms","domLoaded":"836ms (833ms)","loadEvent":"1ms","total":"896ms (895ms)","apn":""}
+2017-11-01 19:16:24|3cf39386d01278a988f4bdf213b788cb||1:1012052621|{"dns":"0ms","tcp":"0ms","request":"1ms","response":"16ms","domLoaded":"382ms (381ms)","loadEvent":"0ms","total":"409ms (409ms)","apn":""}
+2017-11-01 19:16:44|4c6ba451ae1c4fc9f8375a8212e988cb|||{"dns":"0ms","tcp":"207ms","request":"152ms","response":"356ms","domLoaded":"5040ms (5030ms)","loadEvent":"2ms","total":"14535ms (14532ms)","apn":""}
+2017-11-01 19:16:50|0ac5a0bae7460442bcb9bcc4117888cb|||{"dns":"0ms","tcp":"103ms (41ms)","request":"74ms","response":"5ms","domLoaded":"819ms (612ms)","loadEvent":"1ms","total":"1027ms (1026ms)","apn":"cmnet"}
+2017-11-01 19:17:04|13ca99e69172c050cadcffb3111188cb|||{"dns":"0ms","tcp":"95ms (50ms)","request":"74ms","response":"12ms","domLoaded":"1199ms (764ms)","loadEvent":"0ms","total":"1806ms (1806ms)","apn":"cmnet"}
+2017-11-01 19:17:13|c6d5b85c27a41f5d717e910813bf88cb||2:o9GiTuFWs7K2IuOweXxbmZ_3iiYY|{"dns":"0ms","tcp":"0ms","request":"30ms","response":"6ms","domLoaded":"1661ms (1296ms)","loadEvent":"1ms","total":"1741ms (1740ms)","apn":"Wlan"}
+2017-11-01 19:17:29|c208adbc2f5a6a0e71ce130c13b788cb||1:286897189|{"dns":"0ms","tcp":"0ms","request":"2ms","response":"15ms","domLoaded":"354ms (348ms)","loadEvent":"3ms","total":"384ms (380ms)","apn":""}
+2017-11-01 19:17:34|d40d5e2157a8a10e0a58437413b788cb|||{"dns":"0ms","tcp":"0ms","request":"68ms","response":"2ms","domLoaded":"202ms (201ms)","loadEvent":"0ms","total":"355ms (355ms)","apn":""}
+2017-11-01 19:17:39|7fb3df41930b906ec80123b113b788cb|||{"dns":"0ms","tcp":"70ms","request":"104ms","response":"27ms","domLoaded":"819ms (817ms)","loadEvent":"0ms","total":"2437ms (2436ms)","apn":""}
+2017-11-01 19:17:44||||{"dns":"115ms","tcp":"293ms (214ms)","request":"142ms","response":"6ms","domLoaded":"5897ms (5896ms)","loadEvent":"0ms","total":"6608ms (6607ms)","apn":""}
+2017-11-01 19:18:00|30e9bac5b313b9cfe8bff49013b788cb||1:326950246|{"dns":"0ms","tcp":"0ms","request":"56ms","response":"7ms","domLoaded":"1005ms (1004ms)","loadEvent":"0ms","total":"1112ms (1112ms)","apn":""}
+2017-11-01 19:18:02|5699f9ecb5c411a8e0ec3e9813b788cb|||{"dns":"0ms","tcp":"0ms","request":"316ms","response":"19ms","domLoaded":"828ms (826ms)","loadEvent":"14ms","total":"1715ms (1700ms)","apn":""}
+2017-11-01 19:18:15|0bf39ec3898a4865d0c661ab13b788cb|||{"dns":"24ms","tcp":"57ms","request":"67ms","response":"14ms","domLoaded":"","loadEvent":"","total":"","apn":""}
+2017-11-01 19:18:44|78a1f28dfbbd79ddaccea9d8100c88cb|IQB77_GA/773549&IMTT_3/773549&IPH&6712040&iPhone6sp&50001&10101&iOS10.3.3&V3|1:417365855|{"dns":"0ms","tcp":"0ms","request":"0ms","response":"301ms","domLoaded":"108ms (80ms)","loadEvent":"0ms","total":"404ms (404ms)","apn":"wifi"}
+2017-11-01 19:18:51|da93320636b3728a6c42ba1413b788cb|||{"dns":"55ms","tcp":"69ms","request":"79ms","response":"21ms","domLoaded":"1248ms (1246ms)","loadEvent":"2ms","total":"3573ms (3571ms)","apn":""}
+2017-11-01 19:19:16|||1:610840004|{"dns":"0ms","tcp":"0ms","request":"40ms","response":"3ms","domLoaded":"2308ms (526ms)","loadEvent":"8ms","total":"2688ms (2680ms)","apn":""}
+2017-11-01 19:19:24|4562ad58a66ec2a1f6b1b58b12bc88cb|||{"dns":"0ms","tcp":"87ms","request":"140ms","response":"35ms","domLoaded":"1374ms (1372ms)","loadEvent":"1ms","total":"4066ms (4065ms)","apn":""}
+2017-11-01 19:19:46|9d4417681e31c82557ec823d13b788cb|||{"dns":"0ms","tcp":"283ms","request":"101ms","response":"8ms","domLoaded":"240ms (240ms)","loadEvent":"0ms","total":"760ms (760ms)","apn":""}
+2017-11-01 19:20:58||||{"dns":"6ms","tcp":"26ms","request":"56ms","response":"15ms","domLoaded":"1375ms (833ms)","loadEvent":"0ms","total":"1774ms (1773ms)","apn":""}
+2017-11-01 19:22:29|cd0145922e90cb94683a3f0313b788cb||1:1259349863|{"dns":"49ms","tcp":"335ms (223ms)","request":"163ms","response":"22ms","domLoaded":"1398ms (1384ms)","loadEvent":"1ms","total":"1995ms (1994ms)","apn":""}
+2017-11-01 19:22:31|7e5996639c03bd6cc80e74b012e588cb|||{"dns":"0ms","tcp":"33ms","request":"113ms","response":"42ms","domLoaded":"2908ms (2882ms)","loadEvent":"2ms","total":"5087ms (5085ms)","apn":""}
+2017-11-01 19:22:55|6fb6e59aedfba630b78c73cf122188cb|||{"dns":"0ms","tcp":"38ms","request":"104ms","response":"86ms","domLoaded":"929ms (926ms)","loadEvent":"2ms","total":"1354ms (1352ms)","apn":""}
+2017-11-01 19:23:00|9841126d1b2646e650e48c3813b788cb|||{"dns":"0ms","tcp":"20ms","request":"50ms","response":"19ms","domLoaded":"402ms (401ms)","loadEvent":"0ms","total":"669ms (669ms)","apn":""}
+2017-11-01 19:23:12|35ff964cd978c6c8809e04fb11ec88cb||1:1772606348|{"dns":"0ms","tcp":"60ms (60ms)","request":"23ms","response":"6ms","domLoaded":"291ms (182ms)","loadEvent":"0ms","total":"404ms (404ms)","apn":"Wlan"}
+2017-11-01 19:23:21|4265aa5fa04fd46bf77ff68c120f88cb|||{"dns":"0ms","tcp":"0ms","request":"93ms","response":"20ms","domLoaded":"703ms (465ms)","loadEvent":"0ms","total":"938ms (938ms)","apn":"Wlan"}
+2017-11-01 19:24:31||||{"dns":"1ms","tcp":"66ms (34ms)","request":"110ms","response":"4ms","domLoaded":"835ms (509ms)","loadEvent":"0ms","total":"1221ms (1220ms)","apn":""}
+2017-11-01 19:24:51|5089daa5d255975b881a49f013b788cb|||{"dns":"0ms","tcp":"13ms","request":"48ms","response":"5ms","domLoaded":"871ms (869ms)","loadEvent":"1ms","total":"1872ms (1871ms)","apn":""}
+2017-11-01 19:24:52|2031dff4cd8523cc9559baee114888cb||1:1105206427|{"dns":"0ms","tcp":"0ms","request":"66ms","response":"13ms","domLoaded":"634ms (628ms)","loadEvent":"0ms","total":"724ms (724ms)","apn":""}
+2017-11-01 19:24:53|a26425dc204b3d1078e7c902122188cb|||{"dns":"0ms","tcp":"20ms","request":"67ms","response":"4ms","domLoaded":"942ms (940ms)","loadEvent":"0ms","total":"2471ms (2471ms)","apn":""}
+2017-11-01 19:24:54|36f0b148b4cb3110edceba9613b788cb|||{"dns":"0ms","tcp":"39ms","request":"56ms","response":"6ms","domLoaded":"683ms (679ms)","loadEvent":"1ms","total":"1619ms (1618ms)","apn":""}
+2017-11-01 19:24:59|3b2845a1da5d4d448c5d15f5124e88cb||1:1613406661|{"dns":"0ms","tcp":"0ms","request":"172ms","response":"10ms","domLoaded":"583ms (561ms)","loadEvent":"0ms","total":"892ms (892ms)","apn":"Wlan"}
+2017-11-01 19:25:00||||{"dns":"0ms","tcp":"0ms","request":"2ms","response":"5ms","domLoaded":"242ms (208ms)","loadEvent":"1ms","total":"283ms (282ms)","apn":""}
+2017-11-01 19:25:19|27e8889dcb7b585a915591e911ec88cb|||{"dns":"25ms","tcp":"44ms","request":"45ms","response":"29ms","domLoaded":"668ms (661ms)","loadEvent":"0ms","total":"2547ms (2546ms)","apn":""}
+2017-11-01 19:25:57|a86707124b5a6ef71e193b6613b788cb||2:o9GiTuLp5odYLXRcxh0r5C2HS4-g|{"dns":"0ms","tcp":"79ms (52ms)","request":"52ms","response":"4ms","domLoaded":"399ms (254ms)","loadEvent":"0ms","total":"797ms (797ms)","apn":"cmnet"}
+2017-11-01 19:26:04|7f209c68932b5330cb21d2b111ec88cb|||{"dns":"0ms","tcp":"159ms","request":"83ms","response":"13ms","domLoaded":"344ms (342ms)","loadEvent":"0ms","total":"820ms (820ms)","apn":""}
+2017-11-01 19:26:16|2031dff4cd8523cc9559baee114888cb||1:1105206427|{"dns":"0ms","tcp":"0ms","request":"4ms","response":"11ms","domLoaded":"358ms (357ms)","loadEvent":"0ms","total":"383ms (383ms)","apn":""}
+2017-11-01 19:26:34|da15756036d8e4f96d61c61413b788cb|||{"dns":"0ms","tcp":"87ms","request":"107ms","response":"15ms","domLoaded":"1009ms (1005ms)","loadEvent":"1ms","total":"2667ms (2666ms)","apn":""}
+2017-11-01 19:26:58||||{"dns":"0ms","tcp":"69ms","request":"113ms","response":"8ms","domLoaded":"358ms (342ms)","loadEvent":"0ms","total":"861ms (861ms)","apn":""}
+2017-11-01 19:27:01|599fde27dbb576b0837c91f911c188cb|||{"dns":"0ms","tcp":"19ms","request":"69ms","response":"19ms","domLoaded":"1109ms (1107ms)","loadEvent":"11ms","total":"2633ms (2622ms)","apn":""}
+2017-11-01 19:27:20|7db7120390f6cdb5cc5559b3101b88cb|||{"dns":"0ms","tcp":"0ms","request":"104ms","response":"13ms","domLoaded":"280ms (279ms)","loadEvent":"5ms","total":"1209ms (1204ms)","apn":""}
+2017-11-01 19:27:29|d21e5a8d31e96c75672af11c129688cb|||{"dns":"81ms","tcp":"60ms","request":"87ms","response":"82ms","domLoaded":"2768ms (2766ms)","loadEvent":"1ms","total":"4656ms (4655ms)","apn":""}
+2017-11-01 19:27:33|18d49047fb10c8bbac1b09d612d488cb|||{"dns":"0ms","tcp":"0ms","request":"480ms","response":"21ms","domLoaded":"946ms (945ms)","loadEvent":"0ms","total":"2688ms (2688ms)","apn":""}
+2017-11-01 19:27:47|96b17e8b75cf1ce629aad45813b788cb|||{"dns":"0ms","tcp":"0ms","request":"330ms","response":"28ms","domLoaded":"4171ms (4158ms)","loadEvent":"1ms","total":"6556ms (6555ms)","apn":""}
+2017-11-01 19:28:01|b56c3f403634aefa6f536c1510ee88cb|||{"dns":"0ms","tcp":"26ms","request":"58ms","response":"12ms","domLoaded":"1232ms (1230ms)","loadEvent":"1ms","total":"2206ms (2205ms)","apn":""}
+2017-11-01 19:28:03|e53c6f1067be71843fda5d4513b788cb|||{"dns":"0ms","tcp":"184ms","request":"89ms","response":"4ms","domLoaded":"637ms (636ms)","loadEvent":"4ms","total":"1485ms (1480ms)","apn":""}
+2017-11-01 19:28:19||||{"dns":"0ms","tcp":"0ms","request":"0ms","response":"307ms","domLoaded":"325ms (323ms)","loadEvent":"0ms","total":"473ms (471ms)"}
