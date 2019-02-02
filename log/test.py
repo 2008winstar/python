@@ -1,5 +1,6 @@
 import re
 
+sum = 0
 f = open('log.txt')
 p = open('pro.txt', 'a')
 
